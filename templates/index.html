@@ -1,44 +1,73 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Salary Predictor</title>
+    <title>Global Salary Predictor</title>
 
     <style>
         body {
+            margin: 0;
             font-family: Arial;
-            background: linear-gradient(to right, #4facfe, #00f2fe);
+            height: 100vh;
+            display: flex;
+            justify-content: center;   /* horizontal center */
+            align-items: center;       /* vertical center */
+            overflow: hidden;
+            background: url("/static/images/GSP_bg1.jpg") no-repeat center center/cover;
         }
 
+        /* Background slideshow */
+        .background {
+            position: fixed;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+        }
+
+        .background img {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            opacity: 0;
+            transition: opacity 2s ease-in-out;
+        }
+
+        .background img.active {
+            opacity: 1;
+        }
+
+        /* Glass card */
         .container {
             width: 420px;
-            margin: 60px auto;
-            background: white;
-            padding: 25px;
+            background: rgba(0, 0, 0, 0.5);
+             padding: 25px;
             border-radius: 12px;
-            box-shadow: 0px 10px 25px rgba(0,0,0,0.2);
-        }
-
+            backdrop-filter: blur(10px);
+            box-shadow: 0px 10px 25px rgba(0,0,0,0.3);
+            color: rgb(151, 199, 225);
+}
         input, select {
             width: 100%;
             padding: 10px;
             margin: 8px 0;
+            border-radius: 6px;
+            border: none;
         }
 
         button {
             width: 48%;
             padding: 10px;
-            margin-top: 10px;
             border: none;
-            color: white;
+            color: rgb(241, 252, 90);
             cursor: pointer;
         }
 
         .predict {
-            background: #4facfe;
+            background: #8105e7;
         }
 
         .reset {
-            background: #ff5c5c;
+            background: #b312c8;
         }
 
         .result {
@@ -91,8 +120,17 @@
 
 <body>
 
+<!-- Background slideshow -->
+<div class="background">
+    <img src="{{ url_for('static', filename='images/GSP_bg1.jpg') }}" class="active">
+    <img src="{{ url_for('static', filename='images/GSP_bg2.jpg') }}">
+    <img src="{{ url_for('static', filename='images/GSP_bg3.jpg') }}">
+    <img src="{{ url_for('static', filename='images/GSP_bg4.jpg') }}">
+    <img src="{{ url_for('static', filename='images/GSP_bg5.jpg') }}">
+</div>
+
 <div class="container">
-    <h2>💰 Salary Predictor</h2>
+    <h2>💰 Global Salary Predictor</h2>
 
     <form action="/predict" method="post">
 
@@ -133,6 +171,15 @@
 
 <script>
     updateLocations();
+
+    const images = document.querySelectorAll(".background img");
+    let index = 0;
+
+    setInterval(() => {
+        images[index].classList.remove("active");
+        index = (index + 1) % images.length;
+        images[index].classList.add("active");
+    }, 5000);
 </script>
 
 </body>
