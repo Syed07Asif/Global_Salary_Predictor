@@ -1,0 +1,3501 @@
+Experience,Education,JobRole,Location,Country,Salary_Monthly_USD,Salary_Annual_USD
+1,Bachelor,Software Engineer,Seattle,USA,14726,176715
+1,Master,Software Engineer,Luxembourg,Luxembourg,15943,191323
+3,Bachelor,Software Engineer,Munich,Germany,11754,141049
+7,Bachelor,Cybersecurity,Kuala Lumpur,Malaysia,5383,64604
+8,Bachelor,Data Scientist,Edinburgh,UK,10808,129696
+7,Master,ML Engineer,Singapore,Singapore,21808,261707
+9,Bachelor,ML Engineer,Barcelona,Spain,9038,108465
+3,Bachelor,Data Scientist,Amsterdam,Netherlands,12182,146187
+3,Bachelor,Cybersecurity,Madrid,Spain,6831,81975
+0,Bachelor,Data Scientist,Boston,USA,14400,172800
+10,Master,Cybersecurity,Dubai,UAE,20124,241494
+4,PhD,Software Engineer,Toronto,Canada,15198,182385
+8,Bachelor,Cybersecurity,Lyon,France,12944,155328
+10,Master,Data Scientist,Paris,France,17714,212575
+3,Master,Data Analyst,Austin,USA,12182,146186
+11,Master,Data Scientist,Geneva,Switzerland,25680,308166
+5,PhD,Software Engineer,Rotterdam,Netherlands,14122,169464
+5,Bachelor,Data Analyst,Kuala Lumpur,Malaysia,6636,79635
+8,PhD,Software Engineer,Dublin,Ireland,16779,201355
+6,PhD,Cybersecurity,Mumbai,India,8601,103212
+5,Master,Data Scientist,Perth,Australia,16419,197032
+9,Bachelor,Data Scientist,Osaka,Japan,14037,168453
+3,PhD,Software Engineer,Hamburg,Germany,11381,136572
+0,Bachelor,Cloud Engineer,Frankfurt,Germany,10000,120000
+6,Master,ML Engineer,Bangalore,India,8329,99952
+6,Bachelor,Cybersecurity,Seattle,USA,18976,227718
+8,Bachelor,Software Engineer,Kuala Lumpur,Malaysia,6713,80564
+10,Bachelor,Data Analyst,Berlin,Germany,11327,135930
+5,Bachelor,Software Engineer,Lyon,France,10203,122445
+7,PhD,Data Analyst,Munich,Germany,14417,173010
+12,PhD,ML Engineer,Brisbane,Australia,22119,265430
+4,PhD,Cloud Engineer,Amsterdam,Netherlands,17225,206703
+1,Master,Cloud Engineer,Tokyo,Japan,11703,140438
+1,Master,Cloud Engineer,Kuala Lumpur,Malaysia,4506,54077
+4,Master,Data Scientist,Austin,USA,18143,217716
+8,Master,Cloud Engineer,Melbourne,Australia,20760,249128
+11,Master,Cloud Engineer,Manchester,UK,17549,210588
+1,PhD,ML Engineer,Berlin,Germany,12273,147286
+4,PhD,ML Engineer,Berlin,Germany,15014,180168
+2,Master,Data Analyst,Zurich,Switzerland,16488,197861
+1,Master,Data Scientist,Zurich,Switzerland,20541,246495
+7,Master,Software Engineer,Stockholm,Sweden,13213,158556
+5,PhD,ML Engineer,Sydney,Australia,21316,255798
+12,Master,ML Engineer,Abu Dhabi,UAE,19490,233890
+10,PhD,Data Scientist,Luxembourg,Luxembourg,24758,297096
+9,Bachelor,Cloud Engineer,Stockholm,Sweden,13659,163911
+6,Bachelor,ML Engineer,Sydney,Australia,15624,187498
+0,Bachelor,Data Scientist,Luxembourg,Luxembourg,15400,184800
+11,Master,Data Scientist,Geneva,Switzerland,26965,323581
+7,Master,Data Scientist,Luxembourg,Luxembourg,23232,278793
+4,PhD,Data Scientist,Sydney,Australia,17218,206620
+0,Master,ML Engineer,Osaka,Japan,10725,128700
+3,PhD,ML Engineer,Madrid,Spain,8129,97550
+6,PhD,Cloud Engineer,Berlin,Germany,14369,172435
+0,Master,Cybersecurity,Melbourne,Australia,13200,158400
+9,Master,Software Engineer,Toronto,Canada,15838,190060
+8,PhD,ML Engineer,Kuala Lumpur,Malaysia,11817,141806
+6,PhD,Cybersecurity,Luxembourg,Luxembourg,20748,248976
+7,Master,Data Scientist,Bangalore,India,6104,73258
+0,PhD,ML Engineer,Zurich,Switzerland,23400,280800
+0,Bachelor,Cybersecurity,Toronto,Canada,10800,129600
+12,Bachelor,Cybersecurity,Amsterdam,Netherlands,20369,244428
+4,Bachelor,Data Analyst,Stockholm,Sweden,8919,107036
+0,Bachelor,ML Engineer,Bangalore,India,2816,33800
+4,Master,Data Scientist,Madrid,Spain,9131,109582
+2,PhD,Data Scientist,Stockholm,Sweden,12637,151646
+9,Master,ML Engineer,Luxembourg,Luxembourg,22418,269027
+7,PhD,Data Analyst,Dublin,Ireland,13942,167310
+9,PhD,Cybersecurity,Singapore,Singapore,23854,286257
+8,Master,Data Scientist,Zurich,Switzerland,23399,280790
+12,PhD,ML Engineer,Rotterdam,Netherlands,22777,273326
+10,Bachelor,ML Engineer,Singapore,Singapore,22190,266280
+1,Bachelor,Data Scientist,Austin,USA,13873,166486
+5,Bachelor,Data Analyst,Hamburg,Germany,10588,127065
+0,Master,Data Scientist,Seattle,USA,17160,205920
+8,Master,Data Analyst,Tokyo,Japan,14285,171421
+7,Bachelor,Cybersecurity,Luxembourg,Luxembourg,18999,227997
+10,Bachelor,Cloud Engineer,Stockholm,Sweden,15063,180760
+0,Bachelor,Data Scientist,Kuala Lumpur,Malaysia,3300,39600
+12,PhD,ML Engineer,Dublin,Ireland,27133,325598
+12,PhD,Cloud Engineer,Abu Dhabi,UAE,21910,262929
+11,Bachelor,Data Scientist,Stockholm,Sweden,14892,178714
+1,Bachelor,ML Engineer,Tokyo,Japan,11220,134648
+4,PhD,Cybersecurity,Amsterdam,Netherlands,14948,179385
+7,PhD,Cybersecurity,Pune,India,6000,72008
+5,Master,Software Engineer,Brisbane,Australia,12747,152966
+1,Master,ML Engineer,Dubai,UAE,13614,163369
+12,PhD,Software Engineer,Frankfurt,Germany,14859,178315
+8,PhD,Software Engineer,Lyon,France,11016,132196
+4,Master,Data Analyst,Melbourne,Australia,13049,156596
+5,PhD,Cybersecurity,Toronto,Canada,17834,214014
+9,PhD,Cloud Engineer,Singapore,Singapore,22843,274117
+6,Bachelor,Data Analyst,Tokyo,Japan,9591,115098
+9,Bachelor,Cloud Engineer,Lyon,France,11230,134770
+5,Bachelor,ML Engineer,Abu Dhabi,UAE,14757,177095
+10,Bachelor,ML Engineer,Paris,France,16735,200830
+3,PhD,ML Engineer,Zurich,Switzerland,24630,295567
+11,Master,Data Scientist,Kuala Lumpur,Malaysia,11844,142138
+2,Master,Data Analyst,Geneva,Switzerland,14524,174297
+10,PhD,Data Analyst,Tokyo,Japan,17190,206280
+2,PhD,Data Scientist,Rotterdam,Netherlands,12920,155040
+7,Master,Data Scientist,Tokyo,Japan,15376,184517
+9,PhD,Cybersecurity,London,UK,16659,199911
+1,Master,Cybersecurity,Singapore,Singapore,15491,185898
+1,Bachelor,Data Scientist,Rotterdam,Netherlands,10526,126323
+8,Master,Data Analyst,Berlin,Germany,12242,146907
+3,Master,ML Engineer,Dublin,Ireland,15571,186859
+5,PhD,ML Engineer,Abu Dhabi,UAE,16235,194820
+11,Bachelor,Software Engineer,Manchester,UK,15591,187099
+9,Master,Software Engineer,Lyon,France,15665,187982
+3,Master,Software Engineer,Luxembourg,Luxembourg,17041,204496
+9,PhD,Software Engineer,Toronto,Canada,19939,239274
+7,Master,Software Engineer,Toronto,Canada,15154,181854
+3,Bachelor,Data Analyst,Dublin,Ireland,10300,123606
+11,Master,Data Analyst,Luxembourg,Luxembourg,16254,195052
+12,Master,ML Engineer,Singapore,Singapore,25646,307762
+11,Master,Cybersecurity,Dublin,Ireland,15988,191865
+2,PhD,ML Engineer,Hamburg,Germany,12714,152572
+5,PhD,Software Engineer,Singapore,Singapore,17770,213240
+4,Bachelor,Cloud Engineer,Boston,USA,17362,208348
+2,PhD,Cloud Engineer,Paris,France,13310,159720
+11,PhD,Cloud Engineer,Zurich,Switzerland,28303,339643
+6,Master,ML Engineer,Singapore,Singapore,19032,228390
+0,Bachelor,Data Scientist,Barcelona,Spain,6000,72000
+5,PhD,Cybersecurity,Dublin,Ireland,17159,205914
+8,PhD,Data Scientist,Tokyo,Japan,14340,172089
+3,PhD,Data Analyst,Dublin,Ireland,12069,144828
+8,PhD,Data Scientist,Brisbane,Australia,15820,189840
+5,PhD,Cloud Engineer,Birmingham,UK,10145,121740
+0,Master,Cybersecurity,Pune,India,2420,29040
+3,Master,Cybersecurity,Stockholm,Sweden,11658,139903
+3,Master,Data Scientist,Madrid,Spain,8281,99376
+8,Master,Software Engineer,Dubai,UAE,16065,192788
+7,PhD,Cybersecurity,Paris,France,13427,161128
+7,Bachelor,Data Analyst,Brisbane,Australia,13255,159060
+5,Bachelor,Software Engineer,Perth,Australia,13419,161030
+9,Bachelor,Data Analyst,Madrid,Spain,9741,116892
+6,Master,Cybersecurity,Singapore,Singapore,17603,211246
+0,Master,ML Engineer,Stockholm,Sweden,11440,137280
+3,Bachelor,ML Engineer,Rotterdam,Netherlands,12370,148440
+4,Master,Software Engineer,Stockholm,Sweden,12359,148310
+4,Master,Cybersecurity,Madrid,Spain,8845,106141
+11,Bachelor,Cybersecurity,Rotterdam,Netherlands,15960,191524
+0,Bachelor,Data Analyst,London,UK,6825,81900
+8,PhD,Data Scientist,Tokyo,Japan,17968,215625
+9,Master,Software Engineer,Dublin,Ireland,14741,176893
+6,Master,ML Engineer,Munich,Germany,14532,174387
+1,Master,Cloud Engineer,Singapore,Singapore,15515,186181
+10,Bachelor,Data Scientist,Dublin,Ireland,17425,209110
+4,PhD,Cybersecurity,Luxembourg,Luxembourg,20252,243028
+9,Master,Software Engineer,Barcelona,Spain,14196,170362
+0,PhD,Software Engineer,Zurich,Switzerland,19800,237600
+10,Master,Software Engineer,Rotterdam,Netherlands,18326,219923
+2,Bachelor,Cloud Engineer,New York,USA,18049,216596
+1,Bachelor,Cloud Engineer,Tokyo,Japan,10969,131637
+4,Bachelor,Software Engineer,Stockholm,Sweden,10199,122388
+12,PhD,ML Engineer,Dublin,Ireland,26110,313329
+8,Master,Data Analyst,Dublin,Ireland,11899,142793
+10,Bachelor,Cybersecurity,Singapore,Singapore,18398,220780
+8,Master,ML Engineer,Paris,France,14081,168973
+6,Bachelor,Cloud Engineer,Birmingham,UK,11138,133660
+5,Master,Data Analyst,Dublin,Ireland,11689,140277
+5,PhD,Data Scientist,Hamburg,Germany,12833,154002
+10,PhD,Software Engineer,Kuala Lumpur,Malaysia,7973,95676
+8,Bachelor,Cloud Engineer,Hamburg,Germany,11565,138784
+7,Master,Cloud Engineer,Zurich,Switzerland,23762,285153
+3,PhD,Data Analyst,Hyderabad,India,3743,44917
+8,Master,Cybersecurity,Osaka,Japan,15224,182696
+0,PhD,Software Engineer,Lyon,France,8470,101640
+0,Bachelor,Cybersecurity,Hyderabad,India,2200,26400
+10,Master,Software Engineer,Lyon,France,16525,198308
+9,Master,Software Engineer,Stockholm,Sweden,16813,201765
+0,PhD,Data Scientist,Madrid,Spain,6600,79200
+6,Bachelor,Data Analyst,Bangalore,India,5247,62964
+1,Master,ML Engineer,Lyon,France,9954,119451
+7,PhD,Cybersecurity,Toronto,Canada,17369,208431
+12,Master,Cybersecurity,Dubai,UAE,21611,259340
+10,Bachelor,Data Scientist,Stockholm,Sweden,12317,147810
+12,Bachelor,Cloud Engineer,Delhi,India,6179,74156
+8,Master,Cybersecurity,Hyderabad,India,9680,116168
+3,Bachelor,Cybersecurity,Lyon,France,10112,121347
+2,PhD,Software Engineer,Perth,Australia,13030,156362
+6,Master,Data Analyst,Austin,USA,13625,163501
+3,Master,Cloud Engineer,Toronto,Canada,14263,171167
+9,Master,Data Scientist,Kuala Lumpur,Malaysia,10048,120582
+11,Master,Software Engineer,Singapore,Singapore,22102,265232
+10,Bachelor,Data Scientist,Luxembourg,Luxembourg,19753,237040
+11,Bachelor,Software Engineer,Barcelona,Spain,10109,121319
+1,PhD,ML Engineer,Paris,France,12533,150399
+5,PhD,ML Engineer,Dublin,Ireland,19391,232698
+9,PhD,Cloud Engineer,Kuala Lumpur,Malaysia,8589,103078
+12,Bachelor,Data Scientist,Barcelona,Spain,11541,138492
+9,PhD,Data Scientist,Luxembourg,Luxembourg,21814,261774
+0,Master,Data Scientist,Luxembourg,Luxembourg,16940,203280
+7,PhD,Data Scientist,Luxembourg,Luxembourg,22241,266893
+6,Bachelor,Data Analyst,Stockholm,Sweden,10723,128682
+3,Master,ML Engineer,Paris,France,12955,155467
+8,Bachelor,Cloud Engineer,Paris,France,12029,144358
+3,Bachelor,ML Engineer,Rotterdam,Netherlands,11812,141744
+11,PhD,Cybersecurity,Delhi,India,6875,82500
+7,Master,Cloud Engineer,Tokyo,Japan,17384,208613
+12,Master,ML Engineer,Tokyo,Japan,20182,242187
+12,PhD,Cloud Engineer,Dublin,Ireland,20970,251647
+0,Bachelor,ML Engineer,Abu Dhabi,UAE,11050,132600
+3,Bachelor,Cloud Engineer,Montreal,Canada,12538,150459
+4,PhD,ML Engineer,Paris,France,13754,165048
+7,Master,Software Engineer,Singapore,Singapore,17300,207607
+10,PhD,ML Engineer,Melbourne,Australia,25474,305688
+6,Bachelor,Cybersecurity,Luxembourg,Luxembourg,17515,210180
+1,Master,Data Analyst,Melbourne,Australia,10567,126812
+10,Bachelor,ML Engineer,Madrid,Spain,9225,110710
+4,Master,Software Engineer,Abu Dhabi,UAE,13500,162008
+12,Master,Software Engineer,Melbourne,Australia,16083,192997
+8,Master,Software Engineer,Luxembourg,Luxembourg,18623,223476
+5,PhD,Software Engineer,Munich,Germany,14894,178728
+4,Bachelor,Cloud Engineer,Melbourne,Australia,15570,186848
+6,PhD,Cloud Engineer,Singapore,Singapore,19780,237364
+4,PhD,Cloud Engineer,Hamburg,Germany,14516,174192
+2,Master,Data Scientist,Geneva,Switzerland,19813,237760
+5,PhD,ML Engineer,Montreal,Canada,14578,174942
+0,PhD,Cloud Engineer,Osaka,Japan,11250,135000
+7,PhD,Software Engineer,Birmingham,UK,10152,121827
+9,PhD,Cloud Engineer,Dublin,Ireland,17518,210222
+8,PhD,Cloud Engineer,Melbourne,Australia,20886,250636
+8,PhD,ML Engineer,Toronto,Canada,18600,223209
+9,PhD,Cybersecurity,Geneva,Switzerland,29021,348256
+12,Bachelor,Data Analyst,Rotterdam,Netherlands,16597,199164
+12,Bachelor,Cybersecurity,Vancouver,Canada,19327,231924
+6,PhD,ML Engineer,Lyon,France,12068,144823
+3,PhD,ML Engineer,Singapore,Singapore,19499,233997
+4,Master,Data Scientist,Mumbai,India,5217,62607
+0,Master,Cybersecurity,Delhi,India,2420,29040
+11,Bachelor,Data Analyst,Vancouver,Canada,16012,192145
+7,PhD,Data Analyst,Lyon,France,11736,140842
+5,Bachelor,Cloud Engineer,Barcelona,Spain,9741,116895
+5,Bachelor,Cloud Engineer,Lyon,France,10360,124325
+3,Bachelor,Software Engineer,Vancouver,Canada,11704,140448
+3,Bachelor,Data Scientist,Dublin,Ireland,14196,170355
+0,PhD,Software Engineer,Vancouver,Canada,12870,154440
+7,PhD,Data Scientist,Singapore,Singapore,18383,220600
+8,PhD,ML Engineer,Munich,Germany,21154,253852
+6,Master,ML Engineer,Stockholm,Sweden,14374,172491
+3,Master,Cybersecurity,Vancouver,Canada,14160,169920
+3,Bachelor,Data Scientist,Kuala Lumpur,Malaysia,5372,64467
+2,Bachelor,Software Engineer,Madrid,Spain,5794,69532
+1,Bachelor,Software Engineer,Luxembourg,Luxembourg,14419,173037
+6,Master,Cybersecurity,London,UK,14742,176906
+7,PhD,Cybersecurity,Paris,France,16738,200860
+10,Bachelor,Cloud Engineer,Hamburg,Germany,12228,146740
+4,Master,ML Engineer,Lyon,France,10928,131146
+4,PhD,Data Analyst,Rotterdam,Netherlands,12064,144768
+11,Master,ML Engineer,San Francisco,USA,28930,347169
+6,Bachelor,Software Engineer,Singapore,Singapore,14441,173300
+2,PhD,Data Scientist,Tokyo,Japan,13288,159460
+3,PhD,Cybersecurity,Stockholm,Sweden,12593,151117
+8,Master,Data Scientist,Osaka,Japan,17118,205427
+3,PhD,ML Engineer,Montreal,Canada,14613,175363
+10,PhD,Data Scientist,Kuala Lumpur,Malaysia,8833,105996
+6,Master,Cloud Engineer,Osaka,Japan,14977,179724
+10,PhD,Cybersecurity,Luxembourg,Luxembourg,22412,268944
+1,Bachelor,Data Analyst,Hyderabad,India,2246,26960
+5,PhD,Data Scientist,Hyderabad,India,4680,56166
+3,Bachelor,Cloud Engineer,Luxembourg,Luxembourg,17952,215435
+12,PhD,ML Engineer,Zurich,Switzerland,30544,366537
+4,Master,Data Analyst,Madrid,Spain,7041,84502
+3,Bachelor,Cybersecurity,Delhi,India,3558,42702
+7,PhD,Data Scientist,Melbourne,Australia,19371,232456
+7,Master,Software Engineer,Lyon,France,9895,118741
+11,Master,Data Analyst,Paris,France,13920,167046
+12,Master,Data Scientist,Rotterdam,Netherlands,18758,225099
+5,PhD,ML Engineer,Luxembourg,Luxembourg,22568,270822
+12,Bachelor,Data Scientist,Kuala Lumpur,Malaysia,6467,77604
+3,PhD,Data Scientist,Rotterdam,Netherlands,13913,166960
+12,Master,Cloud Engineer,Lyon,France,15013,180164
+7,Bachelor,ML Engineer,London,UK,14275,171311
+8,Bachelor,Data Scientist,Manchester,UK,12242,146904
+12,PhD,Data Analyst,Zurich,Switzerland,24241,290894
+12,Master,Software Engineer,Frankfurt,Germany,16282,195386
+9,Master,Data Analyst,Munich,Germany,11393,136719
+2,PhD,ML Engineer,Luxembourg,Luxembourg,21672,260064
+8,PhD,Cloud Engineer,Geneva,Switzerland,25488,305856
+2,Bachelor,Cloud Engineer,Dublin,Ireland,13435,161220
+4,Bachelor,Cloud Engineer,Chicago,USA,16660,199920
+11,PhD,ML Engineer,Rotterdam,Netherlands,18348,220183
+7,PhD,Cybersecurity,Lyon,France,13404,160851
+8,Bachelor,Cybersecurity,Amsterdam,Netherlands,15059,180712
+6,PhD,Cybersecurity,Paris,France,16344,196135
+5,Bachelor,Cloud Engineer,Abu Dhabi,UAE,13255,159065
+12,PhD,Cybersecurity,Boston,USA,24820,297849
+8,PhD,Data Analyst,Amsterdam,Netherlands,17745,212940
+9,Bachelor,ML Engineer,Kuala Lumpur,Malaysia,10594,127131
+3,Master,ML Engineer,Edinburgh,UK,10133,121606
+7,Master,Data Analyst,Zurich,Switzerland,18945,227341
+9,Bachelor,Cloud Engineer,Austin,USA,18869,226434
+8,Master,ML Engineer,Madrid,Spain,9180,110162
+3,Master,ML Engineer,Mumbai,India,3778,45342
+10,Bachelor,Cloud Engineer,Bangalore,India,9790,117490
+3,PhD,ML Engineer,Singapore,Singapore,19422,233068
+12,Master,Cybersecurity,Chennai,India,11224,134692
+9,Bachelor,Cloud Engineer,Luxembourg,Luxembourg,22529,270350
+8,Bachelor,Cybersecurity,Kuala Lumpur,Malaysia,6635,79624
+0,PhD,Cloud Engineer,Lyon,France,9625,115500
+8,Bachelor,Cybersecurity,Seattle,USA,18220,218640
+0,Bachelor,Cloud Engineer,Hamburg,Germany,9166,110000
+6,Master,Cloud Engineer,Singapore,Singapore,17572,210872
+7,Bachelor,Data Analyst,Barcelona,Spain,8846,106157
+9,PhD,ML Engineer,Stockholm,Sweden,20770,249249
+4,PhD,Software Engineer,Zurich,Switzerland,23608,283296
+5,Master,Cybersecurity,Singapore,Singapore,16639,199677
+3,Master,Data Scientist,Abu Dhabi,UAE,12053,144645
+12,Master,Data Analyst,Kuala Lumpur,Malaysia,6460,77523
+8,PhD,Data Scientist,Melbourne,Australia,20678,248140
+10,Master,Data Scientist,Luxembourg,Luxembourg,21072,252868
+12,PhD,Data Analyst,Amsterdam,Netherlands,21573,258876
+7,PhD,Data Scientist,Luxembourg,Luxembourg,24211,290539
+1,Master,Cloud Engineer,Luxembourg,Luxembourg,18298,219576
+8,Bachelor,Cloud Engineer,Madrid,Spain,11112,133350
+6,Bachelor,Software Engineer,Kuala Lumpur,Malaysia,6423,77076
+8,Bachelor,Data Analyst,Singapore,Singapore,13276,159316
+0,PhD,Cloud Engineer,Tokyo,Japan,12187,146250
+5,Bachelor,Cybersecurity,Stockholm,Sweden,12920,155045
+10,PhD,Software Engineer,Singapore,Singapore,21903,262836
+5,PhD,Data Analyst,Rotterdam,Netherlands,13173,158076
+9,Master,ML Engineer,Dublin,Ireland,18714,224571
+12,Master,Software Engineer,Luxembourg,Luxembourg,24895,298751
+6,Bachelor,Cybersecurity,Dublin,Ireland,15277,183330
+1,Bachelor,Software Engineer,Tokyo,Japan,9487,113851
+11,PhD,Software Engineer,Geneva,Switzerland,23238,278863
+12,PhD,Data Scientist,Rotterdam,Netherlands,17298,207576
+9,Master,Data Scientist,Lyon,France,15239,182869
+7,PhD,Data Scientist,Rotterdam,Netherlands,17015,204184
+0,Bachelor,Cybersecurity,Hyderabad,India,2200,26400
+8,PhD,Cloud Engineer,London,UK,16494,197930
+12,Bachelor,Cybersecurity,Luxembourg,Luxembourg,24145,289740
+5,Master,Data Analyst,Paris,France,9383,112601
+10,PhD,Cybersecurity,Stockholm,Sweden,16583,198996
+9,PhD,Software Engineer,Abu Dhabi,UAE,19170,230047
+0,Master,Data Scientist,Stockholm,Sweden,10560,126720
+11,Bachelor,Cybersecurity,Singapore,Singapore,22099,265189
+2,Bachelor,Software Engineer,Osaka,Japan,8923,107086
+3,Master,Software Engineer,Lyon,France,8932,107188
+4,Master,ML Engineer,Munich,Germany,14918,179018
+7,PhD,Cloud Engineer,Singapore,Singapore,18900,226808
+12,Master,Data Scientist,Barcelona,Spain,17279,207358
+9,Master,ML Engineer,Tokyo,Japan,16733,200805
+10,Bachelor,ML Engineer,Boston,USA,19746,236960
+11,Bachelor,ML Engineer,Paris,France,14201,170418
+12,Master,Cybersecurity,Toronto,Canada,18051,216612
+10,Bachelor,Cloud Engineer,Barcelona,Spain,11683,140200
+8,PhD,Cloud Engineer,Luxembourg,Luxembourg,27101,325214
+5,Bachelor,Data Scientist,Toronto,Canada,12709,152515
+9,Bachelor,Cybersecurity,Vancouver,Canada,18315,219789
+1,PhD,Cybersecurity,Geneva,Switzerland,20843,250116
+5,PhD,Cybersecurity,Kuala Lumpur,Malaysia,8397,100764
+0,Master,Data Scientist,Luxembourg,Luxembourg,16940,203280
+8,PhD,Software Engineer,Lyon,France,15822,189873
+4,Master,Cloud Engineer,Berlin,Germany,13508,162104
+1,Bachelor,ML Engineer,Lyon,France,9080,108968
+6,Master,Data Scientist,Paris,France,11900,142810
+4,PhD,Cybersecurity,Hamburg,Germany,13831,165974
+6,Bachelor,Cloud Engineer,Frankfurt,Germany,11605,139266
+9,PhD,Data Scientist,Singapore,Singapore,20382,244591
+9,Master,Data Scientist,Tokyo,Japan,15721,188654
+2,Bachelor,Cybersecurity,Vancouver,Canada,12996,155954
+9,Bachelor,Data Scientist,Hyderabad,India,4753,57045
+12,Master,Data Analyst,Stockholm,Sweden,15741,188892
+8,Master,Data Scientist,Birmingham,UK,10531,126376
+0,Bachelor,Software Engineer,Frankfurt,Germany,8800,105600
+8,Bachelor,Software Engineer,Birmingham,UK,9100,109204
+11,Master,Data Scientist,Lyon,France,16038,192462
+5,Bachelor,Software Engineer,Seattle,USA,17328,207945
+9,Master,Cloud Engineer,Stockholm,Sweden,17333,208002
+3,Bachelor,Software Engineer,Vancouver,Canada,12926,155118
+10,Master,Cloud Engineer,Osaka,Japan,16234,194810
+0,Bachelor,Software Engineer,Luxembourg,Luxembourg,14116,169400
+0,PhD,Data Analyst,Tokyo,Japan,8775,105300
+11,Bachelor,Cloud Engineer,Kuala Lumpur,Malaysia,8505,102069
+9,Master,ML Engineer,Kuala Lumpur,Malaysia,10181,122172
+0,Master,ML Engineer,Berlin,Germany,10486,125840
+0,Master,Data Scientist,Dubai,UAE,12155,145860
+10,Bachelor,Software Engineer,Chennai,India,4758,57100
+9,PhD,ML Engineer,Frankfurt,Germany,21360,256323
+5,Bachelor,Data Analyst,Frankfurt,Germany,8910,106925
+2,Bachelor,Data Scientist,Luxembourg,Luxembourg,16546,198554
+11,PhD,Data Analyst,Perth,Australia,16875,202501
+7,Master,Software Engineer,Kuala Lumpur,Malaysia,8918,107020
+11,Bachelor,Cloud Engineer,Brisbane,Australia,15803,189640
+1,Master,Cloud Engineer,Dubai,UAE,13456,161475
+6,PhD,ML Engineer,Geneva,Switzerland,27359,328312
+5,Bachelor,Data Analyst,Geneva,Switzerland,16165,193990
+11,Bachelor,Software Engineer,Amsterdam,Netherlands,18500,222002
+11,PhD,Data Analyst,Singapore,Singapore,15684,188216
+12,Bachelor,Cloud Engineer,Amsterdam,Netherlands,20109,241313
+3,Master,ML Engineer,Hamburg,Germany,12911,154942
+9,PhD,Data Scientist,San Francisco,USA,25207,302486
+12,PhD,Cybersecurity,Luxembourg,Luxembourg,29024,348292
+7,Bachelor,Cloud Engineer,Chicago,USA,15997,191971
+1,Master,Data Analyst,Singapore,Singapore,11763,141165
+12,Master,Cloud Engineer,Paris,France,19252,231028
+1,PhD,ML Engineer,Kuala Lumpur,Malaysia,5114,61374
+2,Master,Software Engineer,Stockholm,Sweden,10690,128290
+8,PhD,Software Engineer,Kuala Lumpur,Malaysia,7632,91588
+3,Bachelor,Data Analyst,Kuala Lumpur,Malaysia,4107,49290
+8,PhD,Cybersecurity,Berlin,Germany,15424,185088
+5,Master,Cybersecurity,Luxembourg,Luxembourg,21041,252494
+8,Master,Data Analyst,Dublin,Ireland,15409,184910
+2,Master,ML Engineer,Lyon,France,10268,123219
+1,Master,Cloud Engineer,Madrid,Spain,6677,80126
+11,Master,Software Engineer,Frankfurt,Germany,13321,159853
+2,Bachelor,Cybersecurity,Sydney,Australia,14049,168594
+6,Master,Cloud Engineer,New York,USA,21749,260990
+10,Bachelor,Data Scientist,Hamburg,Germany,11702,140430
+11,PhD,Cloud Engineer,Singapore,Singapore,24448,293378
+8,Master,Data Scientist,Madrid,Spain,8295,99545
+11,Master,Software Engineer,Madrid,Spain,10315,123783
+8,Bachelor,Data Analyst,Madrid,Spain,9021,108252
+0,PhD,Data Scientist,Rotterdam,Netherlands,12240,146880
+8,PhD,ML Engineer,Tokyo,Japan,18835,226020
+5,Bachelor,Data Analyst,Zurich,Switzerland,16292,195510
+12,PhD,Cloud Engineer,Paris,France,19164,229970
+1,Bachelor,ML Engineer,Luxembourg,Luxembourg,17203,206437
+6,PhD,Data Analyst,Stockholm,Sweden,13533,162403
+9,Master,Data Scientist,Montreal,Canada,17551,210622
+7,Bachelor,ML Engineer,Barcelona,Spain,8455,101464
+9,Master,Data Analyst,Chennai,India,9504,114048
+11,PhD,Software Engineer,Lyon,France,13106,157278
+4,Bachelor,ML Engineer,Berlin,Germany,12284,147408
+0,PhD,Data Analyst,Pune,India,1980,23760
+8,Master,Cloud Engineer,Abu Dhabi,UAE,14420,173047
+6,Master,Data Scientist,Dubai,UAE,15138,181658
+3,Master,Data Scientist,Berlin,Germany,10790,129485
+4,PhD,Cybersecurity,Dublin,Ireland,15498,185980
+0,Bachelor,Cybersecurity,Paris,France,9100,109200
+6,Bachelor,Data Scientist,Luxembourg,Luxembourg,17236,206838
+11,Bachelor,Software Engineer,Singapore,Singapore,15521,186252
+9,PhD,Data Scientist,London,UK,19641,235702
+5,Master,Data Scientist,Singapore,Singapore,17809,213708
+11,Bachelor,ML Engineer,Abu Dhabi,UAE,20210,242523
+7,Master,Cybersecurity,Zurich,Switzerland,22933,275206
+12,PhD,Cloud Engineer,Seattle,USA,25142,301708
+2,PhD,Data Analyst,Paris,France,9605,115264
+6,Bachelor,Cloud Engineer,Luxembourg,Luxembourg,20018,240224
+0,Bachelor,Cybersecurity,Stockholm,Sweden,9600,115200
+12,Master,ML Engineer,Lyon,France,15746,188953
+12,Master,Data Scientist,Kuala Lumpur,Malaysia,9864,118377
+10,PhD,Data Scientist,Tokyo,Japan,18576,222912
+12,Master,ML Engineer,Vancouver,Canada,22542,270507
+5,Master,Data Analyst,Kuala Lumpur,Malaysia,7028,84337
+3,Bachelor,Data Analyst,Madrid,Spain,6255,75060
+6,Bachelor,Data Analyst,Rotterdam,Netherlands,9349,112188
+8,PhD,ML Engineer,Delhi,India,8221,98659
+9,PhD,Data Scientist,Dubai,UAE,17377,208530
+8,Bachelor,Data Analyst,Luxembourg,Luxembourg,15494,185936
+9,Bachelor,Software Engineer,Stockholm,Sweden,11509,138108
+2,Master,Software Engineer,Singapore,Singapore,14716,176602
+1,PhD,Cybersecurity,Hamburg,Germany,10863,130358
+2,Master,Cybersecurity,Amsterdam,Netherlands,12997,155966
+3,Bachelor,ML Engineer,Tokyo,Japan,12953,155439
+11,Master,Data Analyst,Dubai,UAE,14423,173077
+10,Master,Cloud Engineer,Luxembourg,Luxembourg,26734,320815
+12,Bachelor,Data Analyst,Rotterdam,Netherlands,13848,166176
+4,PhD,Data Analyst,Zurich,Switzerland,17742,212908
+3,Bachelor,ML Engineer,Berlin,Germany,10777,129334
+1,Master,Cloud Engineer,Luxembourg,Luxembourg,18253,219037
+12,Bachelor,Cybersecurity,Luxembourg,Luxembourg,21737,260844
+0,Bachelor,Cybersecurity,Edinburgh,UK,7150,85800
+9,PhD,ML Engineer,Dubai,UAE,18380,220569
+8,Bachelor,Data Analyst,Perth,Australia,11448,137384
+2,Bachelor,Cybersecurity,Singapore,Singapore,13890,166688
+10,Master,Cybersecurity,Kuala Lumpur,Malaysia,7792,93511
+5,PhD,Cloud Engineer,Dublin,Ireland,18785,225420
+6,Master,Data Scientist,Munich,Germany,14483,173804
+10,Bachelor,Data Analyst,Manchester,UK,13067,156810
+9,Bachelor,Data Analyst,Amsterdam,Netherlands,12620,151443
+2,PhD,Data Analyst,Amsterdam,Netherlands,11594,139132
+11,Master,Cloud Engineer,Singapore,Singapore,24819,297837
+0,Master,ML Engineer,Kuala Lumpur,Malaysia,3932,47190
+12,PhD,Software Engineer,Zurich,Switzerland,31627,379526
+1,Bachelor,Software Engineer,Stockholm,Sweden,9577,114931
+6,Bachelor,Cybersecurity,Seattle,USA,20341,244098
+6,Bachelor,Cloud Engineer,Osaka,Japan,14116,169392
+7,Bachelor,Cloud Engineer,Rotterdam,Netherlands,15382,184585
+6,Bachelor,ML Engineer,Abu Dhabi,UAE,12593,151122
+6,PhD,Data Scientist,Paris,France,13601,163216
+11,Bachelor,Cloud Engineer,Singapore,Singapore,21258,255097
+1,Master,Cloud Engineer,Paris,France,11319,135829
+5,Master,ML Engineer,Madrid,Spain,9819,117837
+8,PhD,ML Engineer,New York,USA,25294,303532
+8,Master,Data Analyst,Kuala Lumpur,Malaysia,6023,72278
+12,Bachelor,Cybersecurity,San Francisco,USA,26898,322776
+11,Master,Data Scientist,Rotterdam,Netherlands,14795,177546
+3,Bachelor,Cybersecurity,Berlin,Germany,9627,115533
+12,Bachelor,Cloud Engineer,San Francisco,USA,27043,324516
+10,Bachelor,Cloud Engineer,Dubai,UAE,16491,197895
+4,PhD,Cloud Engineer,New York,USA,23213,278563
+6,PhD,ML Engineer,Sydney,Australia,22893,274720
+6,Master,Data Scientist,Perth,Australia,16651,199821
+1,Bachelor,Data Scientist,Brisbane,Australia,11561,138732
+10,Master,Cloud Engineer,Amsterdam,Netherlands,20985,251828
+6,PhD,Data Analyst,Dubai,UAE,13708,164505
+11,Master,Cloud Engineer,Lyon,France,14008,168105
+11,Bachelor,Cybersecurity,Bangalore,India,6677,80128
+4,Master,Cloud Engineer,Tokyo,Japan,14331,171977
+1,Bachelor,Data Analyst,Dublin,Ireland,9385,112631
+3,PhD,Data Analyst,Dublin,Ireland,12293,147517
+1,Master,Cloud Engineer,Brisbane,Australia,13253,159042
+12,Bachelor,ML Engineer,Toronto,Canada,17630,211560
+4,Bachelor,Cybersecurity,Luxembourg,Luxembourg,17322,207872
+12,Master,Cybersecurity,Kuala Lumpur,Malaysia,10743,128924
+10,Bachelor,Cloud Engineer,Frankfurt,Germany,14454,173450
+11,Master,Software Engineer,Luxembourg,Luxembourg,21171,254063
+10,Master,Data Analyst,Stockholm,Sweden,16660,199925
+3,PhD,ML Engineer,Kuala Lumpur,Malaysia,5277,63331
+2,Master,Software Engineer,Zurich,Switzerland,19791,237496
+4,Master,Cybersecurity,Munich,Germany,12736,152842
+0,Master,Data Analyst,Abu Dhabi,UAE,8415,100980
+12,Bachelor,Cybersecurity,Luxembourg,Luxembourg,24980,299760
+9,Master,Software Engineer,Barcelona,Spain,13628,163541
+7,PhD,Software Engineer,Zurich,Switzerland,22950,275400
+6,Bachelor,Cloud Engineer,Tokyo,Japan,13690,164289
+7,PhD,Cloud Engineer,Stockholm,Sweden,17617,211410
+2,Master,Data Analyst,Abu Dhabi,UAE,10078,120942
+2,PhD,Cybersecurity,Singapore,Singapore,16907,202884
+11,Bachelor,Data Analyst,Kuala Lumpur,Malaysia,6501,78012
+11,Bachelor,Data Analyst,Amsterdam,Netherlands,11328,135937
+12,PhD,Data Scientist,Paris,France,15396,184752
+2,PhD,Software Engineer,Amsterdam,Netherlands,14037,168444
+6,Bachelor,Cybersecurity,Paris,France,14006,168072
+7,Bachelor,Cybersecurity,Luxembourg,Luxembourg,17827,213927
+11,Master,ML Engineer,Tokyo,Japan,21234,254810
+0,Bachelor,Software Engineer,Bangalore,India,2383,28600
+11,PhD,ML Engineer,Stockholm,Sweden,20622,247466
+1,Bachelor,Software Engineer,Singapore,Singapore,12795,153548
+11,Master,Data Scientist,Madrid,Spain,9301,111622
+1,Bachelor,ML Engineer,Rotterdam,Netherlands,11734,140809
+9,PhD,Cybersecurity,Montreal,Canada,19414,232977
+9,Bachelor,Data Analyst,Toronto,Canada,13834,166014
+5,Master,ML Engineer,Dublin,Ireland,17367,208411
+6,Master,Cybersecurity,Tokyo,Japan,16046,192561
+11,Master,Software Engineer,Madrid,Spain,12113,145357
+8,Bachelor,Cybersecurity,Abu Dhabi,UAE,16083,193000
+1,PhD,Data Scientist,Singapore,Singapore,16462,197551
+11,Master,Data Scientist,Lyon,France,12974,155690
+4,Bachelor,Data Scientist,London,UK,11447,137368
+5,PhD,Data Scientist,Paris,France,15766,189192
+6,Master,Cybersecurity,Manchester,UK,10205,122469
+0,Bachelor,Cybersecurity,Abu Dhabi,UAE,10200,122400
+10,PhD,Cloud Engineer,Hyderabad,India,11290,135480
+1,Master,Software Engineer,Boston,USA,15229,182758
+5,Master,Cybersecurity,Singapore,Singapore,16103,193242
+11,PhD,ML Engineer,Zurich,Switzerland,28505,342061
+5,PhD,Data Scientist,Dublin,Ireland,17100,205200
+8,PhD,Software Engineer,Lyon,France,12942,155313
+9,PhD,Cloud Engineer,Rotterdam,Netherlands,16935,203230
+3,PhD,Software Engineer,Edinburgh,UK,9702,116433
+5,Master,Data Scientist,Osaka,Japan,11589,139073
+10,PhD,Cybersecurity,Luxembourg,Luxembourg,25177,302124
+12,Master,Data Scientist,Stockholm,Sweden,16837,202052
+7,Master,Cybersecurity,Paris,France,16295,195541
+5,Bachelor,Data Analyst,Dublin,Ireland,11614,139375
+7,Bachelor,Cybersecurity,Perth,Australia,12989,155877
+11,Master,ML Engineer,Paris,France,14919,179038
+12,PhD,Data Analyst,Dublin,Ireland,19137,229651
+5,Bachelor,Cloud Engineer,Perth,Australia,13678,164140
+6,Bachelor,Data Analyst,Barcelona,Spain,7129,85548
+0,Master,ML Engineer,Dubai,UAE,13167,158015
+8,PhD,Software Engineer,Tokyo,Japan,16035,192424
+1,Master,ML Engineer,Bangalore,India,3596,43159
+7,Bachelor,Cybersecurity,Dubai,UAE,16482,197791
+6,Master,Software Engineer,New York,USA,18958,227502
+0,PhD,Data Analyst,Berlin,Germany,7920,95040
+10,PhD,Software Engineer,Munich,Germany,20935,251220
+11,Master,ML Engineer,Madrid,Spain,11923,143082
+9,Master,Software Engineer,Manchester,UK,10591,127095
+5,PhD,Data Analyst,Tokyo,Japan,10366,124392
+6,Bachelor,Software Engineer,Geneva,Switzerland,18067,216810
+7,Bachelor,Data Scientist,Amsterdam,Netherlands,14121,169455
+4,PhD,ML Engineer,Kuala Lumpur,Malaysia,6944,83337
+6,PhD,Software Engineer,Geneva,Switzerland,21895,262742
+5,PhD,Software Engineer,Luxembourg,Luxembourg,21234,254808
+12,PhD,Software Engineer,Manchester,UK,13039,156472
+6,Master,Cloud Engineer,Brisbane,Australia,16284,195417
+7,PhD,ML Engineer,Kuala Lumpur,Malaysia,10247,122964
+3,Master,Data Analyst,Barcelona,Spain,5959,71511
+7,PhD,Cybersecurity,Stockholm,Sweden,18011,216133
+11,Bachelor,Data Analyst,Dubai,UAE,16962,203554
+12,PhD,Data Analyst,Tokyo,Japan,18502,222026
+10,PhD,Data Scientist,Lyon,France,15511,186132
+9,PhD,Data Analyst,Hamburg,Germany,11847,142171
+7,Bachelor,ML Engineer,Berlin,Germany,15126,181516
+11,Master,Data Scientist,Chennai,India,6612,79349
+1,Bachelor,Data Analyst,Montreal,Canada,8034,96414
+2,PhD,Software Engineer,Abu Dhabi,UAE,12626,151514
+10,PhD,Cloud Engineer,Vancouver,Canada,23090,277080
+2,PhD,Data Scientist,Geneva,Switzerland,22064,264772
+0,Master,Data Analyst,Abu Dhabi,UAE,8415,100980
+4,Master,ML Engineer,Tokyo,Japan,14124,169494
+6,Master,Data Analyst,Perth,Australia,11634,139609
+9,Bachelor,Cybersecurity,Perth,Australia,16502,198033
+5,Bachelor,Cloud Engineer,Chennai,India,5657,67885
+7,Bachelor,Software Engineer,Stockholm,Sweden,12764,153172
+2,PhD,Cybersecurity,Montreal,Canada,13146,157752
+8,Bachelor,Data Analyst,Kuala Lumpur,Malaysia,7487,89852
+7,Master,Cloud Engineer,Dublin,Ireland,15755,189064
+9,PhD,Cybersecurity,Geneva,Switzerland,22866,274395
+4,Bachelor,Software Engineer,Osaka,Japan,9287,111448
+8,Master,Data Scientist,Barcelona,Spain,12614,151377
+3,Master,ML Engineer,Tokyo,Japan,12604,151252
+7,PhD,ML Engineer,Montreal,Canada,18154,217851
+2,PhD,Data Analyst,Austin,USA,12886,154641
+1,PhD,Data Analyst,Frankfurt,Germany,9274,111288
+8,Bachelor,Cybersecurity,Toronto,Canada,14019,168232
+7,PhD,ML Engineer,Rotterdam,Netherlands,19376,232519
+2,PhD,ML Engineer,Stockholm,Sweden,13330,159967
+5,Bachelor,ML Engineer,Stockholm,Sweden,12457,149485
+0,Bachelor,ML Engineer,Austin,USA,14300,171600
+7,Bachelor,Cloud Engineer,Amsterdam,Netherlands,14615,175386
+3,PhD,Software Engineer,Austin,USA,15792,189514
+4,Bachelor,Cloud Engineer,Kuala Lumpur,Malaysia,5064,60770
+6,Master,Cloud Engineer,Dublin,Ireland,16017,192205
+5,Bachelor,Data Analyst,Amsterdam,Netherlands,12150,145800
+5,PhD,Data Scientist,Luxembourg,Luxembourg,21886,262632
+2,Master,Data Analyst,Lyon,France,7742,92914
+10,Bachelor,Data Analyst,Tokyo,Japan,11776,141320
+8,Master,Data Scientist,Stockholm,Sweden,17501,210020
+10,Bachelor,ML Engineer,Melbourne,Australia,18252,219030
+10,PhD,Cybersecurity,Vancouver,Canada,21235,254820
+5,Master,Data Scientist,Stockholm,Sweden,15100,181203
+4,Bachelor,Data Scientist,Osaka,Japan,11278,135344
+2,Master,Software Engineer,Hamburg,Germany,9623,115478
+3,Master,ML Engineer,Stockholm,Sweden,13108,157301
+6,PhD,Data Scientist,Vancouver,Canada,19972,239673
+7,PhD,ML Engineer,Pune,India,8361,100335
+6,Bachelor,Cybersecurity,Barcelona,Spain,10267,123204
+8,Master,Software Engineer,Tokyo,Japan,14579,174955
+11,Bachelor,Cloud Engineer,Tokyo,Japan,16323,195883
+5,PhD,Data Analyst,Luxembourg,Luxembourg,16751,201018
+3,Bachelor,Software Engineer,Delhi,India,2791,33494
+12,PhD,Cybersecurity,Rotterdam,Netherlands,17958,215496
+4,PhD,ML Engineer,Tokyo,Japan,15867,190404
+5,Master,Data Analyst,Luxembourg,Luxembourg,16207,194485
+3,Master,Data Analyst,Madrid,Spain,6162,73949
+5,Master,Software Engineer,Barcelona,Spain,8332,99995
+11,Master,Data Scientist,Barcelona,Spain,13635,163621
+12,PhD,Software Engineer,Madrid,Spain,15682,188188
+4,Master,Cloud Engineer,Kuala Lumpur,Malaysia,6476,77719
+11,Master,ML Engineer,Frankfurt,Germany,15307,183695
+2,Bachelor,Software Engineer,Munich,Germany,10934,131210
+9,Master,Data Analyst,Madrid,Spain,7981,95772
+10,PhD,Cybersecurity,Paris,France,18191,218292
+8,PhD,Software Engineer,Stockholm,Sweden,14873,178483
+6,Bachelor,Cybersecurity,Paris,France,11026,132312
+4,Bachelor,ML Engineer,Luxembourg,Luxembourg,18076,216916
+0,Master,Cloud Engineer,Amsterdam,Netherlands,12661,151937
+6,Master,Cybersecurity,Boston,USA,21052,252634
+9,Master,Software Engineer,Barcelona,Spain,11424,137098
+9,PhD,Cybersecurity,Stockholm,Sweden,18848,226184
+4,Master,Data Scientist,Toronto,Canada,14245,170940
+5,Master,Data Analyst,Birmingham,UK,8743,104923
+11,Master,ML Engineer,Rotterdam,Netherlands,17957,215495
+1,PhD,Data Analyst,Lyon,France,7360,88323
+5,Master,Cybersecurity,Luxembourg,Luxembourg,20630,247566
+12,Bachelor,Data Scientist,Berlin,Germany,12366,148392
+8,Master,Data Scientist,Amsterdam,Netherlands,14415,172990
+2,Bachelor,Data Scientist,Kuala Lumpur,Malaysia,4826,57914
+7,Master,Cybersecurity,Chennai,India,6704,80454
+5,Master,Software Engineer,Paris,France,12748,152982
+7,Master,ML Engineer,Lyon,France,15420,185046
+3,PhD,Software Engineer,Hyderabad,India,3331,39973
+4,Bachelor,Cloud Engineer,Amsterdam,Netherlands,14352,172229
+6,Bachelor,ML Engineer,Kuala Lumpur,Malaysia,6406,76872
+9,Bachelor,Data Analyst,Berlin,Germany,11489,137871
+10,PhD,Cloud Engineer,Stockholm,Sweden,18254,219048
+12,PhD,Software Engineer,Madrid,Spain,9779,117355
+9,Master,Software Engineer,Madrid,Spain,8425,101101
+4,PhD,Cloud Engineer,Geneva,Switzerland,24940,299280
+6,PhD,Software Engineer,Melbourne,Australia,16708,200498
+5,Master,Data Scientist,Abu Dhabi,UAE,12620,151442
+0,Bachelor,Cloud Engineer,Rotterdam,Netherlands,10625,127500
+1,Bachelor,Data Scientist,Kuala Lumpur,Malaysia,3852,46229
+1,Bachelor,Software Engineer,Perth,Australia,10342,124108
+7,Bachelor,Cybersecurity,Manchester,UK,11532,138384
+6,Master,Cybersecurity,Geneva,Switzerland,21593,259122
+6,Master,Data Scientist,Lyon,France,12863,154360
+9,Bachelor,Cloud Engineer,Stockholm,Sweden,17341,208092
+3,PhD,Software Engineer,Zurich,Switzerland,20782,249390
+2,Bachelor,ML Engineer,Dubai,UAE,12618,151420
+10,Bachelor,Data Analyst,Amsterdam,Netherlands,11645,139740
+12,Bachelor,Data Analyst,Dublin,Ireland,17934,215208
+6,Master,Cybersecurity,Tokyo,Japan,14792,177507
+3,Master,Cybersecurity,Melbourne,Australia,14053,168646
+2,PhD,ML Engineer,Montreal,Canada,14367,172411
+4,Master,ML Engineer,Paris,France,12093,145125
+12,Master,Cybersecurity,Amsterdam,Netherlands,18515,222182
+4,PhD,Data Analyst,Melbourne,Australia,14336,172032
+8,Bachelor,Data Analyst,Dublin,Ireland,14562,174748
+12,PhD,ML Engineer,Barcelona,Spain,18001,216014
+0,PhD,Data Analyst,Birmingham,UK,5850,70200
+2,PhD,Cybersecurity,Hamburg,Germany,12107,145293
+6,Master,Data Scientist,Singapore,Singapore,17862,214348
+3,Bachelor,Cloud Engineer,Singapore,Singapore,15922,191072
+4,Master,Cybersecurity,Kuala Lumpur,Malaysia,6305,75671
+4,Bachelor,Cybersecurity,Dublin,Ireland,14639,175668
+5,PhD,Software Engineer,Luxembourg,Luxembourg,21047,252564
+0,Master,Cybersecurity,Singapore,Singapore,14630,175560
+3,Master,Cloud Engineer,Barcelona,Spain,8031,96376
+9,Master,Cloud Engineer,Dublin,Ireland,16786,201435
+7,PhD,Software Engineer,Munich,Germany,17973,215685
+9,Bachelor,ML Engineer,Melbourne,Australia,16925,203106
+2,PhD,ML Engineer,Singapore,Singapore,18613,223360
+10,Master,Cybersecurity,Abu Dhabi,UAE,16099,193193
+11,PhD,Cloud Engineer,Abu Dhabi,UAE,21633,259603
+4,PhD,Software Engineer,New York,USA,21399,256795
+5,Bachelor,Data Scientist,Osaka,Japan,11722,140675
+8,PhD,Cloud Engineer,Dublin,Ireland,17080,204962
+8,Bachelor,ML Engineer,Sydney,Australia,16836,202032
+9,Master,Data Scientist,Amsterdam,Netherlands,19377,232534
+9,Bachelor,Cloud Engineer,Luxembourg,Luxembourg,22130,265571
+1,PhD,Cloud Engineer,Kuala Lumpur,Malaysia,4435,53226
+10,Master,Cloud Engineer,Birmingham,UK,12796,153560
+5,Bachelor,Software Engineer,Luxembourg,Luxembourg,16575,198900
+6,Master,Cloud Engineer,Barcelona,Spain,8649,103791
+5,Master,Data Analyst,Stockholm,Sweden,11087,133050
+1,Bachelor,Cybersecurity,Geneva,Switzerland,17546,210556
+9,Master,Data Analyst,Manchester,UK,13367,160409
+4,Master,ML Engineer,Dublin,Ireland,16287,195452
+10,PhD,Data Analyst,Tokyo,Japan,12164,145968
+4,Bachelor,Cybersecurity,Hamburg,Germany,11471,137656
+5,PhD,ML Engineer,Barcelona,Spain,11431,137172
+3,Master,ML Engineer,Vancouver,Canada,16667,200013
+3,Master,Data Analyst,Lyon,France,8913,106956
+9,PhD,Data Scientist,Delhi,India,9017,108208
+9,Bachelor,Data Analyst,Kuala Lumpur,Malaysia,5604,67248
+7,PhD,Software Engineer,Abu Dhabi,UAE,17916,215002
+6,PhD,Software Engineer,Amsterdam,Netherlands,17382,208593
+10,PhD,Data Scientist,Kuala Lumpur,Malaysia,8505,102060
+6,Bachelor,Software Engineer,Paris,France,13183,158198
+5,Master,Cloud Engineer,Sydney,Australia,17628,211541
+10,Master,Cloud Engineer,Singapore,Singapore,22922,275066
+4,Master,Data Analyst,Montreal,Canada,11771,141257
+8,Bachelor,ML Engineer,Amsterdam,Netherlands,14145,169746
+8,Master,Cloud Engineer,London,UK,12920,155045
+1,PhD,ML Engineer,Kuala Lumpur,Malaysia,5103,61243
+7,Bachelor,Software Engineer,Amsterdam,Netherlands,15292,183514
+12,PhD,Cloud Engineer,London,UK,22280,267367
+2,PhD,Software Engineer,Singapore,Singapore,16176,194114
+11,Master,Cloud Engineer,Singapore,Singapore,21342,256104
+8,PhD,Data Analyst,Toronto,Canada,16857,202291
+8,Bachelor,Cybersecurity,Chennai,India,8008,96096
+11,Master,Cybersecurity,Stockholm,Sweden,19214,230574
+2,PhD,ML Engineer,Paris,France,12430,149160
+9,PhD,Data Analyst,Birmingham,UK,8877,106531
+7,PhD,ML Engineer,Singapore,Singapore,22715,272580
+6,Bachelor,Data Scientist,Barcelona,Spain,10734,128808
+9,Bachelor,Cloud Engineer,Luxembourg,Luxembourg,20533,246401
+2,Master,Data Analyst,Amsterdam,Netherlands,10432,125186
+5,Master,ML Engineer,Geneva,Switzerland,22768,273218
+1,PhD,Data Scientist,Kuala Lumpur,Malaysia,4762,57147
+6,Master,Data Analyst,Madrid,Spain,6488,77860
+8,PhD,ML Engineer,Mumbai,India,7253,87043
+1,PhD,Data Scientist,Chennai,India,3097,37165
+0,PhD,Data Analyst,Madrid,Spain,4950,59400
+4,Master,Data Scientist,Hamburg,Germany,12896,154761
+10,PhD,Cybersecurity,Barcelona,Spain,14517,174204
+0,PhD,Software Engineer,Dublin,Ireland,12870,154440
+8,Master,Software Engineer,Abu Dhabi,UAE,14030,168370
+5,Bachelor,Data Scientist,Edinburgh,UK,10747,128970
+11,Master,Software Engineer,London,UK,13481,161777
+6,Bachelor,Cloud Engineer,Geneva,Switzerland,20869,250428
+3,Bachelor,Cloud Engineer,Edinburgh,UK,9733,116801
+1,PhD,ML Engineer,Hyderabad,India,3614,43376
+2,PhD,ML Engineer,Pune,India,4398,52776
+8,Master,ML Engineer,Geneva,Switzerland,24164,289977
+5,Master,Cloud Engineer,Paris,France,14573,174883
+6,Bachelor,Data Analyst,Dublin,Ireland,10834,130014
+5,Bachelor,ML Engineer,Melbourne,Australia,14802,177630
+9,PhD,Cybersecurity,Zurich,Switzerland,26814,321775
+11,PhD,Cloud Engineer,Melbourne,Australia,25523,306284
+4,Master,ML Engineer,Osaka,Japan,14051,168621
+1,PhD,ML Engineer,Zurich,Switzerland,24040,288489
+6,Master,Data Scientist,Perth,Australia,14515,174187
+11,PhD,ML Engineer,Abu Dhabi,UAE,18068,216817
+3,Bachelor,ML Engineer,San Francisco,USA,20840,250086
+2,PhD,Cloud Engineer,Melbourne,Australia,16206,194474
+4,Master,Cloud Engineer,Abu Dhabi,UAE,14620,175441
+3,Bachelor,Data Analyst,Osaka,Japan,9189,110277
+11,Bachelor,Software Engineer,Melbourne,Australia,14660,175923
+4,Bachelor,Software Engineer,Tokyo,Japan,11526,138318
+11,Master,Software Engineer,Geneva,Switzerland,25100,301205
+12,Bachelor,Cloud Engineer,Seattle,USA,24797,297564
+7,PhD,Software Engineer,Manchester,UK,13474,161697
+12,PhD,Data Scientist,Singapore,Singapore,25642,307713
+5,Master,ML Engineer,Singapore,Singapore,19199,230389
+4,Master,Data Analyst,Luxembourg,Luxembourg,15219,182630
+1,Bachelor,Data Analyst,Brisbane,Australia,8647,103764
+3,PhD,Data Scientist,Kuala Lumpur,Malaysia,5409,64911
+3,PhD,Cloud Engineer,Dubai,UAE,14799,177597
+8,Bachelor,Data Analyst,Montreal,Canada,13612,163348
+0,Master,Software Engineer,Dublin,Ireland,11797,141570
+9,Bachelor,Data Analyst,Kuala Lumpur,Malaysia,6180,74169
+2,Bachelor,Data Scientist,Barcelona,Spain,7120,85446
+5,Master,ML Engineer,Abu Dhabi,UAE,13764,165176
+8,Bachelor,Cybersecurity,Abu Dhabi,UAE,14517,174208
+1,Bachelor,Data Analyst,Luxembourg,Luxembourg,11925,143101
+9,Bachelor,ML Engineer,Melbourne,Australia,19501,234021
+6,Bachelor,Cybersecurity,Perth,Australia,13726,164712
+9,Bachelor,Data Analyst,Amsterdam,Netherlands,13274,159291
+7,PhD,ML Engineer,Kuala Lumpur,Malaysia,7756,93076
+8,Bachelor,Cloud Engineer,Berlin,Germany,14841,178096
+3,Master,ML Engineer,Bangalore,India,5378,64537
+6,PhD,Data Scientist,Dubai,UAE,18670,224049
+5,Master,Cybersecurity,Dublin,Ireland,16520,198247
+10,PhD,Cybersecurity,Luxembourg,Luxembourg,28293,339516
+12,Bachelor,Software Engineer,Seattle,USA,22092,265104
+1,Master,ML Engineer,Osaka,Japan,11432,137194
+2,PhD,Software Engineer,Stockholm,Sweden,12371,148461
+8,PhD,Cybersecurity,Perth,Australia,16272,195273
+8,PhD,Software Engineer,Rotterdam,Netherlands,18030,216364
+12,Bachelor,Software Engineer,Geneva,Switzerland,23266,279192
+5,PhD,Software Engineer,Luxembourg,Luxembourg,18510,222126
+5,Master,Cybersecurity,Birmingham,UK,9744,116935
+11,Master,ML Engineer,Frankfurt,Germany,21058,252701
+3,Master,Software Engineer,Singapore,Singapore,14981,179776
+3,Master,Cybersecurity,Lyon,France,9856,118281
+4,Bachelor,Cybersecurity,Paris,France,10550,126600
+3,PhD,Data Analyst,Montreal,Canada,11777,141332
+3,PhD,ML Engineer,Zurich,Switzerland,26061,312735
+2,Bachelor,Cybersecurity,Stockholm,Sweden,11085,133028
+0,PhD,Data Analyst,Melbourne,Australia,10800,129600
+6,Master,Cloud Engineer,Melbourne,Australia,18389,220671
+5,Bachelor,ML Engineer,Hyderabad,India,5201,62415
+8,Bachelor,Data Analyst,Delhi,India,3979,47752
+10,Master,ML Engineer,Kuala Lumpur,Malaysia,10391,124696
+11,PhD,Data Analyst,Pune,India,8699,104398
+8,PhD,Data Analyst,Hamburg,Germany,11348,136176
+2,Bachelor,Cybersecurity,Dublin,Ireland,12876,154522
+6,PhD,ML Engineer,New York,USA,25912,310946
+5,Master,Cybersecurity,Tokyo,Japan,15061,180741
+5,Master,Software Engineer,Tokyo,Japan,14039,168476
+1,Master,Cloud Engineer,Boston,USA,16966,203601
+12,Master,Cybersecurity,Dublin,Ireland,21247,254971
+2,Bachelor,Data Analyst,Luxembourg,Luxembourg,12397,148770
+7,Bachelor,Data Scientist,Geneva,Switzerland,22625,271509
+1,Master,Data Analyst,Boston,USA,12778,153347
+1,Bachelor,Software Engineer,Sydney,Australia,12696,152357
+7,Bachelor,ML Engineer,Luxembourg,Luxembourg,20436,245238
+0,Bachelor,Data Scientist,Geneva,Switzerland,16800,201600
+9,Bachelor,ML Engineer,Berlin,Germany,12039,144469
+8,PhD,Cybersecurity,Montreal,Canada,16847,202166
+2,Bachelor,Software Engineer,Montreal,Canada,10673,128086
+11,Bachelor,Cybersecurity,Dublin,Ireland,17629,211559
+8,Master,Software Engineer,Zurich,Switzerland,21352,256229
+3,PhD,Cloud Engineer,Manchester,UK,10929,131157
+1,PhD,Cybersecurity,Zurich,Switzerland,21949,263397
+9,Bachelor,Data Analyst,Paris,France,13352,160227
+0,Master,ML Engineer,Osaka,Japan,10725,128700
+2,PhD,Cloud Engineer,Munich,Germany,14006,168079
+10,Bachelor,ML Engineer,Sydney,Australia,16765,201180
+12,PhD,Data Analyst,Edinburgh,UK,12042,144511
+0,Master,Cybersecurity,Geneva,Switzerland,18480,221760
+4,Master,Data Scientist,Melbourne,Australia,15884,190612
+5,PhD,Cloud Engineer,Dublin,Ireland,17041,204498
+9,Bachelor,Software Engineer,Toronto,Canada,13581,162981
+4,Master,Data Analyst,Amsterdam,Netherlands,11721,140661
+11,Master,ML Engineer,Dubai,UAE,16990,203886
+6,Master,ML Engineer,Rotterdam,Netherlands,15439,185268
+6,Bachelor,ML Engineer,Osaka,Japan,13030,156360
+12,PhD,Data Analyst,Dublin,Ireland,19174,230097
+6,Bachelor,Software Engineer,Dublin,Ireland,15446,185358
+5,Bachelor,Cloud Engineer,Perth,Australia,13405,160865
+2,PhD,ML Engineer,Madrid,Spain,8663,103960
+10,Bachelor,Data Analyst,Zurich,Switzerland,20385,244630
+9,PhD,Cybersecurity,Amsterdam,Netherlands,18124,217494
+12,Bachelor,ML Engineer,Amsterdam,Netherlands,14982,179794
+8,PhD,ML Engineer,Paris,France,15086,181041
+10,PhD,Data Analyst,Montreal,Canada,13010,156120
+11,Master,Cloud Engineer,Munich,Germany,15715,188580
+4,Bachelor,Data Analyst,Dublin,Ireland,11765,141184
+6,Master,Cybersecurity,Pune,India,6206,74481
+11,Master,ML Engineer,Singapore,Singapore,20003,240042
+12,Master,Cybersecurity,Kuala Lumpur,Malaysia,11639,139669
+0,PhD,Data Analyst,Singapore,Singapore,11969,143639
+2,PhD,Cybersecurity,Frankfurt,Germany,13178,158138
+2,PhD,Data Scientist,Perth,Australia,14100,169204
+9,Bachelor,Data Scientist,Geneva,Switzerland,20610,247320
+5,Bachelor,Data Scientist,Stockholm,Sweden,11680,140170
+8,PhD,Cybersecurity,Singapore,Singapore,23262,279148
+0,Bachelor,Data Analyst,Paris,France,6825,81900
+6,PhD,Cybersecurity,Stockholm,Sweden,13382,160588
+5,PhD,Software Engineer,Melbourne,Australia,16975,203700
+9,Master,Cybersecurity,San Francisco,USA,24952,299425
+3,PhD,Cloud Engineer,Singapore,Singapore,18074,216895
+10,PhD,Data Scientist,Birmingham,UK,16679,200148
+4,PhD,Data Scientist,Montreal,Canada,14284,171408
+12,Bachelor,Software Engineer,Berlin,Germany,16064,192776
+1,Bachelor,Cloud Engineer,Stockholm,Sweden,10600,127205
+6,Master,Cloud Engineer,Kuala Lumpur,Malaysia,8322,99871
+6,Bachelor,Cybersecurity,Kuala Lumpur,Malaysia,6511,78132
+12,Bachelor,Software Engineer,Edinburgh,UK,13530,162362
+12,PhD,Cloud Engineer,Sydney,Australia,23968,287620
+5,Master,Data Analyst,Dublin,Ireland,13565,162783
+0,Master,Cloud Engineer,Dubai,UAE,12661,151937
+5,PhD,Cybersecurity,Dublin,Ireland,18403,220836
+0,Master,Data Scientist,Tokyo,Japan,10725,128700
+4,Bachelor,Data Scientist,Amsterdam,Netherlands,12316,147796
+5,Bachelor,Cloud Engineer,Austin,USA,15911,190935
+5,PhD,Data Analyst,Abu Dhabi,UAE,13619,163428
+2,Master,Data Analyst,Boston,USA,12634,151608
+6,Bachelor,Software Engineer,Singapore,Singapore,15411,184940
+1,Bachelor,Cloud Engineer,Zurich,Switzerland,19020,228244
+9,Master,Cloud Engineer,Montreal,Canada,18016,216196
+12,Bachelor,Cloud Engineer,Birmingham,UK,11738,140866
+2,PhD,ML Engineer,Rotterdam,Netherlands,14557,174686
+3,Bachelor,Data Analyst,Madrid,Spain,5218,62619
+8,Bachelor,ML Engineer,Singapore,Singapore,19250,231004
+8,Bachelor,Cloud Engineer,Singapore,Singapore,16916,203002
+7,Bachelor,Software Engineer,Seattle,USA,18189,218276
+5,PhD,Cybersecurity,Boston,USA,21610,259326
+12,PhD,ML Engineer,Delhi,India,7558,90696
+0,Master,Cybersecurity,Luxembourg,Luxembourg,16940,203280
+1,PhD,Software Engineer,Kuala Lumpur,Malaysia,4593,55122
+12,Bachelor,Cybersecurity,Singapore,Singapore,17876,214512
+1,PhD,ML Engineer,Abu Dhabi,UAE,14117,169413
+6,PhD,Cloud Engineer,Geneva,Switzerland,24479,293752
+0,Master,Software Engineer,Zurich,Switzerland,18150,217800
+1,PhD,Software Engineer,Dublin,Ireland,13745,164949
+11,Bachelor,Cybersecurity,London,UK,16234,194813
+6,Master,Cybersecurity,Osaka,Japan,12791,153502
+6,PhD,Cloud Engineer,Melbourne,Australia,17292,207504
+3,PhD,Software Engineer,Birmingham,UK,9770,117249
+1,Master,Cloud Engineer,Kuala Lumpur,Malaysia,4403,52845
+12,PhD,ML Engineer,Singapore,Singapore,21048,252580
+10,PhD,Cloud Engineer,Zurich,Switzerland,32389,388668
+3,Master,Data Analyst,Berlin,Germany,8837,106055
+12,Master,Data Analyst,Luxembourg,Luxembourg,19455,233468
+5,Master,Software Engineer,Melbourne,Australia,16562,198748
+12,Bachelor,Data Analyst,Singapore,Singapore,18323,219876
+12,PhD,Cloud Engineer,Singapore,Singapore,22343,268116
+11,Bachelor,Data Scientist,Dublin,Ireland,19381,232580
+4,Bachelor,Cloud Engineer,Stockholm,Sweden,11912,142952
+3,Master,Software Engineer,Rotterdam,Netherlands,11966,143599
+4,Master,ML Engineer,Manchester,UK,9935,119220
+0,Bachelor,Data Scientist,Zurich,Switzerland,18000,216000
+4,PhD,Data Analyst,New York,USA,17794,213537
+1,Bachelor,Data Analyst,Rotterdam,Netherlands,7920,95048
+6,Bachelor,Data Analyst,Luxembourg,Luxembourg,14139,169674
+3,Bachelor,Data Scientist,Manchester,UK,8740,104889
+9,Master,Cybersecurity,San Francisco,USA,25076,300920
+0,PhD,ML Engineer,Madrid,Spain,7150,85800
+2,PhD,ML Engineer,Geneva,Switzerland,23583,282998
+7,PhD,Data Scientist,Singapore,Singapore,22866,274402
+0,PhD,Software Engineer,Melbourne,Australia,13200,158400
+6,Bachelor,Data Analyst,Hyderabad,India,4470,53646
+6,Bachelor,Data Scientist,New York,USA,19465,233580
+8,PhD,Cybersecurity,Dublin,Ireland,21093,253123
+7,Master,Software Engineer,Rotterdam,Netherlands,15284,183410
+0,Master,Data Analyst,Amsterdam,Netherlands,9116,109395
+6,Bachelor,Software Engineer,Zurich,Switzerland,20645,247740
+9,Master,Data Scientist,Edinburgh,UK,15518,186222
+2,PhD,Cybersecurity,Osaka,Japan,11615,139389
+6,Master,Software Engineer,Sydney,Australia,18050,216601
+8,Bachelor,Data Scientist,Kuala Lumpur,Malaysia,6160,73920
+4,PhD,Software Engineer,Barcelona,Spain,9638,115656
+4,PhD,ML Engineer,Tokyo,Japan,14487,173844
+9,PhD,Data Analyst,Barcelona,Spain,10053,120646
+6,Master,Cloud Engineer,Singapore,Singapore,16966,203599
+0,Bachelor,Data Scientist,Singapore,Singapore,13300,159600
+2,PhD,Data Scientist,Stockholm,Sweden,12460,149520
+6,PhD,Cybersecurity,Seattle,USA,20558,246700
+5,Bachelor,Cybersecurity,Osaka,Japan,11055,132665
+5,PhD,Cloud Engineer,Luxembourg,Luxembourg,20972,251670
+7,Master,ML Engineer,Birmingham,UK,11812,141744
+9,PhD,Cloud Engineer,Berlin,Germany,17965,215581
+3,Bachelor,ML Engineer,Melbourne,Australia,15111,181341
+7,Master,Data Analyst,Dubai,UAE,12957,155487
+11,PhD,Cloud Engineer,Sydney,Australia,22168,266016
+12,PhD,Cybersecurity,Geneva,Switzerland,26314,315777
+7,Master,Software Engineer,Amsterdam,Netherlands,15530,186365
+2,Master,Data Scientist,Munich,Germany,12958,155498
+6,Master,Cybersecurity,Tokyo,Japan,15841,190099
+10,PhD,Software Engineer,Montreal,Canada,17088,205056
+6,Bachelor,ML Engineer,Singapore,Singapore,16922,203074
+4,Master,ML Engineer,Dublin,Ireland,15578,186942
+2,PhD,Cybersecurity,Birmingham,UK,9016,108196
+10,PhD,Cybersecurity,Mumbai,India,9904,118848
+8,Master,Software Engineer,Berlin,Germany,11660,139920
+4,Bachelor,Cybersecurity,Chicago,USA,14753,177044
+6,PhD,Data Scientist,Luxembourg,Luxembourg,22108,265305
+1,PhD,Cloud Engineer,Luxembourg,Luxembourg,19587,235045
+6,Master,Data Scientist,Kuala Lumpur,Malaysia,6528,78342
+0,Bachelor,Data Scientist,Luxembourg,Luxembourg,15400,184800
+10,Bachelor,Data Scientist,Luxembourg,Luxembourg,20595,247150
+5,PhD,ML Engineer,Paris,France,15065,180786
+4,PhD,Cybersecurity,Paris,France,14366,172401
+2,PhD,Cloud Engineer,Amsterdam,Netherlands,15266,183195
+4,PhD,Cybersecurity,Abu Dhabi,UAE,14302,171633
+1,PhD,Cybersecurity,Singapore,Singapore,16917,203014
+1,Bachelor,Cloud Engineer,Singapore,Singapore,14535,174423
+5,Bachelor,Software Engineer,Melbourne,Australia,14845,178150
+11,Bachelor,Software Engineer,Dublin,Ireland,16962,203555
+6,Bachelor,Cybersecurity,Dublin,Ireland,16368,196416
+8,Bachelor,Cloud Engineer,Barcelona,Spain,12877,154528
+6,Master,ML Engineer,Geneva,Switzerland,22408,268903
+12,Master,Software Engineer,Luxembourg,Luxembourg,20824,249898
+12,Bachelor,ML Engineer,Kuala Lumpur,Malaysia,11160,133920
+12,Bachelor,ML Engineer,Berlin,Germany,17990,215884
+5,PhD,Software Engineer,Stockholm,Sweden,15342,184104
+2,Master,ML Engineer,London,UK,12432,149184
+6,Bachelor,Cybersecurity,Tokyo,Japan,14746,176952
+11,Master,Cybersecurity,Manchester,UK,11146,133753
+10,Master,Data Scientist,Melbourne,Australia,20406,244882
+3,PhD,Data Scientist,Berlin,Germany,12301,147621
+11,Master,Cloud Engineer,Abu Dhabi,UAE,21371,256458
+7,Bachelor,Cybersecurity,Lyon,France,12825,153902
+7,Bachelor,Software Engineer,Munich,Germany,14151,169812
+12,Bachelor,Data Analyst,Barcelona,Spain,13311,159732
+6,Master,Software Engineer,Paris,France,12735,152825
+2,Bachelor,Cybersecurity,Mumbai,India,3789,45470
+2,Bachelor,ML Engineer,Frankfurt,Germany,11739,140868
+1,Master,ML Engineer,Geneva,Switzerland,20584,247010
+10,Master,Cybersecurity,Madrid,Spain,11286,135443
+3,Master,Cybersecurity,Frankfurt,Germany,13173,158076
+4,Master,Data Analyst,Singapore,Singapore,13598,163178
+9,Bachelor,Cybersecurity,Austin,USA,18185,218223
+2,Bachelor,Software Engineer,Dublin,Ireland,11628,139546
+2,Bachelor,Cloud Engineer,Austin,USA,15258,183098
+12,Bachelor,ML Engineer,Luxembourg,Luxembourg,22860,274324
+5,PhD,Data Analyst,Toronto,Canada,12315,147786
+2,PhD,Cloud Engineer,Zurich,Switzerland,23442,281313
+3,Master,Software Engineer,London,UK,10928,131140
+3,Bachelor,Data Scientist,Mumbai,India,4534,54414
+1,Master,Cybersecurity,Dubai,UAE,13037,156444
+1,Master,Cybersecurity,Dublin,Ireland,13236,158836
+8,PhD,Software Engineer,Birmingham,UK,13704,164452
+1,PhD,Cybersecurity,Barcelona,Spain,8160,97921
+10,Master,Cybersecurity,Kuala Lumpur,Malaysia,7960,95524
+11,PhD,Cloud Engineer,Stockholm,Sweden,19295,231542
+7,PhD,ML Engineer,Toronto,Canada,20568,246826
+10,PhD,Cloud Engineer,Amsterdam,Netherlands,16830,201966
+9,Bachelor,Software Engineer,Dublin,Ireland,16127,193527
+9,PhD,Data Analyst,Melbourne,Australia,15006,180079
+12,Master,Cybersecurity,Luxembourg,Luxembourg,26457,317486
+3,PhD,Data Scientist,London,UK,13779,165348
+8,Bachelor,Data Analyst,Luxembourg,Luxembourg,14458,173504
+5,Bachelor,ML Engineer,Kuala Lumpur,Malaysia,7219,86630
+11,Master,Cybersecurity,Seattle,USA,25060,300723
+1,PhD,Data Analyst,Tokyo,Japan,9147,109764
+3,PhD,Data Scientist,Madrid,Spain,8046,96562
+11,Bachelor,ML Engineer,Luxembourg,Luxembourg,23950,287408
+4,PhD,Software Engineer,Perth,Australia,14923,179083
+0,PhD,Cybersecurity,Amsterdam,Netherlands,13260,159120
+7,PhD,Software Engineer,Bangalore,India,5091,61099
+12,PhD,Data Scientist,Rotterdam,Netherlands,23510,282124
+7,Bachelor,Data Analyst,Stockholm,Sweden,10530,126363
+10,Master,Data Analyst,Paris,France,13707,164494
+7,Master,ML Engineer,Luxembourg,Luxembourg,22394,268737
+9,PhD,Cybersecurity,Frankfurt,Germany,15943,191322
+10,Master,Data Analyst,Lyon,France,11424,137093
+0,PhD,Cloud Engineer,Tokyo,Japan,12187,146250
+4,Bachelor,Data Scientist,Mumbai,India,4560,54720
+12,PhD,Data Analyst,Kuala Lumpur,Malaysia,13334,160012
+4,Bachelor,Cloud Engineer,Kuala Lumpur,Malaysia,6050,72610
+11,Bachelor,Data Analyst,Vancouver,Canada,12215,146583
+11,Master,Cloud Engineer,Montreal,Canada,17978,215743
+6,PhD,Data Scientist,Kuala Lumpur,Malaysia,7644,91728
+9,Bachelor,ML Engineer,Zurich,Switzerland,23306,279675
+8,Master,Software Engineer,Hamburg,Germany,15668,188020
+9,Bachelor,Data Analyst,Kuala Lumpur,Malaysia,6691,80298
+3,PhD,Cloud Engineer,Dublin,Ireland,17310,207730
+6,Master,Data Analyst,Vancouver,Canada,11422,137075
+6,PhD,ML Engineer,Toronto,Canada,16967,203608
+1,PhD,Cloud Engineer,Lyon,France,10046,120562
+3,Master,Cybersecurity,Boston,USA,17499,209992
+3,Master,Software Engineer,Kuala Lumpur,Malaysia,5273,63280
+7,Bachelor,Cloud Engineer,Kuala Lumpur,Malaysia,6438,77258
+2,Master,Data Analyst,Luxembourg,Luxembourg,13641,163702
+10,Master,ML Engineer,Luxembourg,Luxembourg,21950,263406
+12,Bachelor,Cloud Engineer,Toronto,Canada,16425,197100
+5,Master,Data Analyst,Barcelona,Spain,6988,83858
+1,Bachelor,Data Analyst,Dubai,UAE,9096,109156
+5,Bachelor,Data Analyst,Luxembourg,Luxembourg,14964,179570
+11,Bachelor,Software Engineer,Singapore,Singapore,19235,230824
+5,Master,Cybersecurity,Luxembourg,Luxembourg,20540,246482
+6,PhD,Cybersecurity,Toronto,Canada,15718,188625
+9,Bachelor,ML Engineer,Dublin,Ireland,15504,186048
+4,PhD,Cybersecurity,Singapore,Singapore,18707,224491
+1,Master,ML Engineer,San Francisco,USA,22124,265492
+7,Bachelor,Cloud Engineer,Stockholm,Sweden,14433,173207
+10,Bachelor,Cybersecurity,Brisbane,Australia,17026,204320
+4,Bachelor,ML Engineer,Kuala Lumpur,Malaysia,6657,79892
+7,PhD,Data Scientist,Vancouver,Canada,20199,242391
+7,PhD,Cybersecurity,Abu Dhabi,UAE,18274,219296
+11,Bachelor,Cybersecurity,Dublin,Ireland,15649,187799
+3,Bachelor,Data Scientist,Tokyo,Japan,11698,140382
+4,PhD,Software Engineer,Kuala Lumpur,Malaysia,5933,71198
+8,PhD,ML Engineer,Geneva,Switzerland,26577,318931
+5,Master,Data Scientist,Paris,France,13658,163905
+9,Master,Cloud Engineer,Singapore,Singapore,23445,281340
+0,PhD,Data Scientist,Perth,Australia,13200,158400
+1,Bachelor,ML Engineer,Abu Dhabi,UAE,11304,135653
+11,Bachelor,Software Engineer,Dublin,Ireland,14958,179498
+0,Bachelor,Data Analyst,Barcelona,Spain,4500,54000
+9,Bachelor,Data Scientist,Abu Dhabi,UAE,13461,161541
+8,PhD,Data Analyst,Geneva,Switzerland,22007,264086
+2,Bachelor,Cybersecurity,Munich,Germany,11654,139850
+9,Bachelor,Cloud Engineer,Amsterdam,Netherlands,15390,184691
+8,Bachelor,Software Engineer,Luxembourg,Luxembourg,19688,236256
+4,Bachelor,Software Engineer,London,UK,11617,139408
+7,Bachelor,ML Engineer,Singapore,Singapore,17573,210882
+3,PhD,ML Engineer,Toronto,Canada,15712,188553
+9,PhD,ML Engineer,Birmingham,UK,13138,157657
+6,Master,ML Engineer,Barcelona,Spain,11133,133603
+5,PhD,Cloud Engineer,Kuala Lumpur,Malaysia,6219,74628
+12,Bachelor,Data Scientist,Montreal,Canada,19773,237276
+7,PhD,Cybersecurity,Zurich,Switzerland,28037,336446
+7,PhD,Data Scientist,Madrid,Spain,8708,104500
+5,Master,Cybersecurity,Paris,France,11470,137643
+0,PhD,Cloud Engineer,Lyon,France,9625,115500
+6,Master,Data Scientist,Brisbane,Australia,13963,167567
+11,PhD,Cloud Engineer,Luxembourg,Luxembourg,27957,335491
+12,Bachelor,Data Scientist,Kuala Lumpur,Malaysia,8771,105252
+1,Bachelor,ML Engineer,Seattle,USA,17185,206224
+7,PhD,Cybersecurity,Stockholm,Sweden,15374,184498
+10,Master,Data Scientist,Luxembourg,Luxembourg,25498,305976
+5,Bachelor,Cloud Engineer,Vancouver,Canada,13783,165405
+8,Master,Data Analyst,Madrid,Spain,7542,90512
+5,Bachelor,Cloud Engineer,Madrid,Spain,7845,94140
+7,PhD,Software Engineer,Tokyo,Japan,17419,209037
+8,Master,Software Engineer,Seattle,USA,21145,253748
+7,Master,Software Engineer,Stockholm,Sweden,14630,175565
+7,Master,Software Engineer,Toronto,Canada,17057,204692
+5,Bachelor,Software Engineer,Stockholm,Sweden,12774,153290
+3,Master,Cybersecurity,Abu Dhabi,UAE,13292,159515
+4,PhD,Software Engineer,Stockholm,Sweden,12713,152558
+5,Master,Software Engineer,Manchester,UK,11133,133600
+11,Bachelor,ML Engineer,Amsterdam,Netherlands,17433,209199
+11,Master,Data Analyst,Osaka,Japan,13252,159025
+6,Master,ML Engineer,Kuala Lumpur,Malaysia,8052,96630
+9,Bachelor,Data Analyst,Chicago,USA,16920,203049
+9,Bachelor,ML Engineer,Edinburgh,UK,11999,143989
+6,Master,Data Scientist,Perth,Australia,16476,197716
+4,Bachelor,Cloud Engineer,Vancouver,Canada,14646,175754
+5,PhD,Data Scientist,Brisbane,Australia,16781,201378
+4,Bachelor,ML Engineer,Montreal,Canada,14053,168644
+4,PhD,Data Scientist,Vancouver,Canada,17396,208756
+7,Bachelor,Software Engineer,Brisbane,Australia,15615,187388
+9,Bachelor,Software Engineer,Zurich,Switzerland,20620,247446
+7,Master,Data Scientist,Bangalore,India,6659,79911
+7,Bachelor,Software Engineer,Munich,Germany,11537,138445
+10,Bachelor,Cloud Engineer,Zurich,Switzerland,22647,271770
+6,Master,Data Analyst,Chennai,India,3888,46662
+2,Master,Software Engineer,Edinburgh,UK,7995,95950
+5,Master,Cybersecurity,Chicago,USA,17686,212234
+2,PhD,Cloud Engineer,Lyon,France,11608,139296
+5,Bachelor,Data Analyst,Singapore,Singapore,11541,138500
+6,Master,Cloud Engineer,Zurich,Switzerland,24819,297831
+1,Master,Data Scientist,Abu Dhabi,UAE,11933,143205
+5,Master,ML Engineer,Singapore,Singapore,19686,236241
+4,Bachelor,ML Engineer,Kuala Lumpur,Malaysia,6614,79376
+5,Master,Data Scientist,Abu Dhabi,UAE,14506,174075
+9,PhD,Cybersecurity,Geneva,Switzerland,25332,303987
+9,Master,Software Engineer,Madrid,Spain,11434,137216
+2,Bachelor,Data Scientist,London,UK,9792,117508
+6,Master,ML Engineer,Madrid,Spain,11990,143884
+2,Bachelor,Software Engineer,Madrid,Spain,6445,77344
+2,Master,Cloud Engineer,Hamburg,Germany,11272,135267
+6,PhD,Software Engineer,Rotterdam,Netherlands,16092,193111
+4,Master,Cloud Engineer,Munich,Germany,13236,158840
+1,PhD,Data Scientist,Abu Dhabi,UAE,12575,150906
+5,Bachelor,ML Engineer,Rotterdam,Netherlands,13137,157650
+10,Bachelor,Cloud Engineer,Abu Dhabi,UAE,14494,173930
+4,Master,Data Scientist,Sydney,Australia,16009,192108
+6,PhD,ML Engineer,Paris,France,17653,211836
+8,PhD,Cybersecurity,London,UK,16586,199036
+11,PhD,ML Engineer,Luxembourg,Luxembourg,26999,323994
+1,PhD,Software Engineer,Montreal,Canada,11828,141940
+1,Master,Software Engineer,Toronto,Canada,11292,135512
+7,PhD,Cybersecurity,Birmingham,UK,13012,156154
+6,PhD,Cybersecurity,New York,USA,23594,283132
+0,PhD,Cybersecurity,Luxembourg,Luxembourg,18480,221760
+5,Bachelor,Data Scientist,Abu Dhabi,UAE,13816,165800
+11,Master,Software Engineer,Berlin,Germany,15474,185698
+1,Master,ML Engineer,Edinburgh,UK,9147,109771
+0,PhD,Software Engineer,Dublin,Ireland,12870,154440
+7,Bachelor,Software Engineer,Munich,Germany,11554,138655
+4,Bachelor,Data Analyst,Hamburg,Germany,9420,113040
+11,Bachelor,Data Analyst,Lyon,France,14892,178706
+7,Bachelor,Data Analyst,Zurich,Switzerland,19310,231727
+4,Bachelor,Cybersecurity,Amsterdam,Netherlands,12801,153620
+5,Bachelor,Data Scientist,Melbourne,Australia,15456,185475
+12,Master,Cloud Engineer,Luxembourg,Luxembourg,26650,319805
+8,Master,Cybersecurity,Rotterdam,Netherlands,18208,218504
+10,Master,Data Analyst,Melbourne,Australia,16661,199936
+6,Bachelor,Cybersecurity,Abu Dhabi,UAE,14347,172170
+12,Bachelor,Data Scientist,Berlin,Germany,15244,182928
+5,Master,Data Scientist,Rotterdam,Netherlands,15674,188094
+11,Master,Cloud Engineer,Tokyo,Japan,18105,217262
+5,PhD,Software Engineer,Luxembourg,Luxembourg,20716,248592
+7,Bachelor,Data Scientist,Madrid,Spain,10324,123897
+11,Bachelor,Data Scientist,Rotterdam,Netherlands,14148,169777
+5,Master,Cloud Engineer,Montreal,Canada,13024,156288
+9,Master,Data Analyst,Dublin,Ireland,14007,168092
+4,PhD,Cybersecurity,Zurich,Switzerland,23787,285451
+12,Master,Data Scientist,Kuala Lumpur,Malaysia,8141,97693
+7,Master,Cybersecurity,Mumbai,India,8204,98454
+2,PhD,Cybersecurity,Singapore,Singapore,16825,201904
+10,Bachelor,Cybersecurity,Edinburgh,UK,10438,125260
+1,Master,Software Engineer,Barcelona,Spain,6571,78855
+3,Master,Data Scientist,Tokyo,Japan,13182,158192
+7,Bachelor,Data Analyst,Toronto,Canada,11372,136470
+10,Bachelor,Data Analyst,Stockholm,Sweden,11338,136060
+2,Master,Software Engineer,Birmingham,UK,8256,99072
+1,PhD,ML Engineer,Tokyo,Japan,13334,160017
+9,Master,Cybersecurity,Rotterdam,Netherlands,14170,170042
+3,Bachelor,Software Engineer,Rotterdam,Netherlands,11638,139662
+8,PhD,ML Engineer,Amsterdam,Netherlands,21517,258204
+11,Master,Cloud Engineer,Zurich,Switzerland,26276,315320
+11,PhD,Cybersecurity,Vancouver,Canada,23641,283702
+2,PhD,Software Engineer,Geneva,Switzerland,19636,235639
+1,PhD,ML Engineer,Rotterdam,Netherlands,14121,169458
+3,Bachelor,Cloud Engineer,Mumbai,India,3817,45804
+9,Bachelor,ML Engineer,Hyderabad,India,5984,71809
+9,PhD,Cybersecurity,Zurich,Switzerland,25084,301017
+5,PhD,Data Scientist,Osaka,Japan,15127,181530
+7,PhD,Data Analyst,Lyon,France,13304,159650
+2,Bachelor,Data Scientist,Barcelona,Spain,6508,78104
+6,Bachelor,Cloud Engineer,Perth,Australia,14828,177946
+3,PhD,Data Scientist,Rotterdam,Netherlands,14782,177390
+5,Bachelor,Data Analyst,Manchester,UK,8009,96115
+6,Master,Data Scientist,Luxembourg,Luxembourg,21120,253440
+11,Master,Data Scientist,Kuala Lumpur,Malaysia,7093,85123
+5,Bachelor,ML Engineer,Lyon,France,12251,147015
+6,Master,Data Scientist,Kuala Lumpur,Malaysia,5723,68686
+12,PhD,Data Scientist,Abu Dhabi,UAE,16863,202363
+6,Master,Data Analyst,Toronto,Canada,14324,171897
+8,Master,Data Analyst,Singapore,Singapore,13272,159275
+10,Master,Software Engineer,Kuala Lumpur,Malaysia,6111,73337
+9,Bachelor,Software Engineer,Tokyo,Japan,13403,160845
+8,PhD,Data Scientist,Dublin,Ireland,16476,197721
+8,PhD,ML Engineer,Luxembourg,Luxembourg,23156,277881
+4,PhD,Cloud Engineer,London,UK,12607,151288
+2,Master,Data Scientist,Montreal,Canada,12175,146108
+1,PhD,ML Engineer,Zurich,Switzerland,23845,286143
+5,Master,Cybersecurity,Dublin,Ireland,14670,176049
+8,Master,Software Engineer,Edinburgh,UK,10841,130092
+11,Bachelor,Cybersecurity,Stockholm,Sweden,14260,171124
+8,Master,Data Scientist,San Francisco,USA,24860,298328
+11,Master,Cloud Engineer,Kuala Lumpur,Malaysia,10599,127195
+10,Bachelor,Cybersecurity,Bangalore,India,6220,74650
+9,Master,Cloud Engineer,Hamburg,Germany,16957,203486
+7,PhD,ML Engineer,Singapore,Singapore,20271,243255
+2,Bachelor,Software Engineer,Paris,France,9180,110164
+0,PhD,Cybersecurity,Abu Dhabi,UAE,12240,146880
+11,Master,Data Analyst,Abu Dhabi,UAE,13514,162169
+4,PhD,Data Scientist,Lyon,France,11576,138921
+11,Bachelor,Data Analyst,Dublin,Ireland,12183,146198
+0,PhD,ML Engineer,Edinburgh,UK,9295,111540
+0,PhD,Cloud Engineer,Kuala Lumpur,Malaysia,4125,49500
+4,Master,Data Scientist,Luxembourg,Luxembourg,19655,235870
+1,Master,Data Analyst,Luxembourg,Luxembourg,13310,159731
+3,PhD,Data Scientist,Dublin,Ireland,15585,187030
+12,Bachelor,Cybersecurity,Lyon,France,13027,156324
+4,PhD,ML Engineer,Dubai,UAE,17882,214586
+1,Master,Software Engineer,Dublin,Ireland,12555,150667
+12,PhD,Cybersecurity,Kuala Lumpur,Malaysia,8678,104140
+7,PhD,ML Engineer,Madrid,Spain,12068,144818
+8,PhD,Software Engineer,Osaka,Japan,14341,172099
+9,Bachelor,ML Engineer,Stockholm,Sweden,17129,205548
+5,PhD,Software Engineer,Dublin,Ireland,15381,184572
+5,PhD,ML Engineer,Paris,France,14775,177300
+8,Bachelor,Cloud Engineer,Edinburgh,UK,9943,119319
+6,PhD,ML Engineer,San Francisco,USA,26588,319060
+1,PhD,ML Engineer,Geneva,Switzerland,22239,266872
+9,PhD,Cloud Engineer,Barcelona,Spain,12049,144594
+3,Master,Data Scientist,Dubai,UAE,13132,157588
+1,Bachelor,Cybersecurity,Paris,France,9584,115013
+7,Bachelor,ML Engineer,Kuala Lumpur,Malaysia,7096,85152
+10,Bachelor,ML Engineer,Rotterdam,Netherlands,17215,206580
+10,Master,Cloud Engineer,Singapore,Singapore,19965,239580
+3,PhD,Data Scientist,Rotterdam,Netherlands,13977,167731
+1,Master,Cybersecurity,Lyon,France,9242,110907
+5,PhD,Cloud Engineer,Abu Dhabi,UAE,15908,190896
+12,Master,Cloud Engineer,Singapore,Singapore,23386,280634
+12,PhD,Software Engineer,Barcelona,Spain,12026,144316
+12,Master,ML Engineer,Delhi,India,8978,107742
+7,Master,Cybersecurity,Singapore,Singapore,19314,231770
+10,Bachelor,Data Analyst,London,UK,10099,121190
+11,Master,Cloud Engineer,San Francisco,USA,27917,335007
+12,PhD,Cybersecurity,Amsterdam,Netherlands,24282,291384
+11,Master,Data Analyst,Birmingham,UK,15055,180667
+6,PhD,Data Scientist,Berlin,Germany,14742,176911
+7,Master,Software Engineer,Vancouver,Canada,17199,206396
+5,PhD,ML Engineer,Perth,Australia,16966,203592
+4,Master,Software Engineer,Toronto,Canada,13761,165136
+1,Bachelor,Data Analyst,Toronto,Canada,8571,102863
+2,PhD,Data Analyst,Dublin,Ireland,11185,134222
+7,Bachelor,Data Analyst,Kuala Lumpur,Malaysia,7811,93736
+2,Master,ML Engineer,Singapore,Singapore,16465,197586
+11,PhD,Cloud Engineer,Berlin,Germany,16042,192508
+9,Master,Cybersecurity,Manchester,UK,11073,132881
+12,Master,Data Scientist,Geneva,Switzerland,28106,337273
+11,Master,Software Engineer,Singapore,Singapore,19324,231896
+11,PhD,Software Engineer,Madrid,Spain,14056,168682
+10,Master,ML Engineer,Melbourne,Australia,19109,229317
+5,Bachelor,Cloud Engineer,Dublin,Ireland,14106,169275
+3,Bachelor,Data Analyst,Geneva,Switzerland,15077,180930
+1,Bachelor,ML Engineer,Chicago,USA,14616,175392
+11,PhD,Cybersecurity,Luxembourg,Luxembourg,24845,298148
+5,PhD,Software Engineer,Zurich,Switzerland,23195,278340
+8,Bachelor,Software Engineer,Osaka,Japan,13688,164256
+8,Bachelor,Software Engineer,Rotterdam,Netherlands,14448,173376
+9,Bachelor,Cloud Engineer,Dublin,Ireland,15737,188847
+4,Bachelor,Data Analyst,Paris,France,8054,96652
+4,Master,ML Engineer,Geneva,Switzerland,22456,269482
+10,Bachelor,Cybersecurity,Geneva,Switzerland,20143,241720
+11,PhD,Cloud Engineer,Geneva,Switzerland,26558,318699
+5,PhD,Cloud Engineer,Luxembourg,Luxembourg,22479,269748
+6,Master,Software Engineer,Osaka,Japan,13438,161257
+11,Master,Data Scientist,Melbourne,Australia,18691,224296
+1,PhD,ML Engineer,Montreal,Canada,13263,159162
+6,Master,Cybersecurity,Stockholm,Sweden,12511,150136
+11,Bachelor,Data Scientist,San Francisco,USA,20995,251948
+7,PhD,Data Analyst,Hyderabad,India,6687,80250
+5,PhD,Cloud Engineer,Zurich,Switzerland,26864,322374
+3,PhD,ML Engineer,Luxembourg,Luxembourg,21757,261091
+0,Bachelor,Data Analyst,Seattle,USA,11700,140400
+2,Bachelor,Cybersecurity,Rotterdam,Netherlands,11512,138150
+10,PhD,ML Engineer,Madrid,Spain,14907,178884
+6,Master,ML Engineer,Perth,Australia,15786,189442
+11,Bachelor,Cybersecurity,Madrid,Spain,10668,128018
+1,Bachelor,Cybersecurity,Dublin,Ireland,12026,144315
+7,Master,Data Scientist,Delhi,India,5315,63782
+7,Bachelor,Cloud Engineer,Edinburgh,UK,11013,132159
+2,Master,Software Engineer,Kuala Lumpur,Malaysia,5118,61417
+4,PhD,Cloud Engineer,Osaka,Japan,14770,177244
+3,PhD,Software Engineer,Montreal,Canada,11805,141670
+7,Bachelor,Cloud Engineer,Dublin,Ireland,16427,197133
+6,Master,Data Analyst,Paris,France,9775,117308
+9,Master,Cybersecurity,Zurich,Switzerland,24655,295861
+3,PhD,Data Scientist,Seattle,USA,20844,250135
+5,PhD,Software Engineer,Lyon,France,13469,161628
+2,PhD,Software Engineer,Stockholm,Sweden,12173,146085
+7,PhD,Data Analyst,Birmingham,UK,12186,146236
+9,Master,Data Analyst,Dublin,Ireland,14814,177774
+1,PhD,Data Scientist,Luxembourg,Luxembourg,18940,227282
+0,PhD,Cybersecurity,Singapore,Singapore,15960,191520
+4,Master,Software Engineer,Singapore,Singapore,14756,177078
+10,Master,Cybersecurity,Dublin,Ireland,18327,219934
+9,Bachelor,Data Analyst,Berlin,Germany,11887,142650
+12,Bachelor,Software Engineer,Barcelona,Spain,11766,141192
+8,PhD,Data Scientist,Manchester,UK,11528,138336
+11,Bachelor,Data Scientist,Stockholm,Sweden,14500,174006
+2,Master,ML Engineer,Stockholm,Sweden,13066,156800
+12,Master,Cloud Engineer,Dublin,Ireland,21094,253129
+2,PhD,Cloud Engineer,Tokyo,Japan,13519,162229
+0,PhD,Cloud Engineer,Manchester,UK,8937,107250
+1,Master,Software Engineer,Luxembourg,Luxembourg,15848,190183
+12,Bachelor,Data Analyst,Amsterdam,Netherlands,15969,191634
+2,PhD,ML Engineer,Singapore,Singapore,18369,220435
+3,Bachelor,Software Engineer,Paris,France,10158,121898
+8,Bachelor,Data Analyst,Dublin,Ireland,13169,158036
+7,Master,Cloud Engineer,Osaka,Japan,14294,171528
+10,PhD,ML Engineer,Osaka,Japan,19851,238212
+9,PhD,Software Engineer,Toronto,Canada,15923,191084
+3,Master,ML Engineer,Madrid,Spain,8851,106221
+5,PhD,Data Analyst,Amsterdam,Netherlands,13881,166578
+9,PhD,Data Scientist,Brisbane,Australia,22001,264013
+8,Bachelor,Software Engineer,Dublin,Ireland,15025,180308
+5,PhD,Cybersecurity,Dublin,Ireland,16110,193326
+1,PhD,Cybersecurity,Luxembourg,Luxembourg,19057,228684
+6,PhD,Software Engineer,Zurich,Switzerland,22807,273693
+7,Bachelor,Cloud Engineer,Amsterdam,Netherlands,14444,173328
+6,PhD,Cybersecurity,Abu Dhabi,UAE,16954,203457
+10,Master,Cloud Engineer,Mumbai,India,11207,134486
+12,Bachelor,Cloud Engineer,Madrid,Spain,9298,111578
+11,Master,Data Scientist,Kuala Lumpur,Malaysia,11086,133039
+6,Master,Cloud Engineer,Geneva,Switzerland,21187,254245
+9,PhD,Cloud Engineer,Austin,USA,21963,263566
+10,Master,ML Engineer,Osaka,Japan,19014,228173
+7,PhD,Data Scientist,Luxembourg,Luxembourg,22369,268430
+10,Bachelor,Software Engineer,Madrid,Spain,11876,142520
+12,Master,Data Analyst,Abu Dhabi,UAE,19409,232914
+4,Master,Data Scientist,Abu Dhabi,UAE,13863,166359
+9,Master,Data Scientist,Geneva,Switzerland,23379,280556
+2,PhD,Cybersecurity,Luxembourg,Luxembourg,20008,240098
+10,Master,Cloud Engineer,Kuala Lumpur,Malaysia,9558,114697
+10,Master,Software Engineer,New York,USA,22344,268136
+6,Bachelor,Cloud Engineer,Stockholm,Sweden,14125,169506
+4,Master,Cybersecurity,Frankfurt,Germany,13612,163354
+4,Master,Software Engineer,Abu Dhabi,UAE,13711,164542
+3,Master,Cloud Engineer,Zurich,Switzerland,22895,274741
+11,Master,Cloud Engineer,Manchester,UK,12546,150560
+8,Bachelor,Software Engineer,Stockholm,Sweden,11554,138656
+6,Master,Data Scientist,Geneva,Switzerland,21215,254588
+7,PhD,Software Engineer,Zurich,Switzerland,25944,311335
+2,Bachelor,Data Analyst,Barcelona,Spain,5633,67596
+1,Master,ML Engineer,Chicago,USA,16542,198513
+5,Bachelor,Cybersecurity,Chennai,India,3863,46360
+5,Master,Data Scientist,Chicago,USA,18128,217541
+8,Master,Software Engineer,Osaka,Japan,11594,139136
+7,Bachelor,ML Engineer,Singapore,Singapore,19851,238217
+1,Bachelor,Data Scientist,Geneva,Switzerland,17234,206818
+11,Bachelor,ML Engineer,Chennai,India,6159,73916
+12,Bachelor,Cybersecurity,Pune,India,11998,143976
+5,Master,Cloud Engineer,Perth,Australia,16182,194188
+12,Master,Software Engineer,Edinburgh,UK,13411,160936
+8,Bachelor,ML Engineer,Sydney,Australia,17662,211944
+0,Master,ML Engineer,Mumbai,India,2860,34320
+5,PhD,Cybersecurity,Kuala Lumpur,Malaysia,6077,72930
+0,Bachelor,Data Analyst,Zurich,Switzerland,13500,162000
+1,PhD,Cloud Engineer,Dublin,Ireland,15544,186535
+8,Master,Software Engineer,Singapore,Singapore,18204,218455
+8,Master,Cybersecurity,Tokyo,Japan,15958,191505
+1,Master,Software Engineer,Chicago,USA,13986,167836
+5,Master,ML Engineer,Geneva,Switzerland,24515,294184
+4,Master,Data Analyst,Barcelona,Spain,6169,74030
+8,Bachelor,Cybersecurity,Stockholm,Sweden,15789,189472
+11,PhD,Software Engineer,Stockholm,Sweden,15268,183216
+1,Bachelor,Data Scientist,Singapore,Singapore,14129,169548
+8,Bachelor,Data Scientist,Dubai,UAE,13798,165584
+8,Bachelor,ML Engineer,Manchester,UK,11040,132486
+5,Bachelor,Software Engineer,Stockholm,Sweden,11349,136195
+8,PhD,Data Analyst,Stockholm,Sweden,13016,156201
+3,Bachelor,Cloud Engineer,Perth,Australia,13798,165580
+6,Master,Cloud Engineer,Paris,France,13840,166091
+7,Master,Data Analyst,Dublin,Ireland,13780,165371
+8,Master,ML Engineer,Munich,Germany,15430,185169
+5,Bachelor,Data Scientist,Stockholm,Sweden,13406,160880
+0,Bachelor,Data Scientist,Brisbane,Australia,11000,132000
+4,Master,Data Analyst,Dublin,Ireland,11223,134679
+8,PhD,ML Engineer,Paris,France,15528,186340
+5,Master,Software Engineer,Dublin,Ireland,14110,169328
+8,PhD,Data Scientist,Rotterdam,Netherlands,15754,189052
+11,Bachelor,ML Engineer,Madrid,Spain,9733,116798
+5,PhD,Data Analyst,Sydney,Australia,14166,169998
+3,Master,ML Engineer,Luxembourg,Luxembourg,20640,247682
+10,Master,Data Analyst,Luxembourg,Luxembourg,16365,196383
+3,PhD,Cybersecurity,Perth,Australia,15682,188193
+10,PhD,Data Analyst,Singapore,Singapore,19904,238848
+2,PhD,Data Analyst,Stockholm,Sweden,10358,124305
+3,PhD,Cloud Engineer,Bangalore,India,4466,53594
+8,Master,Data Scientist,Montreal,Canada,16507,198088
+7,Master,Software Engineer,Hyderabad,India,5676,68115
+5,Bachelor,Cybersecurity,Luxembourg,Luxembourg,17885,214625
+7,Bachelor,Data Analyst,Vancouver,Canada,11024,132299
+1,PhD,ML Engineer,Dublin,Ireland,15951,191419
+11,Bachelor,Cloud Engineer,Pune,India,6815,81785
+0,PhD,Data Analyst,Lyon,France,6930,83160
+10,Bachelor,Cybersecurity,Austin,USA,20640,247690
+9,PhD,Software Engineer,Abu Dhabi,UAE,15710,188521
+10,PhD,Software Engineer,Singapore,Singapore,20805,249660
+12,Bachelor,Cybersecurity,Frankfurt,Germany,17071,204852
+10,Bachelor,ML Engineer,Edinburgh,UK,11410,136920
+9,PhD,Data Scientist,Mumbai,India,8490,101887
+9,Bachelor,Cloud Engineer,Munich,Germany,15441,185296
+8,Master,Software Engineer,Rotterdam,Netherlands,13694,164331
+1,Bachelor,ML Engineer,Lyon,France,9172,110066
+12,PhD,ML Engineer,Berlin,Germany,17474,209697
+12,PhD,ML Engineer,Dublin,Ireland,25189,302270
+8,PhD,Data Analyst,London,UK,13136,157636
+0,Master,Data Scientist,Singapore,Singapore,14630,175560
+5,Master,Data Analyst,Zurich,Switzerland,18831,225978
+5,Bachelor,Cybersecurity,Luxembourg,Luxembourg,16761,201140
+5,PhD,Data Scientist,Paris,France,14637,175644
+6,Bachelor,Data Analyst,Paris,France,11029,132348
+0,Bachelor,Data Analyst,Luxembourg,Luxembourg,11550,138600
+9,Bachelor,ML Engineer,Frankfurt,Germany,16244,194937
+4,PhD,Data Scientist,Dublin,Ireland,16732,200788
+8,Bachelor,Cybersecurity,Geneva,Switzerland,22806,273680
+2,PhD,Software Engineer,Edinburgh,UK,9419,113037
+11,Bachelor,Cloud Engineer,Mumbai,India,8102,97232
+1,Master,Software Engineer,Tokyo,Japan,10647,127767
+2,Bachelor,Software Engineer,Madrid,Spain,5908,70896
+8,PhD,Cloud Engineer,Montreal,Canada,19411,232941
+11,Master,Data Analyst,Dublin,Ireland,19340,232086
+8,Bachelor,Software Engineer,Amsterdam,Netherlands,14863,178358
+12,Master,ML Engineer,Paris,France,18898,226780
+5,Bachelor,Data Scientist,Amsterdam,Netherlands,13338,160060
+4,Master,Software Engineer,Madrid,Spain,8519,102238
+6,Bachelor,Data Scientist,Stockholm,Sweden,14090,169080
+5,Master,ML Engineer,Delhi,India,4854,58250
+7,Bachelor,Data Analyst,Edinburgh,UK,10796,129562
+12,PhD,Data Analyst,Edinburgh,UK,13846,166154
+2,PhD,Software Engineer,Paris,France,11174,134088
+5,Master,Cybersecurity,Manchester,UK,11190,134288
+8,PhD,Data Analyst,Geneva,Switzerland,20021,240259
+5,Bachelor,Data Analyst,Rotterdam,Netherlands,11340,136085
+1,Master,Software Engineer,Zurich,Switzerland,18619,223434
+10,Master,Data Scientist,Stockholm,Sweden,18274,219296
+5,Master,Data Analyst,Munich,Germany,11188,134266
+8,PhD,Software Engineer,Singapore,Singapore,18742,224913
+11,Master,Data Scientist,Melbourne,Australia,20671,248061
+0,PhD,Cybersecurity,Dublin,Ireland,14040,168480
+3,Master,ML Engineer,Vancouver,Canada,16072,192865
+12,Bachelor,Data Analyst,Barcelona,Spain,14399,172788
+7,PhD,Cloud Engineer,Vancouver,Canada,16867,202405
+1,Bachelor,Cloud Engineer,Dublin,Ireland,12835,154023
+2,Master,Software Engineer,Tokyo,Japan,10507,126093
+11,Bachelor,Data Scientist,Perth,Australia,14070,168850
+5,Bachelor,Cybersecurity,Hyderabad,India,4910,58920
+10,Master,Cloud Engineer,Luxembourg,Luxembourg,21235,254826
+6,Bachelor,Cloud Engineer,Dubai,UAE,14034,168413
+12,Master,ML Engineer,Dublin,Ireland,19209,230511
+10,PhD,Data Analyst,Kuala Lumpur,Malaysia,12378,148536
+7,Bachelor,Data Scientist,Sydney,Australia,17736,212833
+0,Bachelor,Data Scientist,Seattle,USA,15600,187200
+7,Bachelor,Software Engineer,Frankfurt,Germany,11846,142154
+11,Master,Cybersecurity,Amsterdam,Netherlands,18916,227002
+2,Bachelor,Cloud Engineer,Perth,Australia,12583,151004
+2,PhD,Data Scientist,Edinburgh,UK,10281,123379
+0,Bachelor,Data Analyst,Amsterdam,Netherlands,8287,99450
+8,PhD,Cybersecurity,Kuala Lumpur,Malaysia,9838,118060
+1,PhD,Cybersecurity,Geneva,Switzerland,20865,250388
+11,Master,Data Analyst,Toronto,Canada,12139,145676
+3,PhD,Data Scientist,Seattle,USA,20205,242463
+1,Bachelor,ML Engineer,Dublin,Ireland,13270,159249
+12,Master,ML Engineer,Stockholm,Sweden,20060,240728
+10,Bachelor,Cybersecurity,Vancouver,Canada,15862,190350
+10,Bachelor,Data Analyst,Frankfurt,Germany,14251,171020
+6,Master,Software Engineer,Stockholm,Sweden,13842,166115
+3,PhD,Cybersecurity,Hamburg,Germany,12832,153993
+6,Master,Cloud Engineer,Dublin,Ireland,17469,209635
+8,Bachelor,Software Engineer,Frankfurt,Germany,13239,158872
+6,PhD,Cloud Engineer,Kuala Lumpur,Malaysia,8362,100353
+6,Bachelor,ML Engineer,Osaka,Japan,13580,162960
+2,PhD,Software Engineer,Brisbane,Australia,13120,157447
+2,PhD,Cloud Engineer,Pune,India,4426,53116
+2,PhD,Data Analyst,Osaka,Japan,8778,105345
+8,Bachelor,Data Analyst,Stockholm,Sweden,13348,160176
+6,Bachelor,ML Engineer,Montreal,Canada,12864,154374
+8,Master,Data Analyst,Vancouver,Canada,14377,172528
+3,PhD,Software Engineer,Dublin,Ireland,13975,167709
+3,Bachelor,Data Scientist,Madrid,Spain,7201,86412
+1,Bachelor,ML Engineer,Paris,France,10487,125849
+0,PhD,Cybersecurity,Lyon,France,9240,110880
+7,Bachelor,Cloud Engineer,Geneva,Switzerland,20427,245126
+5,Bachelor,Data Analyst,Madrid,Spain,5564,66775
+11,Bachelor,Software Engineer,Dubai,UAE,15563,186758
+12,Bachelor,Data Scientist,Melbourne,Australia,21208,254496
+8,PhD,Cloud Engineer,Rotterdam,Netherlands,18923,227083
+1,Bachelor,Cloud Engineer,Dublin,Ireland,12824,153898
+9,Master,Data Scientist,Singapore,Singapore,17110,205329
+5,Bachelor,Cloud Engineer,Abu Dhabi,UAE,14255,171060
+10,PhD,Software Engineer,Paris,France,15747,188964
+10,Master,ML Engineer,Barcelona,Spain,10075,120901
+2,Master,ML Engineer,Kuala Lumpur,Malaysia,5696,68358
+0,PhD,Cloud Engineer,Stockholm,Sweden,12000,144000
+0,PhD,Cloud Engineer,Edinburgh,UK,8937,107250
+4,PhD,Software Engineer,Tokyo,Japan,14150,169807
+4,Master,Cloud Engineer,Frankfurt,Germany,14173,170077
+2,Master,Cloud Engineer,Lyon,France,9519,114237
+11,PhD,Software Engineer,Amsterdam,Netherlands,17974,215688
+2,Bachelor,Data Scientist,Luxembourg,Luxembourg,16991,203894
+11,PhD,ML Engineer,Stockholm,Sweden,21501,258013
+8,PhD,Software Engineer,Singapore,Singapore,17870,214449
+5,Bachelor,Software Engineer,Chicago,USA,16145,193740
+12,Master,Cloud Engineer,Osaka,Japan,16731,200772
+12,Bachelor,Cybersecurity,Dublin,Ireland,15154,181848
+1,Master,Software Engineer,Barcelona,Spain,6951,83413
+1,Bachelor,Cybersecurity,Perth,Australia,11561,138736
+11,Master,ML Engineer,Tokyo,Japan,16530,198364
+1,Master,Data Scientist,Dublin,Ireland,13684,164212
+0,Bachelor,Data Scientist,Paris,France,9100,109200
+12,Bachelor,Software Engineer,Toronto,Canada,19146,229752
+9,Bachelor,Cloud Engineer,Rotterdam,Netherlands,16706,200472
+0,PhD,Cybersecurity,Montreal,Canada,11880,142560
+3,Bachelor,Cybersecurity,Edinburgh,UK,8165,97983
+1,Master,Data Scientist,Munich,Germany,12109,145312
+10,Master,ML Engineer,Kuala Lumpur,Malaysia,6702,80432
+1,PhD,Data Analyst,Toronto,Canada,10201,122415
+0,Master,ML Engineer,Singapore,Singapore,15849,190190
+1,PhD,Data Analyst,Stockholm,Sweden,9560,114720
+9,PhD,Software Engineer,Mumbai,India,9828,117939
+0,Master,ML Engineer,Madrid,Spain,6554,78650
+4,Bachelor,Data Analyst,Stockholm,Sweden,8795,105544
+4,Master,Cloud Engineer,Dublin,Ireland,16707,200492
+0,Bachelor,Cybersecurity,Osaka,Japan,9000,108000
+9,PhD,Cybersecurity,Dublin,Ireland,19950,239403
+0,Master,ML Engineer,Zurich,Switzerland,21450,257400
+0,PhD,Data Analyst,Stockholm,Sweden,8640,103680
+11,Bachelor,Software Engineer,Madrid,Spain,10114,121374
+12,Master,ML Engineer,Geneva,Switzerland,24896,298755
+8,PhD,Cloud Engineer,Luxembourg,Luxembourg,22060,264724
+10,Bachelor,Cybersecurity,Zurich,Switzerland,24735,296830
+7,Master,ML Engineer,Kuala Lumpur,Malaysia,8807,105694
+5,Bachelor,Software Engineer,Edinburgh,UK,10683,128200
+9,Bachelor,Data Scientist,Stockholm,Sweden,11997,143964
+5,PhD,Data Analyst,Luxembourg,Luxembourg,17394,208728
+5,Bachelor,Cybersecurity,Chicago,USA,16537,198445
+9,Bachelor,Software Engineer,Stockholm,Sweden,14621,175458
+5,PhD,Data Analyst,Melbourne,Australia,13201,158418
+3,Master,Cybersecurity,Sydney,Australia,16089,193079
+2,PhD,Data Scientist,Chennai,India,3747,44971
+6,PhD,Cybersecurity,Perth,Australia,18616,223401
+1,PhD,ML Engineer,Berlin,Germany,11882,142584
+11,Bachelor,Data Analyst,Dubai,UAE,11403,136839
+2,Bachelor,Data Analyst,Osaka,Japan,7525,90304
+0,PhD,Cloud Engineer,Geneva,Switzerland,21000,252000
+5,Master,ML Engineer,Abu Dhabi,UAE,15379,184552
+2,PhD,Data Scientist,Brisbane,Australia,14782,177393
+5,Bachelor,Data Analyst,Luxembourg,Luxembourg,15223,182680
+0,Bachelor,Software Engineer,Luxembourg,Luxembourg,14116,169400
+2,Master,Software Engineer,Abu Dhabi,UAE,11191,134303
+10,Master,ML Engineer,Singapore,Singapore,24226,290719
+1,Bachelor,ML Engineer,Barcelona,Spain,6930,83169
+3,PhD,Data Analyst,Luxembourg,Luxembourg,15844,190130
+5,Bachelor,Data Scientist,Manchester,UK,10900,130800
+12,PhD,Cybersecurity,Osaka,Japan,17416,209001
+11,Master,Cybersecurity,Dubai,UAE,18836,226034
+3,PhD,Software Engineer,Brisbane,Australia,14155,169867
+7,Bachelor,Data Scientist,Kuala Lumpur,Malaysia,8539,102474
+6,PhD,Data Analyst,Amsterdam,Netherlands,14262,171144
+10,Bachelor,Cybersecurity,Vancouver,Canada,18854,226250
+1,PhD,Data Scientist,Boston,USA,18168,218023
+7,Master,Cloud Engineer,Osaka,Japan,13295,159547
+1,PhD,Cybersecurity,Stockholm,Sweden,12139,145672
+6,Master,Cybersecurity,Stockholm,Sweden,14529,174352
+9,Bachelor,Data Analyst,Boston,USA,17818,213822
+11,Master,ML Engineer,Edinburgh,UK,11671,140057
+10,Master,Cloud Engineer,Hyderabad,India,6002,72028
+0,PhD,Data Scientist,Munich,Germany,12480,149760
+9,Bachelor,Software Engineer,Luxembourg,Luxembourg,19440,233282
+4,PhD,Data Scientist,Chennai,India,4924,59092
+5,Master,Software Engineer,Paris,France,11555,138671
+10,Bachelor,Cloud Engineer,Manchester,UK,11867,142405
+1,Bachelor,Data Scientist,Luxembourg,Luxembourg,15891,190700
+9,Master,Cybersecurity,Barcelona,Spain,10900,130808
+12,PhD,Data Scientist,Amsterdam,Netherlands,20917,251006
+12,Bachelor,Cybersecurity,Zurich,Switzerland,24354,292248
+5,PhD,ML Engineer,Rotterdam,Netherlands,16690,200286
+7,Master,Data Scientist,Dublin,Ireland,15013,180165
+3,PhD,Cybersecurity,Tokyo,Japan,13419,161038
+9,Master,ML Engineer,Luxembourg,Luxembourg,26119,313438
+3,Bachelor,Software Engineer,Dubai,UAE,11121,133460
+1,Bachelor,ML Engineer,Frankfurt,Germany,10826,129913
+5,PhD,Data Scientist,Stockholm,Sweden,14663,175962
+7,PhD,Cloud Engineer,Stockholm,Sweden,15250,183001
+7,Master,Cybersecurity,Tokyo,Japan,15473,185687
+11,Master,ML Engineer,Stockholm,Sweden,20184,242211
+2,Bachelor,Cybersecurity,Toronto,Canada,11924,143096
+3,Bachelor,Data Analyst,Hamburg,Germany,8413,100956
+4,PhD,Data Analyst,Boston,USA,16733,200798
+1,Master,ML Engineer,Montreal,Canada,12335,148028
+11,Master,Data Analyst,New York,USA,21445,257348
+12,PhD,Data Scientist,Singapore,Singapore,27686,332236
+2,PhD,Cloud Engineer,Toronto,Canada,14894,178732
+8,PhD,Cloud Engineer,Dubai,UAE,16390,196681
+1,Bachelor,Cybersecurity,Osaka,Japan,9305,111662
+2,PhD,Data Analyst,Stockholm,Sweden,9474,113695
+11,Bachelor,Data Scientist,Edinburgh,UK,12241,146894
+0,Master,Data Analyst,Dublin,Ireland,9652,115830
+7,Bachelor,Data Analyst,Stockholm,Sweden,9525,114309
+9,Master,Data Scientist,Hamburg,Germany,17053,204636
+9,Master,Software Engineer,Bangalore,India,6264,75168
+3,Master,Cybersecurity,Seattle,USA,19377,232524
+3,Bachelor,Software Engineer,Edinburgh,UK,8648,103784
+11,PhD,Data Analyst,Mumbai,India,7671,92052
+8,PhD,Data Scientist,Montreal,Canada,15538,186460
+6,Bachelor,Cloud Engineer,Kuala Lumpur,Malaysia,8136,97632
+4,Bachelor,ML Engineer,Dublin,Ireland,14249,170988
+3,Master,Data Analyst,Frankfurt,Germany,9995,119941
+10,Master,Data Analyst,Austin,USA,19405,232870
+8,PhD,Cloud Engineer,Barcelona,Spain,13824,165888
+9,Bachelor,Software Engineer,Kuala Lumpur,Malaysia,9864,118371
+1,Master,Software Engineer,Frankfurt,Germany,10294,123532
+1,PhD,Software Engineer,Barcelona,Spain,7036,84434
+5,Master,Cloud Engineer,Dublin,Ireland,17984,215814
+1,Master,Cloud Engineer,Singapore,Singapore,16011,192138
+6,PhD,Data Scientist,Rotterdam,Netherlands,17016,204199
+10,PhD,Data Analyst,Dublin,Ireland,16931,203172
+6,PhD,Cloud Engineer,Mumbai,India,4910,58924
+6,Master,Cloud Engineer,Singapore,Singapore,20240,242882
+1,Master,Cloud Engineer,Madrid,Spain,6796,81557
+5,Bachelor,Data Analyst,Melbourne,Australia,11210,134530
+6,PhD,Cloud Engineer,Melbourne,Australia,19255,231062
+6,PhD,ML Engineer,Dublin,Ireland,19495,233942
+7,PhD,Software Engineer,Manchester,UK,13765,165183
+0,Master,ML Engineer,Luxembourg,Luxembourg,18351,220220
+4,Master,Data Analyst,Tokyo,Japan,10783,129406
+1,Bachelor,Data Scientist,Boston,USA,15147,181773
+0,PhD,Cloud Engineer,Kuala Lumpur,Malaysia,4125,49500
+10,Bachelor,Cloud Engineer,Tokyo,Japan,18202,218425
+1,Master,ML Engineer,Toronto,Canada,13245,158943
+9,Master,Software Engineer,Stockholm,Sweden,14984,179817
+0,Master,Data Analyst,Kuala Lumpur,Malaysia,2722,32670
+0,Master,Data Analyst,Vancouver,Canada,9652,115830
+11,Bachelor,Cybersecurity,Barcelona,Spain,8864,106375
+2,Master,ML Engineer,Tokyo,Japan,12764,153177
+6,Bachelor,Cybersecurity,Lyon,France,10903,130842
+2,Bachelor,ML Engineer,Barcelona,Spain,7840,94080
+8,Master,Cybersecurity,Singapore,Singapore,17090,205084
+6,Master,Cybersecurity,Vancouver,Canada,16896,202758
+5,Bachelor,Data Scientist,Chicago,USA,14602,175235
+6,Bachelor,ML Engineer,Madrid,Spain,8798,105580
+9,Master,Data Scientist,Zurich,Switzerland,22822,273873
+9,PhD,Cybersecurity,Osaka,Japan,14085,169020
+3,Bachelor,Cybersecurity,Barcelona,Spain,8485,101829
+5,Bachelor,Data Analyst,Tokyo,Japan,10118,121425
+1,Bachelor,Software Engineer,Montreal,Canada,9331,111972
+4,PhD,Cybersecurity,Luxembourg,Luxembourg,20070,240844
+8,Bachelor,Data Analyst,Osaka,Japan,9690,116280
+12,Bachelor,Cloud Engineer,Geneva,Switzerland,22501,270012
+6,PhD,Data Analyst,Toronto,Canada,13800,165600
+8,PhD,Data Scientist,Sydney,Australia,21559,258710
+12,Bachelor,Cybersecurity,Rotterdam,Netherlands,15919,191028
+4,Bachelor,Software Engineer,Luxembourg,Luxembourg,15819,189836
+6,Master,Cybersecurity,Dublin,Ireland,15683,188199
+5,PhD,Software Engineer,Toronto,Canada,15311,183738
+3,PhD,Data Analyst,Rotterdam,Netherlands,10989,131868
+9,Master,Cloud Engineer,Montreal,Canada,16105,193267
+1,PhD,Data Analyst,Stockholm,Sweden,9477,113725
+5,PhD,Cybersecurity,Luxembourg,Luxembourg,20473,245682
+6,Bachelor,ML Engineer,Kuala Lumpur,Malaysia,7998,95982
+11,PhD,Data Scientist,Dubai,UAE,23430,281167
+4,Bachelor,Cloud Engineer,Osaka,Japan,11011,132136
+6,Master,Cybersecurity,Stockholm,Sweden,14733,176807
+3,Master,Data Scientist,Paris,France,12312,147747
+11,PhD,Software Engineer,Kuala Lumpur,Malaysia,7139,85668
+3,Bachelor,Data Scientist,Abu Dhabi,UAE,11217,134607
+11,Master,Data Scientist,Brisbane,Australia,16896,202759
+10,Bachelor,Cybersecurity,Melbourne,Australia,15763,189160
+8,Bachelor,Cybersecurity,Lyon,France,9779,117352
+8,Bachelor,Cloud Engineer,Rotterdam,Netherlands,12871,154452
+8,Master,Software Engineer,Austin,USA,15694,188337
+4,PhD,Cloud Engineer,Stockholm,Sweden,14156,169872
+1,Bachelor,ML Engineer,Chicago,USA,14554,174659
+5,Master,Cybersecurity,Austin,USA,17355,208268
+5,PhD,Cybersecurity,Osaka,Japan,15241,182898
+4,PhD,Data Scientist,Dublin,Ireland,17819,213835
+6,PhD,Software Engineer,Tokyo,Japan,13938,167256
+12,Bachelor,Cybersecurity,Singapore,Singapore,22235,266820
+5,PhD,Data Analyst,Manchester,UK,10711,128532
+9,Bachelor,ML Engineer,Barcelona,Spain,10397,124764
+7,PhD,ML Engineer,Hamburg,Germany,15042,180514
+10,Master,Data Scientist,Luxembourg,Luxembourg,21954,263450
+4,Bachelor,Cloud Engineer,Paris,France,12159,145914
+4,Master,Cybersecurity,Kuala Lumpur,Malaysia,6505,78064
+0,Bachelor,Cloud Engineer,Mumbai,India,2500,30000
+1,PhD,Data Analyst,Dublin,Ireland,10924,131090
+5,Bachelor,Data Scientist,London,UK,10615,127390
+1,Master,Cybersecurity,Barcelona,Spain,7275,87307
+4,PhD,Cybersecurity,Dubai,UAE,15877,190526
+9,Bachelor,Cybersecurity,Montreal,Canada,15473,185679
+6,PhD,Cybersecurity,Luxembourg,Luxembourg,23340,280080
+9,PhD,Cloud Engineer,Frankfurt,Germany,17044,204534
+6,Master,Software Engineer,Birmingham,UK,9685,116230
+12,Bachelor,Cybersecurity,London,UK,12710,152520
+1,Master,Cybersecurity,Stockholm,Sweden,11351,136213
+3,Master,Cloud Engineer,Boston,USA,18121,217460
+5,Bachelor,Cybersecurity,Stockholm,Sweden,12688,152265
+2,Bachelor,ML Engineer,Abu Dhabi,UAE,12341,148098
+1,Master,Software Engineer,Edinburgh,UK,7842,94106
+6,PhD,Data Analyst,Montreal,Canada,12543,150523
+3,Master,ML Engineer,Toronto,Canada,14050,168606
+11,Master,Cybersecurity,Perth,Australia,17509,210116
+11,Bachelor,Software Engineer,Stockholm,Sweden,16612,199353
+6,Master,ML Engineer,Kuala Lumpur,Malaysia,6900,82810
+0,Bachelor,ML Engineer,Geneva,Switzerland,18200,218400
+11,PhD,Data Scientist,Amsterdam,Netherlands,23539,282474
+8,Bachelor,Data Analyst,Stockholm,Sweden,10199,122392
+1,Master,Cloud Engineer,Dubai,UAE,13177,158129
+0,PhD,Cloud Engineer,Zurich,Switzerland,22500,270000
+9,PhD,Data Scientist,Hamburg,Germany,16652,199825
+9,Master,ML Engineer,Kuala Lumpur,Malaysia,9948,119380
+2,PhD,Cybersecurity,Perth,Australia,14094,169135
+10,PhD,Cloud Engineer,Birmingham,UK,13450,161400
+6,PhD,Cybersecurity,Dublin,Ireland,15845,190144
+4,PhD,Cloud Engineer,Paris,France,15256,183074
+4,PhD,Software Engineer,Sydney,Australia,16878,202540
+4,Bachelor,ML Engineer,Dublin,Ireland,14600,175208
+2,Master,Cybersecurity,London,UK,10819,129833
+9,PhD,Data Analyst,Dublin,Ireland,17037,204454
+11,Master,Data Scientist,Hamburg,Germany,18811,225737
+5,PhD,Cybersecurity,Perth,Australia,17304,207648
+4,Bachelor,Data Analyst,Geneva,Switzerland,13710,164524
+4,Bachelor,Data Scientist,Paris,France,11370,136448
+3,Bachelor,Cybersecurity,Kuala Lumpur,Malaysia,4894,58734
+6,PhD,Data Scientist,Luxembourg,Luxembourg,23919,287028
+12,PhD,Software Engineer,Mumbai,India,7190,86284
+5,Bachelor,Cybersecurity,Chicago,USA,17177,206125
+9,PhD,Cybersecurity,Barcelona,Spain,12164,145972
+3,Bachelor,Cloud Engineer,Madrid,Spain,7897,94766
+6,Master,Software Engineer,Melbourne,Australia,15746,188958
+9,Master,ML Engineer,Luxembourg,Luxembourg,21909,262908
+4,Bachelor,Cybersecurity,Dublin,Ireland,13955,167464
+6,Master,ML Engineer,Singapore,Singapore,19008,228100
+11,Master,Software Engineer,Bangalore,India,8633,103600
+9,Master,ML Engineer,Barcelona,Spain,9642,115707
+4,Master,Cybersecurity,Frankfurt,Germany,12616,151399
+9,Bachelor,Cybersecurity,Luxembourg,Luxembourg,17724,212691
+8,Master,Software Engineer,Hamburg,Germany,13043,156516
+10,Bachelor,Cybersecurity,Dublin,Ireland,14807,177690
+0,Bachelor,Data Analyst,Toronto,Canada,8100,97200
+2,PhD,ML Engineer,Edinburgh,UK,9954,119452
+11,Bachelor,Cloud Engineer,Zurich,Switzerland,21645,259749
+0,PhD,Data Scientist,Montreal,Canada,11880,142560
+5,Master,Data Scientist,Paris,France,13923,167079
+6,Master,ML Engineer,Dublin,Ireland,18822,225871
+7,PhD,Cloud Engineer,Frankfurt,Germany,16587,199045
+11,PhD,Software Engineer,Kuala Lumpur,Malaysia,13707,164485
+6,Bachelor,Data Scientist,Austin,USA,17843,214116
+2,Master,Cybersecurity,Barcelona,Spain,8117,97407
+8,PhD,Data Scientist,Barcelona,Spain,13036,156441
+0,Master,Data Scientist,Birmingham,UK,7150,85800
+4,Master,Cloud Engineer,Geneva,Switzerland,22217,266609
+5,Master,Cybersecurity,Frankfurt,Germany,13472,161667
+8,PhD,Data Scientist,Amsterdam,Netherlands,16360,196329
+1,Master,Data Scientist,Barcelona,Spain,7259,87111
+3,PhD,Software Engineer,Delhi,India,5363,64366
+2,PhD,ML Engineer,Chicago,USA,18994,227928
+5,Bachelor,ML Engineer,New York,USA,22355,268265
+9,Master,Cybersecurity,Stockholm,Sweden,16323,195881
+9,Master,Cloud Engineer,Toronto,Canada,20540,246480
+11,Master,Data Scientist,Frankfurt,Germany,16862,202345
+10,Master,Software Engineer,Brisbane,Australia,19796,237556
+0,PhD,Cloud Engineer,Madrid,Spain,6875,82500
+7,PhD,ML Engineer,Singapore,Singapore,20871,250454
+8,Bachelor,Data Analyst,Luxembourg,Luxembourg,15066,180800
+2,PhD,Cybersecurity,New York,USA,22073,264885
+5,Bachelor,Cybersecurity,Dublin,Ireland,14707,176490
+12,Bachelor,Software Engineer,Luxembourg,Luxembourg,23050,276608
+0,PhD,Cybersecurity,Osaka,Japan,10800,129600
+4,PhD,Software Engineer,Chicago,USA,16786,201432
+6,Bachelor,Cybersecurity,Kuala Lumpur,Malaysia,6202,74430
+0,PhD,Software Engineer,San Francisco,USA,19800,237600
+12,Master,ML Engineer,Sydney,Australia,22487,269852
+6,PhD,Cybersecurity,Dublin,Ireland,15906,190872
+0,Bachelor,Software Engineer,Birmingham,UK,5958,71500
+11,Bachelor,Software Engineer,Geneva,Switzerland,18543,222519
+2,Bachelor,Cloud Engineer,Barcelona,Spain,7086,85038
+12,Bachelor,ML Engineer,Kuala Lumpur,Malaysia,8963,107556
+11,Master,Cybersecurity,Hamburg,Germany,17244,206934
+4,Bachelor,Software Engineer,Dubai,UAE,13329,159958
+0,PhD,Cybersecurity,Brisbane,Australia,13200,158400
+12,Bachelor,Cloud Engineer,Dublin,Ireland,16625,199506
+5,PhD,ML Engineer,Kuala Lumpur,Malaysia,6349,76194
+3,Bachelor,ML Engineer,Stockholm,Sweden,11656,139878
+4,PhD,ML Engineer,New York,USA,23460,281524
+5,Bachelor,Cybersecurity,Edinburgh,UK,11065,132785
+2,Bachelor,ML Engineer,San Francisco,USA,20162,241954
+1,Bachelor,Data Analyst,Abu Dhabi,UAE,8447,101373
+11,Bachelor,Software Engineer,Madrid,Spain,9715,116589
+10,Bachelor,Cloud Engineer,Montreal,Canada,17611,211340
+8,Master,Software Engineer,Montreal,Canada,13527,162329
+5,PhD,Data Analyst,Dublin,Ireland,12456,149478
+9,Bachelor,Software Engineer,Edinburgh,UK,10411,124937
+2,Master,ML Engineer,Abu Dhabi,UAE,13767,165211
+10,Bachelor,Cybersecurity,Luxembourg,Luxembourg,17978,215740
+7,Bachelor,Software Engineer,Luxembourg,Luxembourg,16086,193032
+2,Bachelor,Cybersecurity,Rotterdam,Netherlands,11831,141974
+0,Bachelor,Software Engineer,Chennai,India,1833,22000
+3,PhD,Cloud Engineer,Singapore,Singapore,19511,234139
+7,Bachelor,Cloud Engineer,Berlin,Germany,13416,160995
+0,PhD,Data Analyst,Geneva,Switzerland,15120,181440
+2,Bachelor,Cloud Engineer,Lyon,France,8944,107336
+6,Master,Data Scientist,Rotterdam,Netherlands,16474,197689
+9,PhD,Data Scientist,Amsterdam,Netherlands,20956,251481
+5,PhD,Software Engineer,Brisbane,Australia,13875,166500
+7,Master,Data Analyst,Kuala Lumpur,Malaysia,5187,62253
+12,PhD,ML Engineer,Montreal,Canada,24404,292852
+0,Master,Cybersecurity,Dublin,Ireland,12870,154440
+2,Master,Cloud Engineer,Brisbane,Australia,14333,172002
+1,Master,Data Scientist,Dublin,Ireland,13734,164811
+3,PhD,Cybersecurity,Osaka,Japan,12134,145612
+11,Master,ML Engineer,Dublin,Ireland,18319,219836
+8,Bachelor,Cybersecurity,Barcelona,Spain,8026,96320
+10,PhD,Data Analyst,Abu Dhabi,UAE,12485,149820
+1,Bachelor,Data Scientist,Hamburg,Germany,9508,114100
+9,Bachelor,Data Scientist,Lyon,France,13907,166884
+1,Master,Data Scientist,Lyon,France,8970,107643
+8,Bachelor,Cloud Engineer,Tokyo,Japan,13196,158363
+5,Master,Software Engineer,Pune,India,5600,67204
+11,Master,Cybersecurity,Mumbai,India,5720,68645
+3,Master,Cloud Engineer,Amsterdam,Netherlands,14596,175159
+11,Bachelor,Cloud Engineer,Hyderabad,India,5594,67133
+7,Master,Software Engineer,Dubai,UAE,17060,204722
+12,Master,Data Analyst,Zurich,Switzerland,21909,262917
+12,PhD,Cloud Engineer,Luxembourg,Luxembourg,27591,331094
+6,Bachelor,Cybersecurity,Singapore,Singapore,18137,217650
+5,Master,ML Engineer,Brisbane,Australia,16681,200183
+2,Master,Cybersecurity,Geneva,Switzerland,20262,243146
+6,Master,Data Analyst,Rotterdam,Netherlands,12255,147061
+8,Master,Cloud Engineer,Paris,France,16742,200910
+2,PhD,Data Scientist,Pune,India,3453,41438
+9,PhD,Data Scientist,Luxembourg,Luxembourg,25640,307684
+5,Bachelor,ML Engineer,Birmingham,UK,10063,120760
+8,Bachelor,Cloud Engineer,Birmingham,UK,11439,137274
+1,Bachelor,Data Scientist,Toronto,Canada,11327,135931
+9,Bachelor,Data Analyst,Paris,France,12540,150489
+2,Bachelor,Data Scientist,Munich,Germany,11323,135878
+7,Master,Cybersecurity,Hamburg,Germany,14075,168905
+4,Bachelor,Cloud Engineer,Hyderabad,India,3531,42380
+10,Master,ML Engineer,Tokyo,Japan,20187,242253
+8,Master,Data Scientist,Osaka,Japan,13205,158470
+0,Master,Cloud Engineer,Montreal,Canada,11343,136125
+0,Bachelor,Cybersecurity,Stockholm,Sweden,9600,115200
+6,Master,Cybersecurity,Montreal,Canada,13190,158287
+9,PhD,ML Engineer,Paris,France,15449,185397
+7,Master,ML Engineer,Edinburgh,UK,12577,150932
+7,PhD,Cloud Engineer,Tokyo,Japan,16517,198212
+6,Master,Data Analyst,Delhi,India,7230,86763
+5,PhD,Data Scientist,Abu Dhabi,UAE,13824,165894
+10,PhD,Data Scientist,Austin,USA,21160,253920
+12,PhD,Cybersecurity,Singapore,Singapore,26926,323121
+4,PhD,Cybersecurity,Stockholm,Sweden,13157,157891
+10,PhD,Cybersecurity,Edinburgh,UK,12801,153612
+0,Bachelor,Software Engineer,Birmingham,UK,5958,71500
+11,Bachelor,Software Engineer,Birmingham,UK,13093,157124
+1,Master,Cybersecurity,Singapore,Singapore,15221,182663
+7,Master,Data Analyst,Stockholm,Sweden,11920,143041
+12,Bachelor,Data Scientist,Osaka,Japan,16300,195600
+11,PhD,Cloud Engineer,Osaka,Japan,20647,247767
+5,Bachelor,Data Analyst,Berlin,Germany,10113,121365
+10,Bachelor,ML Engineer,Sydney,Australia,18444,221330
+6,Bachelor,Cybersecurity,Luxembourg,Luxembourg,17761,213138
+0,Bachelor,Data Scientist,Melbourne,Australia,12000,144000
+4,Master,Cybersecurity,Rotterdam,Netherlands,14211,170539
+7,Bachelor,Cloud Engineer,Singapore,Singapore,17638,211659
+9,PhD,Software Engineer,Dubai,UAE,19101,229214
+4,Bachelor,Data Scientist,Barcelona,Spain,7525,90304
+7,PhD,Cloud Engineer,Geneva,Switzerland,23644,283735
+11,PhD,Cybersecurity,Mumbai,India,13684,164210
+4,PhD,Software Engineer,Dublin,Ireland,15128,181536
+10,PhD,ML Engineer,Zurich,Switzerland,33145,397740
+2,Bachelor,ML Engineer,Dublin,Ireland,13773,165282
+9,PhD,Software Engineer,Barcelona,Spain,14062,168753
+3,Bachelor,Data Scientist,Stockholm,Sweden,11392,136704
+3,Bachelor,Software Engineer,Amsterdam,Netherlands,11646,139754
+4,PhD,Cloud Engineer,Stockholm,Sweden,13996,167956
+6,Master,Cybersecurity,Dublin,Ireland,14668,176022
+4,PhD,Software Engineer,Dublin,Ireland,16817,201811
+7,PhD,Cloud Engineer,Vancouver,Canada,17313,207764
+10,Master,Data Analyst,Birmingham,UK,13853,166243
+9,PhD,Cybersecurity,Dublin,Ireland,17658,211906
+7,Bachelor,Software Engineer,Dubai,UAE,13021,156256
+12,Master,ML Engineer,Luxembourg,Luxembourg,23975,287711
+7,Master,Cybersecurity,Dublin,Ireland,15470,185648
+4,PhD,Data Analyst,Melbourne,Australia,12384,148612
+12,PhD,Data Scientist,Rotterdam,Netherlands,18828,225936
+8,PhD,ML Engineer,Boston,USA,22282,267388
+6,Master,Cybersecurity,Luxembourg,Luxembourg,20897,250767
+9,PhD,Data Scientist,San Francisco,USA,26229,314755
+7,PhD,Data Scientist,Dubai,UAE,18234,218818
+5,Bachelor,Cybersecurity,Paris,France,11980,143760
+2,Master,Data Scientist,Frankfurt,Germany,12327,147930
+12,PhD,Data Analyst,Stockholm,Sweden,19912,238953
+12,PhD,Data Analyst,Dublin,Ireland,14583,175003
+0,Master,Cybersecurity,Perth,Australia,12100,145200
+2,PhD,Data Scientist,San Francisco,USA,23046,276559
+5,Bachelor,ML Engineer,Paris,France,13862,166355
+11,Bachelor,Software Engineer,Lyon,France,11619,139436
+3,Master,ML Engineer,Luxembourg,Luxembourg,19952,239429
+8,Master,Data Analyst,Singapore,Singapore,14340,172088
+12,Master,Cybersecurity,Kuala Lumpur,Malaysia,14084,169012
+7,PhD,Cybersecurity,Bangalore,India,7405,88864
+12,PhD,Cloud Engineer,Singapore,Singapore,20959,251512
+9,Master,Data Scientist,Vancouver,Canada,16754,201049
+5,PhD,Data Analyst,Amsterdam,Netherlands,12423,149076
+3,Master,Cybersecurity,Rotterdam,Netherlands,13849,166191
+0,Bachelor,Cybersecurity,Luxembourg,Luxembourg,15400,184800
+1,PhD,Data Scientist,Luxembourg,Luxembourg,19142,229713
+3,PhD,Software Engineer,Pune,India,5410,64928
+9,Master,Data Scientist,Dublin,Ireland,17460,209523
+5,Bachelor,Data Analyst,Montreal,Canada,9595,115145
+4,Master,Cybersecurity,London,UK,12606,151280
+11,Bachelor,Data Scientist,Dublin,Ireland,16352,196225
+12,Bachelor,Cybersecurity,Singapore,Singapore,17016,204192
+0,Bachelor,Data Analyst,Geneva,Switzerland,12600,151200
+8,Bachelor,Software Engineer,Madrid,Spain,8764,105172
+1,PhD,Data Scientist,Geneva,Switzerland,20666,247992
+11,Master,Cloud Engineer,Frankfurt,Germany,15987,191846
+10,Bachelor,Cybersecurity,Mumbai,India,6861,82340
+5,PhD,Cybersecurity,Kuala Lumpur,Malaysia,7532,90390
+2,Master,Software Engineer,Edinburgh,UK,8923,107076
+12,PhD,Cloud Engineer,Singapore,Singapore,27728,332743
+0,PhD,Data Scientist,Tokyo,Japan,11700,140400
+8,PhD,Software Engineer,Tokyo,Japan,15633,187596
+9,Master,Cybersecurity,Osaka,Japan,17645,211751
+9,Bachelor,Data Scientist,Amsterdam,Netherlands,15259,183117
+8,Master,Data Scientist,Berlin,Germany,12405,148869
+2,Bachelor,Data Scientist,Rotterdam,Netherlands,11195,134340
+3,Bachelor,Data Scientist,Singapore,Singapore,15343,184119
+0,Master,Software Engineer,Singapore,Singapore,13410,160930
+8,PhD,Software Engineer,Munich,Germany,16968,203625
+5,PhD,Software Engineer,Geneva,Switzerland,21771,261258
+3,PhD,Data Scientist,Barcelona,Spain,9951,119415
+4,PhD,Cloud Engineer,Singapore,Singapore,20305,243660
+4,Master,Cloud Engineer,Sydney,Australia,17696,212357
+2,Master,Data Analyst,Zurich,Switzerland,15516,186197
+0,Master,ML Engineer,Paris,France,10844,130130
+11,Master,Cybersecurity,Lyon,France,13155,157868
+8,Master,Cybersecurity,Barcelona,Spain,9978,119741
+5,Master,Cloud Engineer,Singapore,Singapore,18572,222871
+5,Master,Data Scientist,Kuala Lumpur,Malaysia,8209,98510
+7,Bachelor,Cybersecurity,Abu Dhabi,UAE,13121,157463
+9,Master,Data Scientist,Dubai,UAE,18533,222406
+11,PhD,Cybersecurity,San Francisco,USA,25880,310561
+6,PhD,Software Engineer,New York,USA,21348,256183
+6,PhD,Data Analyst,Paris,France,11409,136908
+9,PhD,Software Engineer,Toronto,Canada,16644,199735
+11,Bachelor,ML Engineer,Montreal,Canada,16998,203984
+11,PhD,Data Scientist,Dublin,Ireland,21183,254200
+2,Bachelor,Data Analyst,Munich,Germany,8635,103622
+10,Bachelor,Cloud Engineer,Delhi,India,10495,125940
+12,Bachelor,Data Analyst,Luxembourg,Luxembourg,15016,180192
+3,Bachelor,Software Engineer,Brisbane,Australia,11142,133705
+4,Bachelor,Cybersecurity,Osaka,Japan,11555,138660
+12,PhD,Data Analyst,Delhi,India,10404,124848
+2,PhD,Cloud Engineer,Paris,France,12591,151092
+9,PhD,Data Scientist,Luxembourg,Luxembourg,21871,262454
+4,PhD,ML Engineer,Hamburg,Germany,13149,157795
+1,PhD,ML Engineer,Vancouver,Canada,15977,191731
+5,Master,Data Scientist,Rotterdam,Netherlands,15033,180405
+11,Bachelor,ML Engineer,Tokyo,Japan,17421,209063
+1,PhD,Cybersecurity,Chicago,USA,16300,195600
+11,Master,Data Analyst,Luxembourg,Luxembourg,20857,250288
+8,Master,Cloud Engineer,Luxembourg,Luxembourg,21750,261003
+9,PhD,Data Analyst,Lyon,France,11097,133164
+0,Master,Cybersecurity,Singapore,Singapore,14630,175560
+2,Master,Cloud Engineer,Abu Dhabi,UAE,13139,157671
+8,Master,Data Scientist,Lyon,France,15095,181148
+4,PhD,ML Engineer,Barcelona,Spain,9738,116865
+7,PhD,Data Analyst,Edinburgh,UK,12219,146629
+0,Master,Cloud Engineer,Munich,Germany,11916,143000
+11,Master,ML Engineer,Zurich,Switzerland,30438,365259
+11,Master,Cybersecurity,Geneva,Switzerland,26725,320701
+0,Master,Cloud Engineer,Rotterdam,Netherlands,11687,140250
+11,Master,ML Engineer,Geneva,Switzerland,25640,307685
+6,Bachelor,Cloud Engineer,Stockholm,Sweden,14790,177486
+7,PhD,Cybersecurity,Kuala Lumpur,Malaysia,9975,119709
+4,Master,Software Engineer,Kuala Lumpur,Malaysia,6249,74998
+2,Bachelor,Cybersecurity,Toronto,Canada,11711,140538
+6,Bachelor,Cybersecurity,Vancouver,Canada,15328,183936
+11,Bachelor,Software Engineer,Lyon,France,14103,169246
+5,PhD,ML Engineer,Edinburgh,UK,14045,168546
+8,PhD,Software Engineer,Manchester,UK,10958,131503
+10,PhD,ML Engineer,Dubai,UAE,21753,261036
+10,PhD,Data Analyst,Kuala Lumpur,Malaysia,8361,100332
+8,PhD,Software Engineer,Madrid,Spain,10094,121137
+12,Master,Cloud Engineer,Geneva,Switzerland,28836,346038
+0,Master,Cybersecurity,Osaka,Japan,9900,118800
+7,Master,Cybersecurity,Hyderabad,India,8032,96384
+7,Master,ML Engineer,New York,USA,25676,308123
+12,Master,ML Engineer,Mumbai,India,6287,75451
+6,PhD,ML Engineer,Rotterdam,Netherlands,16899,202788
+10,Bachelor,Software Engineer,Seattle,USA,19965,239590
+4,Bachelor,Cybersecurity,Frankfurt,Germany,10826,129916
+11,Bachelor,ML Engineer,Perth,Australia,19906,238876
+2,Bachelor,Software Engineer,New York,USA,15934,191216
+12,Bachelor,Cybersecurity,Stockholm,Sweden,18305,219660
+8,Bachelor,Data Analyst,Chicago,USA,15662,187944
+10,Master,Data Scientist,Luxembourg,Luxembourg,21864,262372
+10,PhD,Software Engineer,Madrid,Spain,15257,183084
+3,Bachelor,Data Analyst,Boston,USA,13014,156168
+4,Master,ML Engineer,Stockholm,Sweden,14632,175590
+0,Master,Cybersecurity,Singapore,Singapore,14630,175560
+11,PhD,Cybersecurity,Barcelona,Spain,13195,158340
+12,Master,Software Engineer,Geneva,Switzerland,22126,265518
+0,PhD,Data Scientist,Toronto,Canada,12960,155520
+4,PhD,Cloud Engineer,Bangalore,India,6341,76099
+11,Bachelor,Cybersecurity,Osaka,Japan,14082,168984
+6,Bachelor,ML Engineer,Austin,USA,16958,203496
+8,Bachelor,Software Engineer,Manchester,UK,9602,115226
+8,Master,ML Engineer,Perth,Australia,18168,218020
+2,Master,Software Engineer,Stockholm,Sweden,11135,133621
+8,Bachelor,ML Engineer,Osaka,Japan,15480,185760
+8,Master,ML Engineer,Dublin,Ireland,17764,213175
+1,Bachelor,Cloud Engineer,Amsterdam,Netherlands,12169,146037
+0,PhD,ML Engineer,Kuala Lumpur,Malaysia,4290,51480
+1,Master,Software Engineer,Kuala Lumpur,Malaysia,4044,48535
+0,Master,Data Scientist,Toronto,Canada,11880,142560
+4,Bachelor,Cybersecurity,Edinburgh,UK,9505,114064
+5,Bachelor,Data Analyst,Melbourne,Australia,11082,132990
+4,PhD,Data Analyst,Melbourne,Australia,14289,171475
+5,PhD,Cybersecurity,Dublin,Ireland,18479,221754
+10,PhD,Cloud Engineer,Singapore,Singapore,22446,269352
+0,PhD,ML Engineer,Tokyo,Japan,12675,152100
+4,PhD,Cloud Engineer,Delhi,India,6135,73622
+9,PhD,ML Engineer,Osaka,Japan,16946,203353
+2,PhD,Cloud Engineer,Sydney,Australia,17328,207938
+1,PhD,ML Engineer,Luxembourg,Luxembourg,20771,249255
+6,PhD,Software Engineer,Stockholm,Sweden,13078,156938
+9,PhD,Cloud Engineer,New York,USA,29639,355669
+7,Master,ML Engineer,Brisbane,Australia,18936,227239
+2,PhD,Cybersecurity,Singapore,Singapore,17725,212707
+9,Bachelor,Data Analyst,Frankfurt,Germany,10791,129501
+1,PhD,Cybersecurity,Amsterdam,Netherlands,13990,167883
+11,Master,Cloud Engineer,London,UK,15499,185988
+11,PhD,Cloud Engineer,Abu Dhabi,UAE,22159,265912
+7,Bachelor,Cloud Engineer,Zurich,Switzerland,23144,277731
+3,PhD,Data Analyst,Zurich,Switzerland,17930,215168
+12,PhD,Software Engineer,Tokyo,Japan,14634,175615
+4,Master,Data Scientist,Austin,USA,16858,202298
+9,Bachelor,Cloud Engineer,Kuala Lumpur,Malaysia,8944,107337
+4,Bachelor,Data Scientist,Barcelona,Spain,8358,100300
+7,Bachelor,Cybersecurity,Edinburgh,UK,11123,133484
+9,PhD,Software Engineer,Brisbane,Australia,18766,225195
+12,Master,Data Scientist,Zurich,Switzerland,23864,286374
+9,Bachelor,Cloud Engineer,Pune,India,6723,80681
+4,Bachelor,Data Scientist,Toronto,Canada,12780,153364
+5,PhD,Data Analyst,Hyderabad,India,6311,75738
+10,Master,Cybersecurity,Dublin,Ireland,17262,207152
+7,Master,Cybersecurity,Madrid,Spain,9314,111769
+7,PhD,Data Scientist,Kuala Lumpur,Malaysia,8017,96206
+3,PhD,Cloud Engineer,Kuala Lumpur,Malaysia,5273,63277
+12,Master,Cybersecurity,Dubai,UAE,22141,265702
+8,PhD,Data Scientist,Berlin,Germany,17460,209529
+5,PhD,Cybersecurity,Kuala Lumpur,Malaysia,8340,100086
+0,Bachelor,Data Scientist,Hamburg,Germany,8800,105600
+7,Bachelor,Software Engineer,Zurich,Switzerland,20317,243808
+5,PhD,Data Scientist,Luxembourg,Luxembourg,21971,263658
+9,Bachelor,Software Engineer,Seattle,USA,18365,220389
+4,Bachelor,Data Scientist,Singapore,Singapore,15106,181276
+4,Master,Software Engineer,Paris,France,10659,127912
+8,Master,Cybersecurity,Amsterdam,Netherlands,14802,177628
+5,Master,Data Analyst,Luxembourg,Luxembourg,16359,196317
+8,Bachelor,Software Engineer,Dubai,UAE,12593,151126
+0,Bachelor,Cloud Engineer,Madrid,Spain,5729,68750
+0,PhD,Data Scientist,Melbourne,Australia,14400,172800
+10,Master,Cloud Engineer,Lyon,France,14318,171820
+4,PhD,Data Scientist,Montreal,Canada,14150,169800
+11,Bachelor,Cybersecurity,Barcelona,Spain,12332,147988
+1,PhD,ML Engineer,Abu Dhabi,UAE,13947,167364
+3,Bachelor,Data Scientist,Montreal,Canada,12133,145605
+2,PhD,Data Analyst,Kuala Lumpur,Malaysia,4606,55272
+4,PhD,Software Engineer,Dubai,UAE,14638,175658
+9,Bachelor,Data Scientist,Kuala Lumpur,Malaysia,6160,73926
+10,Master,Software Engineer,Zurich,Switzerland,22870,274450
+10,Bachelor,Data Analyst,Lyon,France,13520,162240
+10,Bachelor,Cloud Engineer,Geneva,Switzerland,23473,281680
+9,Master,ML Engineer,Barcelona,Spain,13753,165039
+8,Bachelor,Data Analyst,Lyon,France,10385,124620
+3,PhD,Software Engineer,Melbourne,Australia,15414,184975
+5,Master,Cybersecurity,Madrid,Spain,9253,111039
+8,PhD,Data Scientist,Manchester,UK,14965,179587
+6,Bachelor,Cloud Engineer,New York,USA,22089,265068
+4,Master,Software Engineer,Singapore,Singapore,16684,200208
+2,Bachelor,ML Engineer,Stockholm,Sweden,11640,139680
+0,Bachelor,Cybersecurity,Zurich,Switzerland,18000,216000
+11,Master,Cybersecurity,Luxembourg,Luxembourg,23272,279268
+7,Bachelor,Cloud Engineer,Dublin,Ireland,15406,184876
+11,Bachelor,Cybersecurity,Madrid,Spain,11110,133331
+2,Master,Cloud Engineer,Osaka,Japan,11834,142016
+1,PhD,Cloud Engineer,Luxembourg,Luxembourg,19781,237379
+7,Bachelor,Data Scientist,Dublin,Ireland,14098,169184
+9,Master,Cybersecurity,Dubai,UAE,15165,181985
+10,PhD,Data Scientist,Osaka,Japan,15989,191868
+1,PhD,ML Engineer,Dubai,UAE,14931,179175
+10,Bachelor,Software Engineer,Abu Dhabi,UAE,16337,196050
+9,PhD,Cloud Engineer,Hyderabad,India,10004,120048
+10,Bachelor,Software Engineer,Amsterdam,Netherlands,16321,195860
+10,PhD,ML Engineer,Sydney,Australia,19905,238860
+9,Bachelor,Data Analyst,Toronto,Canada,14983,179802
+7,Master,Cloud Engineer,Amsterdam,Netherlands,18491,221899
+1,PhD,Software Engineer,Luxembourg,Luxembourg,17327,207933
+7,Bachelor,Data Scientist,Zurich,Switzerland,20585,247031
+4,PhD,Software Engineer,Barcelona,Spain,9300,111600
+1,PhD,Cloud Engineer,Tokyo,Japan,13105,157270
+1,Master,ML Engineer,Paris,France,11354,136251
+7,Master,Cloud Engineer,Frankfurt,Germany,16338,196064
+4,Bachelor,Data Analyst,Stockholm,Sweden,9868,118416
+2,Bachelor,Cloud Engineer,Brisbane,Australia,12740,152890
+8,Master,ML Engineer,Abu Dhabi,UAE,17531,210381
+0,Master,Data Scientist,Osaka,Japan,9900,118800
+6,PhD,Cybersecurity,Mumbai,India,4990,59882
+12,Master,Data Analyst,Vancouver,Canada,17822,213866
+4,PhD,Data Scientist,Lyon,France,12480,149764
+1,PhD,Software Engineer,Toronto,Canada,12640,151681
+11,PhD,Cloud Engineer,Vancouver,Canada,24198,290379
+2,Master,Software Engineer,Luxembourg,Luxembourg,16570,198849
+4,PhD,ML Engineer,Zurich,Switzerland,27196,326352
+7,Bachelor,Cloud Engineer,Kuala Lumpur,Malaysia,7611,91335
+7,Master,Software Engineer,Pune,India,5314,63772
+11,Bachelor,Software Engineer,Dubai,UAE,17127,205535
+6,Master,Cloud Engineer,Zurich,Switzerland,22701,272421
+6,PhD,Cybersecurity,Stockholm,Sweden,16195,194342
+3,PhD,Cloud Engineer,Frankfurt,Germany,14939,179272
+8,Master,Data Analyst,London,UK,10931,131177
+8,Master,Cybersecurity,Birmingham,UK,12566,150796
+1,PhD,Cybersecurity,San Francisco,USA,22192,266307
+0,Master,Data Scientist,Dublin,Ireland,12870,154440
+12,Bachelor,Software Engineer,Amsterdam,Netherlands,15504,186050
+3,Bachelor,ML Engineer,Osaka,Japan,10831,129975
+4,Master,Software Engineer,Singapore,Singapore,16957,203486
+12,Bachelor,Data Analyst,Rotterdam,Netherlands,14780,177360
+3,Master,Cybersecurity,London,UK,11532,138392
+2,Master,ML Engineer,Singapore,Singapore,16658,199896
+1,Bachelor,Data Scientist,Berlin,Germany,9271,111257
+6,Master,Data Analyst,Boston,USA,15771,189255
+5,Master,Cloud Engineer,Stockholm,Sweden,13997,167964
+6,PhD,Cloud Engineer,Rotterdam,Netherlands,17402,208828
+8,Master,Cybersecurity,Barcelona,Spain,12705,152468
+5,Bachelor,Software Engineer,Toronto,Canada,12905,154860
+9,Bachelor,Software Engineer,Luxembourg,Luxembourg,19660,235928
+6,Bachelor,Cybersecurity,Stockholm,Sweden,11786,141432
+8,PhD,ML Engineer,Paris,France,17938,215265
+6,Bachelor,ML Engineer,Madrid,Spain,9755,117064
+1,Master,Data Scientist,Dublin,Ireland,13369,160437
+7,PhD,Software Engineer,Dublin,Ireland,15545,186544
+1,Master,Data Analyst,Seattle,USA,13762,165151
+2,Bachelor,Data Analyst,Stockholm,Sweden,7982,95786
+0,PhD,Software Engineer,Luxembourg,Luxembourg,16940,203280
+8,Master,Data Scientist,Montreal,Canada,17573,210883
+11,Bachelor,Software Engineer,Singapore,Singapore,19015,228184
+12,Bachelor,Cloud Engineer,Lyon,France,15630,187570
+2,PhD,Data Analyst,Luxembourg,Luxembourg,14505,174060
+9,Bachelor,Cybersecurity,Geneva,Switzerland,20522,246267
+5,PhD,Cloud Engineer,Stockholm,Sweden,14486,173838
+5,Master,Data Analyst,Osaka,Japan,11126,133518
+0,Bachelor,Cybersecurity,Stockholm,Sweden,9600,115200
+4,Bachelor,Software Engineer,Tokyo,Japan,12015,144186
+11,Master,Cloud Engineer,Chicago,USA,21595,259145
+9,Master,Data Scientist,Tokyo,Japan,17782,213394
+10,PhD,Cybersecurity,Berlin,Germany,13739,164868
+12,PhD,ML Engineer,Stockholm,Sweden,20071,240854
+12,PhD,Data Analyst,Rotterdam,Netherlands,15931,191174
+1,PhD,Software Engineer,Abu Dhabi,UAE,11646,139754
+0,Bachelor,ML Engineer,Geneva,Switzerland,18200,218400
+4,Bachelor,Data Scientist,Frankfurt,Germany,10847,130172
+3,Master,Software Engineer,Munich,Germany,11746,140957
+3,Master,Data Analyst,San Francisco,USA,17435,209226
+7,Master,Cybersecurity,Frankfurt,Germany,15083,181005
+9,Bachelor,Data Scientist,Amsterdam,Netherlands,13741,164892
+11,Bachelor,Software Engineer,Dubai,UAE,18018,216227
+5,PhD,ML Engineer,Zurich,Switzerland,25872,310464
+9,PhD,Data Scientist,Barcelona,Spain,13878,166546
+11,PhD,Data Analyst,Rotterdam,Netherlands,18849,226188
+3,Bachelor,Data Scientist,London,UK,11170,134040
+4,Bachelor,ML Engineer,Singapore,Singapore,16299,195588
+7,Bachelor,Cloud Engineer,Zurich,Switzerland,23263,279159
+1,Master,Cybersecurity,Montreal,Canada,11216,134592
+11,Bachelor,Software Engineer,Stockholm,Sweden,15894,190729
+6,PhD,Cybersecurity,Rotterdam,Netherlands,17059,204710
+5,Master,Cloud Engineer,Chennai,India,5777,69327
+5,PhD,Data Scientist,Amsterdam,Netherlands,17564,210774
+7,PhD,Software Engineer,Delhi,India,6902,82833
+1,PhD,Data Analyst,Kuala Lumpur,Malaysia,3655,43862
+2,Bachelor,Data Analyst,Melbourne,Australia,9724,116696
+3,PhD,Data Analyst,Osaka,Japan,10747,128973
+1,Master,Software Engineer,Abu Dhabi,UAE,10719,128635
+8,Master,Data Scientist,Tokyo,Japan,15039,180479
+2,Bachelor,Software Engineer,Munich,Germany,11005,132060
+9,Bachelor,Cybersecurity,Manchester,UK,13567,162804
+6,PhD,ML Engineer,Edinburgh,UK,12502,150024
+8,Master,Data Scientist,Kuala Lumpur,Malaysia,9545,114549
+10,Bachelor,Software Engineer,Chennai,India,7546,90560
+5,Master,Software Engineer,Birmingham,UK,10596,127154
+8,Bachelor,Data Scientist,Lyon,France,10256,123072
+4,Master,ML Engineer,Montreal,Canada,14047,168568
+2,Master,Cybersecurity,Luxembourg,Luxembourg,17882,214590
+0,Bachelor,ML Engineer,Kuala Lumpur,Malaysia,3575,42900
+0,Master,Data Analyst,Vancouver,Canada,9652,115830
+1,Bachelor,Software Engineer,Munich,Germany,10330,123960
+5,Master,Data Analyst,Munich,Germany,12506,150078
+1,PhD,Data Analyst,Osaka,Japan,8921,107059
+12,Master,Data Analyst,Luxembourg,Luxembourg,23054,276658
+2,Master,Data Scientist,Paris,France,11741,140903
+6,Master,Cybersecurity,Dubai,UAE,16248,194977
+6,PhD,ML Engineer,Frankfurt,Germany,15629,187552
+2,PhD,Software Engineer,New York,USA,19469,233630
+12,PhD,Data Scientist,Montreal,Canada,21963,263563
+6,PhD,Cybersecurity,Zurich,Switzerland,24601,295221
+1,PhD,Cybersecurity,Mumbai,India,3614,43375
+9,PhD,Data Analyst,Chennai,India,5983,71798
+10,Bachelor,Software Engineer,Brisbane,Australia,13998,167980
+12,Master,Cloud Engineer,Geneva,Switzerland,29704,356452
+7,Bachelor,ML Engineer,Madrid,Spain,11340,136089
+7,Master,Data Analyst,Toronto,Canada,11312,135748
+8,PhD,Data Scientist,New York,USA,27951,335414
+0,Master,Cloud Engineer,Sydney,Australia,14895,178750
+11,Bachelor,Cybersecurity,Osaka,Japan,16662,199949
+0,Bachelor,Data Scientist,Vancouver,Canada,11700,140400
+7,Bachelor,Data Scientist,Singapore,Singapore,15962,191555
+10,Master,Data Scientist,Melbourne,Australia,21814,261778
+10,PhD,Data Scientist,New York,USA,26820,321840
+3,Bachelor,Software Engineer,Dublin,Ireland,12587,151050
+7,Master,Data Scientist,Abu Dhabi,UAE,13953,167442
+2,Master,Cybersecurity,Singapore,Singapore,15215,182582
+8,Master,Data Analyst,Munich,Germany,13874,166496
+1,PhD,Data Scientist,Kuala Lumpur,Malaysia,4843,58119
+9,Master,Cybersecurity,Osaka,Japan,12801,153618
+5,PhD,Software Engineer,Boston,USA,19667,236010
+7,Master,Data Scientist,Geneva,Switzerland,23885,286624
+11,Master,ML Engineer,Melbourne,Australia,18235,218826
+12,Bachelor,ML Engineer,Geneva,Switzerland,24421,293052
+0,PhD,Cloud Engineer,Perth,Australia,13750,165000
+4,Master,Cloud Engineer,Kuala Lumpur,Malaysia,6060,72725
+4,PhD,Data Scientist,Munich,Germany,15574,186888
+2,Bachelor,ML Engineer,Singapore,Singapore,14952,179432
+3,Bachelor,Data Analyst,Tokyo,Japan,8418,101022
+7,Bachelor,ML Engineer,Lyon,France,13302,159628
+2,Master,Cybersecurity,Manchester,UK,9344,112129
+9,PhD,Software Engineer,Perth,Australia,14814,177772
+2,Master,Software Engineer,Chicago,USA,14300,171600
+7,Bachelor,ML Engineer,Abu Dhabi,UAE,15422,185072
+3,Master,Data Scientist,Dubai,UAE,14453,173444
+6,Master,Cybersecurity,Kuala Lumpur,Malaysia,8050,96610
+9,Bachelor,Data Analyst,Stockholm,Sweden,11204,134451
+10,Bachelor,Cloud Engineer,Frankfurt,Germany,16679,200150
+2,Bachelor,Data Scientist,Amsterdam,Netherlands,12279,147358
+3,Master,Cloud Engineer,Edinburgh,UK,10332,123989
+12,PhD,Data Analyst,Bangalore,India,10654,127857
+12,Bachelor,Data Analyst,Hyderabad,India,8901,106812
+8,PhD,ML Engineer,Dubai,UAE,22146,265759
+1,Bachelor,Cybersecurity,Paris,France,9535,114431
+3,PhD,Data Scientist,Lyon,France,12054,144651
+12,Bachelor,Cybersecurity,Perth,Australia,16541,198492
+2,PhD,Data Scientist,Tokyo,Japan,13636,163634
+4,Master,Cloud Engineer,Luxembourg,Luxembourg,20890,250685
+6,Master,Data Scientist,Barcelona,Spain,8781,105375
+8,Bachelor,Cybersecurity,Bangalore,India,4883,58600
+0,Master,Software Engineer,Stockholm,Sweden,9680,116160
+4,PhD,Data Scientist,Toronto,Canada,14217,170611
+2,Master,Cybersecurity,Montreal,Canada,11930,143171
+11,PhD,Data Scientist,Kuala Lumpur,Malaysia,8649,103791
+11,PhD,ML Engineer,Stockholm,Sweden,21648,259782
+7,PhD,Data Analyst,Geneva,Switzerland,18734,224809
+4,Bachelor,Data Scientist,Dublin,Ireland,13542,162504
+1,Master,Data Scientist,Barcelona,Spain,7375,88509
+0,PhD,Cybersecurity,Frankfurt,Germany,11520,138240
+3,Bachelor,Cloud Engineer,Vancouver,Canada,13180,158166
+12,Bachelor,Software Engineer,Stockholm,Sweden,15952,191424
+4,Bachelor,Data Analyst,Lyon,France,6816,81800
+10,Master,Data Scientist,Lyon,France,15808,189706
+0,Bachelor,Cloud Engineer,London,UK,9479,113750
+2,Bachelor,Cloud Engineer,Dubai,UAE,12805,153667
+11,PhD,Cybersecurity,Hamburg,Germany,17536,210434
+1,Master,Software Engineer,Singapore,Singapore,13877,166532
+7,Master,Cybersecurity,Rotterdam,Netherlands,15893,190726
+12,PhD,ML Engineer,Luxembourg,Luxembourg,23634,283612
+4,PhD,Cloud Engineer,Bangalore,India,6682,80184
+1,Master,Data Scientist,Singapore,Singapore,15037,180444
+2,PhD,ML Engineer,Stockholm,Sweden,14245,170942
+12,Master,Cybersecurity,Manchester,UK,12700,152407
+4,Master,Cybersecurity,Lyon,France,12135,145631
+9,Bachelor,Cybersecurity,Sydney,Australia,18434,221214
+3,PhD,Data Analyst,Edinburgh,UK,7490,89884
+12,PhD,Cybersecurity,Sydney,Australia,25359,304315
+2,Bachelor,Data Analyst,Manchester,UK,6627,79528
+4,PhD,Data Analyst,Dublin,Ireland,12198,146380
+8,Master,Software Engineer,Dubai,UAE,18066,216794
+10,PhD,Cloud Engineer,Manchester,UK,15927,191130
+2,PhD,Cybersecurity,Zurich,Switzerland,22312,267748
+10,Master,Cybersecurity,Dubai,UAE,19868,238425
+1,PhD,Cloud Engineer,Paris,France,12287,147450
+12,PhD,Data Scientist,London,UK,15040,180489
+6,Bachelor,Software Engineer,Stockholm,Sweden,12326,147918
+12,PhD,Data Scientist,Pune,India,13465,161582
+10,Bachelor,Data Scientist,Stockholm,Sweden,14805,177660
+3,PhD,Software Engineer,Zurich,Switzerland,22016,264196
+7,Master,ML Engineer,Geneva,Switzerland,24211,290536
+12,Master,Data Analyst,Brisbane,Australia,19196,230353
+10,Master,Cloud Engineer,Toronto,Canada,21541,258500
+11,Bachelor,Data Analyst,Seattle,USA,19624,235495
+10,Bachelor,ML Engineer,Geneva,Switzerland,24410,292930
+4,Master,Software Engineer,Abu Dhabi,UAE,12316,147800
+10,Master,Data Analyst,Lyon,France,14939,179278
+10,PhD,Cybersecurity,Singapore,Singapore,20934,251208
+11,PhD,Software Engineer,Barcelona,Spain,17572,210870
+8,PhD,Software Engineer,Singapore,Singapore,19978,239736
+7,Master,ML Engineer,Hamburg,Germany,16330,195971
+1,PhD,Data Scientist,Sydney,Australia,15964,191571
+8,Master,Data Scientist,Singapore,Singapore,19306,231677
+10,Bachelor,Software Engineer,Tokyo,Japan,13656,163880
+11,Bachelor,Data Scientist,Austin,USA,21057,252692
+0,PhD,Data Analyst,Osaka,Japan,8100,97200
+1,Master,Cloud Engineer,Singapore,Singapore,15622,187469
+10,Bachelor,Cloud Engineer,Barcelona,Spain,14122,169470
+3,PhD,Data Scientist,Dubai,UAE,14590,175089
+1,PhD,Software Engineer,Singapore,Singapore,15231,182781
+11,Master,Data Analyst,Rotterdam,Netherlands,16619,199437
+1,Master,Cybersecurity,Dublin,Ireland,13668,164022
+6,PhD,Data Analyst,Boston,USA,15364,184377
+12,Bachelor,Software Engineer,Luxembourg,Luxembourg,22386,268640
+2,PhD,Cybersecurity,Paris,France,12396,148756
+6,PhD,Data Analyst,Singapore,Singapore,16739,200872
+12,Master,Data Scientist,Sydney,Australia,19548,234577
+2,Master,Data Analyst,Rotterdam,Netherlands,9970,119649
+5,Master,ML Engineer,Zurich,Switzerland,23013,276160
+4,PhD,Cybersecurity,Singapore,Singapore,19068,228825
+7,Master,Cloud Engineer,Vancouver,Canada,18665,223984
+7,Master,Cybersecurity,Stockholm,Sweden,16919,203034
+9,Bachelor,Cloud Engineer,Dublin,Ireland,16446,197352
+4,PhD,ML Engineer,Hyderabad,India,5592,67108
+5,PhD,Cloud Engineer,Madrid,Spain,9125,109500
+12,PhD,Cloud Engineer,Geneva,Switzerland,30397,364766
+12,Bachelor,Cloud Engineer,Paris,France,15611,187334
+8,Bachelor,Cloud Engineer,Chicago,USA,16976,203720
+12,Bachelor,Data Scientist,Toronto,Canada,16962,203544
+0,Master,Cybersecurity,Chennai,India,2200,26400
+0,Bachelor,Software Engineer,Dublin,Ireland,10725,128700
+8,Bachelor,Data Scientist,Singapore,Singapore,16564,198776
+1,PhD,Cloud Engineer,Manchester,UK,9421,113060
+3,Bachelor,Cloud Engineer,Singapore,Singapore,15814,189779
+11,Master,Data Analyst,Perth,Australia,19018,228218
+10,Master,Cloud Engineer,Paris,France,16834,202015
+2,Master,Cloud Engineer,Paris,France,12018,144221
+10,Master,Cloud Engineer,Zurich,Switzerland,26656,319880
+6,PhD,Software Engineer,Dublin,Ireland,17292,207504
+12,Bachelor,Cloud Engineer,Osaka,Japan,19303,231636
+5,Bachelor,Data Scientist,Kuala Lumpur,Malaysia,5271,63255
+10,Bachelor,Cloud Engineer,Montreal,Canada,15110,181320
+9,Master,Software Engineer,Singapore,Singapore,17341,208103
+6,PhD,ML Engineer,Frankfurt,Germany,18049,216590
+6,Bachelor,Software Engineer,Paris,France,13209,158516
+11,Master,Cloud Engineer,Dublin,Ireland,20757,249084
+0,PhD,Cybersecurity,Zurich,Switzerland,21600,259200
+6,PhD,Data Scientist,Luxembourg,Luxembourg,23472,281664
+1,Bachelor,Cybersecurity,Hamburg,Germany,9383,112599
+1,PhD,Cloud Engineer,Dublin,Ireland,15028,180346
+5,Master,ML Engineer,Vancouver,Canada,16521,198258
+11,PhD,Data Analyst,Kuala Lumpur,Malaysia,7672,92070
+0,Master,Cloud Engineer,Paris,France,10427,125125
+2,Master,Data Analyst,Singapore,Singapore,11967,143607
+12,Bachelor,Data Analyst,Stockholm,Sweden,10575,126900
+7,Master,Data Analyst,Geneva,Switzerland,16362,196350
+10,PhD,Software Engineer,Dublin,Ireland,20715,248580
+2,Bachelor,Data Scientist,Montreal,Canada,11008,132098
+1,Bachelor,Cloud Engineer,Dubai,UAE,12322,147870
+1,Bachelor,Cloud Engineer,Singapore,Singapore,14621,175461
+8,PhD,Software Engineer,Luxembourg,Luxembourg,23424,281097
+12,PhD,ML Engineer,Geneva,Switzerland,30466,365601
+0,Master,Cybersecurity,Chicago,USA,14520,174240
+2,Bachelor,ML Engineer,Singapore,Singapore,14912,178944
+4,PhD,Cloud Engineer,Frankfurt,Germany,14477,173731
+7,PhD,Software Engineer,Stockholm,Sweden,14968,179623
+3,PhD,Software Engineer,Amsterdam,Netherlands,13368,160425
+1,PhD,Software Engineer,Stockholm,Sweden,11162,133947
+1,Bachelor,Cloud Engineer,Tokyo,Japan,10592,127104
+1,Master,Data Scientist,Dublin,Ireland,13422,161073
+11,Master,Data Scientist,Pune,India,11646,139755
+0,PhD,Cloud Engineer,Dublin,Ireland,14625,175500
+2,Bachelor,Software Engineer,Melbourne,Australia,12346,148158
+1,Bachelor,ML Engineer,Dubai,UAE,12314,147770
+0,Master,Data Scientist,Chicago,USA,14520,174240
+11,PhD,Data Scientist,Brisbane,Australia,19940,239289
+5,Master,Cloud Engineer,Madrid,Spain,9007,108091
+12,Master,ML Engineer,Amsterdam,Netherlands,16645,199740
+3,Bachelor,Data Scientist,San Francisco,USA,20194,242331
+6,Bachelor,Data Analyst,Vancouver,Canada,12058,144702
+3,Bachelor,Software Engineer,Toronto,Canada,11382,136587
+9,PhD,Cloud Engineer,San Francisco,USA,30613,367362
+8,Master,ML Engineer,Toronto,Canada,15494,185935
+5,Master,Data Scientist,Lyon,France,12173,146085
+2,Bachelor,Data Analyst,Paris,France,8320,99840
+8,PhD,Data Analyst,Dublin,Ireland,18290,219480
+0,Master,Data Analyst,Lyon,France,6352,76230
+2,Bachelor,ML Engineer,Boston,USA,16104,193250
+9,Master,Data Analyst,Rotterdam,Netherlands,16022,192267
+6,PhD,ML Engineer,Kuala Lumpur,Malaysia,9621,115452
+3,PhD,Cloud Engineer,Munich,Germany,14233,170796
+8,Bachelor,Data Scientist,Tokyo,Japan,11826,141912
+0,Bachelor,Cybersecurity,Hamburg,Germany,8800,105600
+8,Bachelor,Data Scientist,Singapore,Singapore,17692,212304
+4,PhD,Software Engineer,Brisbane,Australia,13898,166776
+8,Bachelor,Software Engineer,Dubai,UAE,14634,175614
+1,Bachelor,Data Scientist,Amsterdam,Netherlands,11807,141691
+11,Master,Data Analyst,Dublin,Ireland,15393,184727
+8,PhD,ML Engineer,Paris,France,19764,237172
+8,PhD,Data Scientist,Montreal,Canada,16292,195513
+9,Master,Data Scientist,Abu Dhabi,UAE,15170,182051
+10,Bachelor,Cybersecurity,Abu Dhabi,UAE,17015,204180
+2,Bachelor,Software Engineer,Dubai,UAE,10768,129226
+9,PhD,ML Engineer,Edinburgh,UK,13081,156975
+2,Master,Data Scientist,Rotterdam,Netherlands,12685,152222
+12,PhD,Cybersecurity,Dublin,Ireland,19274,231292
+3,Bachelor,Cloud Engineer,Birmingham,UK,8075,96904
+5,Master,ML Engineer,Stockholm,Sweden,14525,174300
+3,PhD,Cloud Engineer,Melbourne,Australia,17311,207734
+2,Master,Data Scientist,Brisbane,Australia,12925,155111
+11,Master,ML Engineer,Singapore,Singapore,22702,272433
+6,Bachelor,Software Engineer,Hyderabad,India,4188,50264
+5,Bachelor,ML Engineer,Mumbai,India,5705,68465
+2,PhD,Data Scientist,Kuala Lumpur,Malaysia,4899,58790
+10,Bachelor,Cybersecurity,Hamburg,Germany,16808,201700
+1,Bachelor,Data Analyst,Lyon,France,6045,72551
+0,Master,Data Analyst,Mumbai,India,1980,23760
+12,Bachelor,ML Engineer,Zurich,Switzerland,24210,290520
+9,Bachelor,Cybersecurity,Perth,Australia,17050,204603
+10,Bachelor,ML Engineer,Barcelona,Spain,10583,127000
+3,Master,ML Engineer,Rotterdam,Netherlands,14273,171286
+2,Bachelor,Data Scientist,Munich,Germany,11266,135200
+0,Bachelor,Cloud Engineer,Kuala Lumpur,Malaysia,3437,41250
+6,Master,Data Analyst,Manchester,UK,10245,122951
+9,Bachelor,Cybersecurity,Osaka,Japan,14950,179406
+6,PhD,Data Scientist,Dublin,Ireland,15914,190972
+5,Bachelor,Data Analyst,Osaka,Japan,9532,114390
+8,Master,Data Scientist,Frankfurt,Germany,14564,174768
+1,Master,ML Engineer,Osaka,Japan,11010,132121
+1,Bachelor,Cloud Engineer,Luxembourg,Luxembourg,16595,199141
+9,Master,Data Analyst,Rotterdam,Netherlands,11628,139540
+5,Master,ML Engineer,Lyon,France,12541,150496
+7,Bachelor,ML Engineer,Barcelona,Spain,8703,104439
+2,Bachelor,Software Engineer,Melbourne,Australia,12584,151016
+10,PhD,Software Engineer,Stockholm,Sweden,19045,228540
+9,PhD,Data Scientist,Singapore,Singapore,21585,259020
+7,Master,Software Engineer,Montreal,Canada,13321,159860
+1,Bachelor,Data Analyst,Barcelona,Spain,4940,59289
+3,Bachelor,Software Engineer,Kuala Lumpur,Malaysia,4820,57846
+9,Bachelor,Data Analyst,Zurich,Switzerland,16965,203589
+11,PhD,Data Analyst,Barcelona,Spain,9892,118708
+3,Master,Data Analyst,Stockholm,Sweden,9662,115945
+7,PhD,Data Analyst,Stockholm,Sweden,15369,184429
+9,Master,Data Analyst,Kuala Lumpur,Malaysia,10460,125522
+4,Bachelor,Software Engineer,Dublin,Ireland,12987,155848
+2,Master,Data Scientist,Austin,USA,15548,186577
+0,PhD,ML Engineer,Abu Dhabi,UAE,13260,159120
+4,Master,Software Engineer,Geneva,Switzerland,18444,221337
+9,Bachelor,Cybersecurity,Geneva,Switzerland,21458,257499
+12,PhD,Cybersecurity,Stockholm,Sweden,21190,254289
+10,Bachelor,Cloud Engineer,Birmingham,UK,9934,119210
+9,Bachelor,Data Scientist,Munich,Germany,17070,204846
+3,Master,ML Engineer,Stockholm,Sweden,12375,148500
+10,PhD,Cybersecurity,Dubai,UAE,21483,257796
+11,Bachelor,Data Analyst,Paris,France,10047,120565
+8,Master,Cybersecurity,Madrid,Spain,8381,100575
+2,PhD,Data Scientist,Stockholm,Sweden,13371,160461
+0,PhD,Cybersecurity,Sydney,Australia,15600,187200
+0,Master,Cloud Engineer,Abu Dhabi,UAE,11687,140250
+5,Bachelor,Cloud Engineer,Stockholm,Sweden,12829,153955
+7,PhD,Cybersecurity,Luxembourg,Luxembourg,23044,276536
+8,Bachelor,Data Analyst,Stockholm,Sweden,11657,139888
+7,Bachelor,Software Engineer,Tokyo,Japan,11217,134613
+9,Master,ML Engineer,Seattle,USA,26688,320258
+3,Bachelor,Software Engineer,Rotterdam,Netherlands,10739,128874
+4,PhD,Data Scientist,Dublin,Ireland,17914,214972
+2,Bachelor,Cloud Engineer,Stockholm,Sweden,11470,137648
+8,Bachelor,Data Scientist,Amsterdam,Netherlands,15117,181408
+6,Master,ML Engineer,Chennai,India,7006,84079
+0,PhD,Cybersecurity,Barcelona,Spain,7200,86400
+1,Bachelor,Software Engineer,Amsterdam,Netherlands,10575,126903
+1,Bachelor,Cybersecurity,Edinburgh,UK,7454,89455
+12,Master,Data Scientist,Paris,France,13996,167956
+2,Master,Data Analyst,Sydney,Australia,11551,138615
+10,Bachelor,Cloud Engineer,Montreal,Canada,17771,213260
+8,PhD,Data Scientist,Dublin,Ireland,20330,243964
+4,PhD,Data Scientist,Manchester,UK,9847,118171
+6,Master,Cybersecurity,Kuala Lumpur,Malaysia,6374,76494
+4,Master,Software Engineer,Dublin,Ireland,13590,163090
+2,PhD,Data Scientist,Dublin,Ireland,16024,192295
+0,Bachelor,Cybersecurity,Delhi,India,2200,26400
+7,PhD,ML Engineer,Delhi,India,5354,64257
+2,Bachelor,Software Engineer,Brisbane,Australia,11148,133784
+5,Master,ML Engineer,Toronto,Canada,14569,174828
+2,Master,Software Engineer,Munich,Germany,11474,137695
+5,PhD,Software Engineer,Lyon,France,10233,122796
+3,Bachelor,Cloud Engineer,Stockholm,Sweden,12184,146211
+8,PhD,ML Engineer,Stockholm,Sweden,16378,196540
+0,PhD,Cloud Engineer,Stockholm,Sweden,12000,144000
+2,PhD,ML Engineer,Pune,India,3787,45444
+4,PhD,Cybersecurity,Madrid,Spain,8891,106694
+0,Master,Data Scientist,Manchester,UK,7865,94380
+3,PhD,ML Engineer,Brisbane,Australia,16241,194899
+2,Bachelor,Cybersecurity,Edinburgh,UK,8784,105410
+12,Master,Cloud Engineer,Geneva,Switzerland,29196,350354
+7,PhD,Software Engineer,Madrid,Spain,10943,131316
+0,Master,Cybersecurity,Amsterdam,Netherlands,12155,145860
+12,PhD,Software Engineer,Zurich,Switzerland,24938,299260
+10,PhD,Data Scientist,Singapore,Singapore,21213,254556
+5,Master,Cloud Engineer,Vancouver,Canada,17103,205238
+2,PhD,Cloud Engineer,Singapore,Singapore,18248,218985
+10,Master,Cybersecurity,Chicago,USA,20578,246939
+0,PhD,Data Scientist,Osaka,Japan,10800,129600
+3,Master,Cloud Engineer,Rotterdam,Netherlands,13312,159753
+5,Master,ML Engineer,Dublin,Ireland,16521,198253
+12,PhD,Cybersecurity,Singapore,Singapore,23762,285148
+5,Bachelor,Data Scientist,Dublin,Ireland,14015,168190
+12,Bachelor,Data Scientist,Dublin,Ireland,18039,216468
+12,Master,Cybersecurity,Toronto,Canada,17043,204520
+12,Bachelor,ML Engineer,Stockholm,Sweden,14542,174504
+5,Bachelor,Data Analyst,Perth,Australia,10410,124925
+7,PhD,Cloud Engineer,Barcelona,Spain,13376,160518
+4,Master,Software Engineer,Stockholm,Sweden,13036,156442
+12,PhD,Data Scientist,Vancouver,Canada,19827,237931
+3,PhD,ML Engineer,Manchester,UK,12196,146362
+3,Bachelor,Cloud Engineer,Birmingham,UK,8207,98488
+5,PhD,Data Scientist,Hamburg,Germany,13131,157578
+8,PhD,ML Engineer,Abu Dhabi,UAE,21259,255110
+10,Bachelor,ML Engineer,Singapore,Singapore,19184,230210
+10,Bachelor,ML Engineer,Austin,USA,21741,260900
+3,Bachelor,Data Analyst,Stockholm,Sweden,7977,95724
+2,PhD,Software Engineer,Montreal,Canada,12521,150256
+11,Master,ML Engineer,Kuala Lumpur,Malaysia,9343,112118
+7,PhD,Cybersecurity,Chicago,USA,20672,248065
+12,Master,Data Analyst,Geneva,Switzerland,17627,211530
+8,Bachelor,Data Analyst,Sydney,Australia,14982,179784
+9,PhD,Software Engineer,Barcelona,Spain,13732,164790
+3,Bachelor,ML Engineer,Luxembourg,Luxembourg,18300,219610
+10,Master,Cloud Engineer,Zurich,Switzerland,25848,310178
+3,PhD,Software Engineer,Paris,France,11699,140388
+12,PhD,Cloud Engineer,Seattle,USA,28398,340776
+1,Bachelor,ML Engineer,Tokyo,Japan,11059,132710
+7,PhD,Data Analyst,Lyon,France,10126,121514
+12,Bachelor,Software Engineer,Brisbane,Australia,16862,202348
+1,Master,Cloud Engineer,Manchester,UK,8889,106674
+12,PhD,ML Engineer,Luxembourg,Luxembourg,29524,354288
+12,Master,ML Engineer,San Francisco,USA,28836,346038
+1,Bachelor,Cybersecurity,Austin,USA,13485,161823
+7,PhD,Cloud Engineer,Stockholm,Sweden,17992,215912
+8,Bachelor,Cloud Engineer,Hamburg,Germany,13708,164504
+8,Bachelor,Cybersecurity,Edinburgh,UK,11534,138416
+2,Master,Data Scientist,Edinburgh,UK,8428,101138
+1,PhD,ML Engineer,Abu Dhabi,UAE,14131,169572
+1,PhD,ML Engineer,Lyon,France,10987,131852
+6,Master,Data Scientist,Dublin,Ireland,18058,216704
+4,Master,Cybersecurity,Singapore,Singapore,17738,212863
+2,PhD,ML Engineer,Barcelona,Spain,8787,105446
+2,Bachelor,ML Engineer,Montreal,Canada,11852,142228
+8,PhD,Cloud Engineer,Austin,USA,19072,228864
+2,PhD,Software Engineer,Montreal,Canada,11787,141451
+7,Master,Software Engineer,Edinburgh,UK,12072,144873
+6,Master,Data Analyst,Frankfurt,Germany,12377,148526
+5,Bachelor,Data Scientist,Amsterdam,Netherlands,14457,173495
+11,Bachelor,Cybersecurity,Stockholm,Sweden,16100,193201
+8,Master,Cybersecurity,Stockholm,Sweden,16629,199557
+9,Master,Software Engineer,Rotterdam,Netherlands,17021,204253
+6,PhD,Cybersecurity,Luxembourg,Luxembourg,24204,290448
+0,Master,Data Scientist,Luxembourg,Luxembourg,16940,203280
+10,Bachelor,ML Engineer,Singapore,Singapore,18521,222260
+5,Master,Cloud Engineer,Dubai,UAE,14919,179036
+2,Master,Data Scientist,Barcelona,Spain,7539,90468
+7,Bachelor,Data Scientist,Kuala Lumpur,Malaysia,7880,94571
+1,Master,Data Scientist,Seattle,USA,17463,209563
+9,Bachelor,Data Scientist,Paris,France,16355,196266
+12,Bachelor,Data Scientist,Hamburg,Germany,16025,192300
+8,Master,Data Analyst,Dublin,Ireland,16678,200142
+6,Master,Software Engineer,London,UK,12668,152026
+5,Bachelor,ML Engineer,Singapore,Singapore,17071,204860
+9,PhD,Software Engineer,Dubai,UAE,17601,211221
+0,Bachelor,Cybersecurity,Chennai,India,2000,24000
+6,Bachelor,Cybersecurity,Lyon,France,11998,143976
+7,Master,Data Scientist,Chicago,USA,20182,242192
+12,PhD,Cloud Engineer,Seattle,USA,27507,330091
+0,Bachelor,Cloud Engineer,Kuala Lumpur,Malaysia,3437,41250
+4,PhD,Software Engineer,Stockholm,Sweden,13516,162192
+3,Master,ML Engineer,Munich,Germany,13900,166810
+5,Master,Data Analyst,Chennai,India,3116,37394
+2,Bachelor,Cybersecurity,Singapore,Singapore,14394,172736
+1,PhD,Cybersecurity,Singapore,Singapore,16583,199002
+4,Master,Data Analyst,Lyon,France,9630,115570
+2,Bachelor,Cybersecurity,Brisbane,Australia,11607,139290
+5,Master,Data Analyst,Munich,Germany,11183,134205
+4,PhD,Data Scientist,Osaka,Japan,14244,170928
+9,Bachelor,Data Scientist,Osaka,Japan,15889,190674
+8,Bachelor,Cloud Engineer,Bangalore,India,8343,100116
+6,PhD,Cybersecurity,Singapore,Singapore,20811,249732
+6,Master,Data Analyst,Seattle,USA,15501,186021
+4,PhD,Software Engineer,Luxembourg,Luxembourg,18537,222446
+8,Master,ML Engineer,Amsterdam,Netherlands,18261,219139
+12,Master,Software Engineer,Paris,France,13578,162936
+0,PhD,Cybersecurity,Dublin,Ireland,14040,168480
+0,Master,Software Engineer,Chicago,USA,13310,159720
+0,Bachelor,ML Engineer,Luxembourg,Luxembourg,16683,200200
+3,PhD,Cybersecurity,Amsterdam,Netherlands,15886,190641
+3,PhD,Cybersecurity,Abu Dhabi,UAE,14172,170074
+8,Master,Cybersecurity,Frankfurt,Germany,17347,208164
+10,PhD,Software Engineer,Edinburgh,UK,13068,156816
+8,Bachelor,Data Analyst,London,UK,12991,155900
+5,PhD,ML Engineer,Stockholm,Sweden,16295,195546
+9,PhD,ML Engineer,Vancouver,Canada,20480,245764
+6,PhD,Cybersecurity,Dubai,UAE,18481,221774
+12,Bachelor,Software Engineer,Singapore,Singapore,17946,215360
+6,PhD,Data Analyst,New York,USA,17086,205041
+10,Master,Cloud Engineer,Luxembourg,Luxembourg,23463,281567
+5,PhD,Cybersecurity,Kuala Lumpur,Malaysia,6350,76200
+8,Master,Cybersecurity,Kuala Lumpur,Malaysia,10612,127344
+4,Bachelor,Data Scientist,Hamburg,Germany,9850,118208
+0,Bachelor,Data Analyst,Vancouver,Canada,8775,105300
+3,PhD,ML Engineer,Hamburg,Germany,14435,173226
+7,Master,Cloud Engineer,Osaka,Japan,15559,186712
+1,PhD,Software Engineer,Stockholm,Sweden,11341,136092
+3,Master,ML Engineer,Rotterdam,Netherlands,13149,157796
+9,Master,Cloud Engineer,Dubai,UAE,16264,195170
+8,PhD,Cybersecurity,Dublin,Ireland,17610,211324
+10,PhD,Cybersecurity,Osaka,Japan,14030,168360
+3,Bachelor,Data Analyst,Stockholm,Sweden,9104,109251
+9,Bachelor,ML Engineer,Barcelona,Spain,13314,159774
+11,PhD,Software Engineer,Stockholm,Sweden,17980,215767
+1,Bachelor,Software Engineer,Paris,France,9158,109905
+11,Master,Data Scientist,Madrid,Spain,13169,158038
+3,PhD,Software Engineer,Birmingham,UK,8471,101658
+2,Master,Data Scientist,Luxembourg,Luxembourg,18455,221469
+6,PhD,ML Engineer,Seattle,USA,24585,295020
+9,Master,Data Analyst,Barcelona,Spain,10644,127739
+2,Master,ML Engineer,Rotterdam,Netherlands,12814,153773
+8,Master,Software Engineer,Dublin,Ireland,18966,227598
+10,Bachelor,Cybersecurity,Rotterdam,Netherlands,17765,213190
+3,Master,ML Engineer,Sydney,Australia,17061,204733
+8,Master,Cloud Engineer,Seattle,USA,20908,250905
+2,PhD,Data Scientist,Luxembourg,Luxembourg,20473,245676
+8,Master,Cloud Engineer,Osaka,Japan,14891,178697
+6,Bachelor,Data Analyst,Birmingham,UK,8546,102558
+8,Bachelor,Cloud Engineer,Frankfurt,Germany,12156,145872
+1,Master,Software Engineer,Lyon,France,8379,100556
+7,PhD,Data Scientist,Melbourne,Australia,21354,256254
+11,Bachelor,Data Scientist,Singapore,Singapore,20042,240505
+6,PhD,Cloud Engineer,London,UK,14058,168698
+2,PhD,Cybersecurity,Munich,Germany,13910,166920
+5,Master,Data Analyst,London,UK,9692,116314
+9,PhD,Software Engineer,Toronto,Canada,20061,240732
+10,Master,Data Scientist,Abu Dhabi,UAE,16294,195536
+8,Master,Software Engineer,Dubai,UAE,15467,185607
+7,Master,Cybersecurity,Amsterdam,Netherlands,17575,210901
+5,PhD,Data Scientist,Berlin,Germany,13588,163056
+1,Bachelor,Cybersecurity,Barcelona,Spain,6816,81801
+5,Master,Cybersecurity,Madrid,Spain,9005,108064
+12,Master,Data Scientist,Boston,USA,24020,288248
+5,Master,Data Analyst,Stockholm,Sweden,10835,130020
+8,Bachelor,Cloud Engineer,Rotterdam,Netherlands,16768,201220
+10,Bachelor,Cloud Engineer,Madrid,Spain,11933,143200
+10,Bachelor,Data Scientist,Stockholm,Sweden,14582,174990
+8,Bachelor,Cybersecurity,Sydney,Australia,15790,189488
+2,PhD,Cloud Engineer,Hamburg,Germany,12596,151154
+8,PhD,ML Engineer,Kuala Lumpur,Malaysia,7486,89841
+11,PhD,ML Engineer,Dubai,UAE,18380,220560
+2,Bachelor,Software Engineer,Brisbane,Australia,11362,136354
+4,PhD,Data Analyst,Geneva,Switzerland,18220,218644
+6,Master,ML Engineer,London,UK,12577,150926
+1,Bachelor,Software Engineer,Kuala Lumpur,Malaysia,3563,42764
+11,Master,ML Engineer,Stockholm,Sweden,15438,185256
+7,Bachelor,Cybersecurity,Chennai,India,5382,64586
+5,PhD,ML Engineer,Madrid,Spain,11479,137754
+11,Master,Software Engineer,Abu Dhabi,UAE,14458,173501
+2,Bachelor,Cybersecurity,Lyon,France,8932,107194
+10,Bachelor,Cloud Engineer,Luxembourg,Luxembourg,21209,254510
+10,PhD,ML Engineer,Stockholm,Sweden,18217,218604
+12,PhD,Software Engineer,Singapore,Singapore,23332,279988
+5,PhD,Data Analyst,Madrid,Spain,8902,106830
+5,Bachelor,Data Scientist,Barcelona,Spain,7975,95710
+2,Bachelor,ML Engineer,Luxembourg,Luxembourg,17785,213422
+6,PhD,Software Engineer,Luxembourg,Luxembourg,22019,264228
+12,Bachelor,Cybersecurity,Vancouver,Canada,16380,196560
+5,Bachelor,Software Engineer,Dublin,Ireland,12332,147990
+6,PhD,ML Engineer,Tokyo,Japan,18053,216640
+12,PhD,Data Scientist,Lyon,France,16218,194616
+4,Bachelor,Data Analyst,Zurich,Switzerland,15559,186712
+6,PhD,Cloud Engineer,Singapore,Singapore,22419,269030
+2,Bachelor,Software Engineer,Singapore,Singapore,13693,164320
+3,Master,Data Scientist,Osaka,Japan,12262,147147
+1,Master,Cybersecurity,Frankfurt,Germany,11018,132226
+1,PhD,Cybersecurity,Luxembourg,Luxembourg,19309,231716
+2,Bachelor,Data Analyst,Dublin,Ireland,9829,117950
+10,Bachelor,Software Engineer,Amsterdam,Netherlands,14603,175240
+2,Master,Cybersecurity,Vancouver,Canada,14637,175645
+3,Master,Cybersecurity,Pune,India,4211,50536
+12,PhD,Data Scientist,Kuala Lumpur,Malaysia,13065,156787
+2,Bachelor,Cloud Engineer,Amsterdam,Netherlands,12169,146037
+8,PhD,Cloud Engineer,Toronto,Canada,19622,235468
+8,Bachelor,Cloud Engineer,Boston,USA,20949,251392
+3,PhD,Data Analyst,Tokyo,Japan,11306,135680
+0,Bachelor,Cybersecurity,Birmingham,UK,6500,78000
+11,Master,Cybersecurity,Vancouver,Canada,18544,222538
+6,Master,Data Scientist,Tokyo,Japan,15561,186733
+9,Bachelor,Software Engineer,Luxembourg,Luxembourg,20370,244442
+8,Master,Software Engineer,San Francisco,USA,22956,275475
+7,Bachelor,Cybersecurity,Zurich,Switzerland,21393,256719
+1,PhD,Software Engineer,Luxembourg,Luxembourg,17463,209557
+2,Master,Data Scientist,Zurich,Switzerland,21274,255294
+12,Master,Cloud Engineer,Paris,France,17990,215888
+9,Bachelor,Software Engineer,Munich,Germany,12539,150472
+7,Bachelor,Software Engineer,Pune,India,5444,65339
+10,PhD,ML Engineer,Kuala Lumpur,Malaysia,12198,146376
+4,Master,ML Engineer,Hyderabad,India,5403,64847
+5,PhD,Data Scientist,Sydney,Australia,19262,231144
+11,Bachelor,Data Analyst,Tokyo,Japan,11376,136513
+5,Bachelor,Cybersecurity,Mumbai,India,6537,78450
+10,PhD,Data Scientist,Luxembourg,Luxembourg,26589,319068
+7,PhD,Data Analyst,Kuala Lumpur,Malaysia,9444,113331
+2,PhD,Software Engineer,Toronto,Canada,13766,165199
+10,PhD,Cloud Engineer,Kuala Lumpur,Malaysia,7667,92004
+1,Master,Software Engineer,Lyon,France,8395,100746
+9,PhD,Cybersecurity,Frankfurt,Germany,16306,195674
+0,PhD,Software Engineer,Brisbane,Australia,12100,145200
+10,Master,Cybersecurity,Montreal,Canada,18090,217085
+8,PhD,Cybersecurity,Rotterdam,Netherlands,19384,232617
+4,Master,Cloud Engineer,Sydney,Australia,16862,202351
+10,PhD,Data Scientist,Lyon,France,15979,191748
+4,PhD,Data Analyst,Osaka,Japan,11791,141494
+5,Bachelor,ML Engineer,Bangalore,India,6191,74295
+5,Master,Data Analyst,Luxembourg,Luxembourg,15771,189255
+0,Bachelor,Cybersecurity,Manchester,UK,7150,85800
+12,Bachelor,Data Scientist,Abu Dhabi,UAE,14601,175212
+3,PhD,Cloud Engineer,Hamburg,Germany,12704,152451
+7,Bachelor,Cloud Engineer,Stockholm,Sweden,13193,158318
+11,Master,Cloud Engineer,Brisbane,Australia,16913,202965
+4,Master,Software Engineer,Berlin,Germany,10144,121730
+10,Master,Cybersecurity,Geneva,Switzerland,25493,305921
+1,PhD,ML Engineer,Paris,France,12565,150786
+5,Master,Data Scientist,Zurich,Switzerland,22460,269522
+6,Master,Data Scientist,Geneva,Switzerland,22343,268118
+5,PhD,Data Analyst,Amsterdam,Netherlands,11693,140316
+5,PhD,Data Analyst,Luxembourg,Luxembourg,18682,224184
+0,Bachelor,Cloud Engineer,Singapore,Singapore,13854,166250
+0,Bachelor,Data Scientist,Stockholm,Sweden,9600,115200
+10,Bachelor,Data Analyst,Madrid,Spain,11760,141120
+3,Master,ML Engineer,Kuala Lumpur,Malaysia,5767,69210
+10,Master,ML Engineer,Tokyo,Japan,20574,246895
+10,Master,Cybersecurity,Frankfurt,Germany,19640,235686
+5,Bachelor,Data Analyst,Osaka,Japan,9820,117850
+0,Master,Data Scientist,Delhi,India,2420,29040
+1,PhD,Data Scientist,New York,USA,20868,250416
+11,Bachelor,Software Engineer,Rotterdam,Netherlands,14311,171732
+6,Bachelor,Software Engineer,Kuala Lumpur,Malaysia,4784,57408
+12,Master,Software Engineer,Bangalore,India,13126,157520
+6,Master,Cloud Engineer,Toronto,Canada,14621,175454
+0,PhD,Data Analyst,Abu Dhabi,UAE,9180,110160
+0,PhD,Software Engineer,Luxembourg,Luxembourg,16940,203280
+9,Master,ML Engineer,Brisbane,Australia,18631,223580
+0,PhD,Data Analyst,Mumbai,India,2160,25920
+1,Master,Cybersecurity,Sydney,Australia,14627,175533
+6,Bachelor,Software Engineer,Dublin,Ireland,14304,171648
+10,Bachelor,ML Engineer,Brisbane,Australia,19405,232860
+4,Master,Cybersecurity,Luxembourg,Luxembourg,19124,229495
+2,PhD,Data Analyst,Rotterdam,Netherlands,10325,123902
+12,PhD,ML Engineer,Abu Dhabi,UAE,20976,251712
+11,Master,Data Analyst,Barcelona,Spain,12256,147076
+11,PhD,Cybersecurity,Kuala Lumpur,Malaysia,10172,122073
+11,Bachelor,ML Engineer,Melbourne,Australia,17383,208602
+6,Bachelor,Software Engineer,Osaka,Japan,11921,143058
+11,Master,Cybersecurity,Mumbai,India,11764,141172
+2,PhD,Cybersecurity,Birmingham,UK,8777,105328
+10,Bachelor,Data Analyst,Singapore,Singapore,12787,153450
+10,Bachelor,Software Engineer,Lyon,France,12025,144310
+2,PhD,ML Engineer,Stockholm,Sweden,13899,166788
+5,PhD,Software Engineer,Kuala Lumpur,Malaysia,6490,77886
+4,Bachelor,Data Scientist,Stockholm,Sweden,11205,134468
+11,Master,Data Scientist,Tokyo,Japan,19857,238289
+11,Master,Cybersecurity,Edinburgh,UK,16746,200956
+10,Master,Data Analyst,Perth,Australia,16899,202796
+9,Bachelor,Data Scientist,Dubai,UAE,14900,178806
+8,PhD,Data Analyst,Singapore,Singapore,14422,173073
+6,PhD,Data Scientist,Geneva,Switzerland,22180,266169
+4,Master,Cloud Engineer,Luxembourg,Luxembourg,20227,242734
+9,PhD,Data Scientist,Paris,France,15087,181044
+7,Master,Data Analyst,New York,USA,17262,207153
+0,Master,Data Scientist,Zurich,Switzerland,19800,237600
+2,PhD,Data Analyst,Singapore,Singapore,12735,152831
+4,PhD,Cloud Engineer,Montreal,Canada,14782,177386
+9,PhD,Data Scientist,Kuala Lumpur,Malaysia,12693,152323
+9,Master,Data Analyst,Luxembourg,Luxembourg,18814,225769
+10,Bachelor,Cybersecurity,Sydney,Australia,17185,206230
+8,PhD,Data Scientist,Singapore,Singapore,23936,287241
+3,Bachelor,Cybersecurity,Munich,Germany,12665,151986
+6,Master,Cybersecurity,Toronto,Canada,16973,203676
+2,Master,Data Analyst,Frankfurt,Germany,9466,113597
+2,PhD,ML Engineer,Dubai,UAE,15834,190008
+5,Bachelor,Software Engineer,London,UK,10725,128705
+6,Bachelor,Cloud Engineer,Chicago,USA,18247,218964
+8,PhD,Data Analyst,Singapore,Singapore,14927,179131
+6,Bachelor,ML Engineer,Vancouver,Canada,16473,197676
+11,Bachelor,Cloud Engineer,Perth,Australia,16868,202422
+7,Bachelor,Data Analyst,Toronto,Canada,11904,142854
+12,Master,Software Engineer,Geneva,Switzerland,24385,292630
+7,Master,Data Scientist,Melbourne,Australia,15798,189577
+6,Bachelor,Data Analyst,London,UK,11235,134826
+6,Master,Software Engineer,Frankfurt,Germany,15100,181203
+5,PhD,Cybersecurity,Montreal,Canada,15657,187890
+9,Master,Data Analyst,Amsterdam,Netherlands,12841,154093
+0,PhD,ML Engineer,Hamburg,Germany,11440,137280
+2,Bachelor,Cybersecurity,Vancouver,Canada,13035,156422
+8,Master,Cloud Engineer,Dubai,UAE,19074,228893
+7,PhD,Data Scientist,Tokyo,Japan,16721,200661
+11,PhD,Data Scientist,Dublin,Ireland,18449,221398
+3,Master,Cybersecurity,Edinburgh,UK,10324,123888
+7,Master,Software Engineer,Dubai,UAE,13562,162749
+12,PhD,Cybersecurity,Tokyo,Japan,22245,266947
+9,Master,Data Analyst,Stockholm,Sweden,12788,153459
+4,Bachelor,Software Engineer,Bangalore,India,3513,42164
+9,PhD,Cloud Engineer,Perth,Australia,17842,214107
+7,PhD,Cloud Engineer,Dublin,Ireland,17759,213115
+7,PhD,Data Scientist,Kuala Lumpur,Malaysia,7987,95853
+9,Master,ML Engineer,Luxembourg,Luxembourg,25857,310290
+11,Master,Software Engineer,Kuala Lumpur,Malaysia,9804,117648
+5,PhD,Data Analyst,Montreal,Canada,12264,147174
+7,PhD,Software Engineer,Hyderabad,India,5101,61212
+5,Master,Data Scientist,Singapore,Singapore,16264,195178
+4,PhD,Software Engineer,Dublin,Ireland,16057,192691
+2,PhD,Cloud Engineer,Zurich,Switzerland,23679,284157
+5,Master,Data Analyst,Dubai,UAE,12821,153862
+7,Master,ML Engineer,Paris,France,16309,195710
+10,PhD,Software Engineer,Dubai,UAE,19270,231240
+3,Bachelor,Data Scientist,Perth,Australia,11850,142209
+9,Bachelor,Cybersecurity,Dublin,Ireland,14789,177471
+7,Bachelor,Data Scientist,Madrid,Spain,8633,103604
+6,PhD,Cloud Engineer,Dublin,Ireland,18316,219794
+4,Master,Software Engineer,Abu Dhabi,UAE,13649,163794
+5,PhD,Data Analyst,Paris,France,11746,140952
+11,PhD,Data Analyst,Chennai,India,7934,95216
+6,Master,Cybersecurity,Manchester,UK,11982,143794
+5,Master,Cloud Engineer,Amsterdam,Netherlands,16499,197989
+9,Master,ML Engineer,Mumbai,India,7711,92541
+3,Bachelor,Data Analyst,Luxembourg,Luxembourg,13004,156054
+2,PhD,ML Engineer,Osaka,Japan,12460,149524
+0,PhD,Cybersecurity,Dublin,Ireland,14040,168480
+11,Master,ML Engineer,Munich,Germany,17645,211748
+11,Master,Data Scientist,Luxembourg,Luxembourg,24178,290145
+7,Bachelor,Data Scientist,Vancouver,Canada,15698,188378
+2,Bachelor,Software Engineer,Luxembourg,Luxembourg,15401,184818
+9,Master,Data Scientist,Boston,USA,20549,246589
+12,Master,Data Scientist,Barcelona,Spain,13623,163482
+0,Master,Software Engineer,Luxembourg,Luxembourg,15528,186340
+10,PhD,Data Scientist,Singapore,Singapore,19448,233376
+8,Master,Data Analyst,Stockholm,Sweden,11693,140324
+8,Bachelor,Cybersecurity,Kuala Lumpur,Malaysia,9156,109872
+9,Master,Cybersecurity,Dublin,Ireland,15373,184476
+7,Master,ML Engineer,Mumbai,India,7468,89621
+3,Master,Software Engineer,Stockholm,Sweden,11855,142266
+11,Master,Data Analyst,Singapore,Singapore,18390,220689
+4,Master,Data Scientist,Tokyo,Japan,13504,162052
+7,Master,Cybersecurity,Hyderabad,India,4593,55119
+11,PhD,ML Engineer,Tokyo,Japan,19523,234283
+0,Master,Cybersecurity,Barcelona,Spain,6600,79200
+9,Bachelor,Software Engineer,Geneva,Switzerland,21043,252525
+5,PhD,ML Engineer,Luxembourg,Luxembourg,23129,277548
+9,Master,Software Engineer,Stockholm,Sweden,15487,185846
+8,Master,Software Engineer,Munich,Germany,17567,210812
+9,PhD,Software Engineer,Sydney,Australia,17915,214983
+1,Bachelor,Cloud Engineer,Madrid,Spain,6480,77768
+4,Master,Data Scientist,Osaka,Japan,12156,145882
+0,Master,Cybersecurity,Sydney,Australia,14300,171600
+12,PhD,Data Analyst,Chennai,India,9942,119304
+6,PhD,Cybersecurity,Tokyo,Japan,15567,186804
+5,Bachelor,Software Engineer,Zurich,Switzerland,20449,245390
+11,PhD,Data Scientist,Kuala Lumpur,Malaysia,14554,174649
+1,PhD,Data Analyst,Chicago,USA,12382,148584
+7,Master,ML Engineer,San Francisco,USA,24046,288561
+0,Bachelor,ML Engineer,Frankfurt,Germany,10400,124800
+5,Master,Cybersecurity,Amsterdam,Netherlands,15293,183518
+5,Master,Cybersecurity,Kuala Lumpur,Malaysia,7331,87983
+6,PhD,Data Analyst,Luxembourg,Luxembourg,16854,202248
+2,Bachelor,Data Analyst,Dublin,Ireland,10206,122472
+1,PhD,ML Engineer,Stockholm,Sweden,13187,158248
+9,PhD,Data Scientist,Luxembourg,Luxembourg,25598,307177
+0,Bachelor,Software Engineer,Mumbai,India,2200,26400
+11,Bachelor,Data Scientist,Chennai,India,6813,81761
+11,Master,Data Analyst,Geneva,Switzerland,21198,254383
+1,Master,ML Engineer,Kuala Lumpur,Malaysia,4478,53742
+10,Master,Cybersecurity,Amsterdam,Netherlands,15063,180763
+4,PhD,Data Analyst,Manchester,UK,10412,124946
+1,PhD,Cybersecurity,Stockholm,Sweden,12191,146293
+2,PhD,Data Analyst,Rotterdam,Netherlands,10325,123902
+0,Master,Data Scientist,Paris,France,10010,120120
+8,Bachelor,Cloud Engineer,Tokyo,Japan,16521,198259
+1,PhD,Cybersecurity,Boston,USA,18183,218205
+0,Master,Cybersecurity,Kuala Lumpur,Malaysia,3630,43560
+7,PhD,Cybersecurity,Seattle,USA,24604,295250
+1,Bachelor,Cybersecurity,Singapore,Singapore,13824,165894
+1,PhD,Data Scientist,Kuala Lumpur,Malaysia,4286,51436
+9,Master,Data Scientist,Birmingham,UK,13352,160228
+3,Master,Software Engineer,Kuala Lumpur,Malaysia,5768,69220
+0,Master,Data Scientist,Geneva,Switzerland,18480,221760
+11,PhD,ML Engineer,Zurich,Switzerland,30089,361069
+12,PhD,Software Engineer,Perth,Australia,16235,194822
+9,Bachelor,Software Engineer,Singapore,Singapore,19654,235859
+0,PhD,Software Engineer,Dubai,UAE,12155,145860
+2,PhD,Data Analyst,Rotterdam,Netherlands,9972,119668
+11,Bachelor,Software Engineer,Geneva,Switzerland,21913,262966
+11,PhD,Software Engineer,Rotterdam,Netherlands,17252,207028
+1,Master,ML Engineer,Singapore,Singapore,16563,198766
+9,Bachelor,Software Engineer,Geneva,Switzerland,18509,222114
+5,PhD,Cloud Engineer,Paris,France,14551,174618
+2,Bachelor,Cybersecurity,Geneva,Switzerland,18260,219120
+8,PhD,Software Engineer,Zurich,Switzerland,23559,282710
+2,Bachelor,Software Engineer,Osaka,Japan,9393,112722
+8,PhD,Cloud Engineer,Dublin,Ireland,18501,222012
+8,Bachelor,Cybersecurity,Munich,Germany,14770,177248
+10,Master,Data Analyst,Montreal,Canada,13555,162668
+8,Bachelor,Cybersecurity,Barcelona,Spain,10437,125248
+7,Master,Data Scientist,Frankfurt,Germany,14117,169408
+6,Master,Cybersecurity,Barcelona,Spain,9288,111467
+3,Bachelor,Data Analyst,Hamburg,Germany,8593,103125
+2,Master,Software Engineer,Frankfurt,Germany,11099,133190
+4,Bachelor,Cloud Engineer,Paris,France,12041,144498
+0,Master,Data Scientist,Hyderabad,India,2420,29040
+9,Bachelor,Data Scientist,Kuala Lumpur,Malaysia,8350,100206
+9,Bachelor,ML Engineer,Abu Dhabi,UAE,16051,192621
+9,Master,ML Engineer,Lyon,France,12992,155907
+6,PhD,Cloud Engineer,Tokyo,Japan,15712,188550
+1,Bachelor,Data Scientist,Abu Dhabi,UAE,10713,128558
+8,PhD,Cloud Engineer,Abu Dhabi,UAE,15919,191035
+4,PhD,Cloud Engineer,Vancouver,Canada,17463,209560
+12,PhD,Data Analyst,Kuala Lumpur,Malaysia,10023,120283
+9,Bachelor,Cloud Engineer,Toronto,Canada,14542,174510
+3,Bachelor,Data Scientist,Montreal,Canada,11108,133302
+9,PhD,ML Engineer,Seattle,USA,29142,349707
+4,Master,Cloud Engineer,Perth,Australia,14834,178010
+3,PhD,Data Scientist,Stockholm,Sweden,12622,151473
+3,PhD,Software Engineer,Rotterdam,Netherlands,12677,152125
+6,PhD,Cloud Engineer,Stockholm,Sweden,15184,182210
+4,Bachelor,Data Scientist,Kuala Lumpur,Malaysia,5694,68328
+10,Master,Cybersecurity,Mumbai,India,6225,74701
+10,PhD,Cloud Engineer,Singapore,Singapore,21846,262152
+2,Master,Software Engineer,Kuala Lumpur,Malaysia,4274,51295
+1,PhD,Software Engineer,Luxembourg,Luxembourg,17749,212996
+9,PhD,Software Engineer,Stockholm,Sweden,16743,200916
+8,PhD,Cloud Engineer,Madrid,Spain,12046,144554
+4,Master,ML Engineer,Vancouver,Canada,16663,199962
+2,Master,Cloud Engineer,Osaka,Japan,11315,135781
+7,Bachelor,Data Scientist,Tokyo,Japan,13176,158118
+0,Master,Data Analyst,Stockholm,Sweden,7920,95040
+9,PhD,Software Engineer,Geneva,Switzerland,24439,293277
+9,PhD,Software Engineer,Osaka,Japan,18072,216864
+3,Master,ML Engineer,Dubai,UAE,15155,181864
+0,Master,Software Engineer,Tokyo,Japan,9831,117975
+0,Bachelor,Software Engineer,Berlin,Germany,8066,96800
+5,Master,Software Engineer,Singapore,Singapore,16040,192483
+1,Bachelor,Data Scientist,Dublin,Ireland,12484,149814
+5,Master,Cybersecurity,Montreal,Canada,12306,147680
+1,PhD,Cybersecurity,Madrid,Spain,7062,84746
+6,Master,Cloud Engineer,Hyderabad,India,6401,76819
+0,Bachelor,Cybersecurity,Chennai,India,2000,24000
+5,Master,Data Scientist,Paris,France,11395,136741
+12,Bachelor,ML Engineer,Madrid,Spain,11539,138472
+7,Bachelor,Cybersecurity,Austin,USA,17862,214351
+4,Bachelor,Data Scientist,Frankfurt,Germany,11246,134952
+9,PhD,Software Engineer,Kuala Lumpur,Malaysia,7424,89092
+3,Master,Data Analyst,Hamburg,Germany,8974,107688
+9,Bachelor,ML Engineer,Toronto,Canada,17181,206172
+3,PhD,ML Engineer,Hyderabad,India,4753,57046
+7,Master,Cloud Engineer,Kuala Lumpur,Malaysia,9764,117169
+0,PhD,Software Engineer,Singapore,Singapore,14630,175560
+1,Bachelor,ML Engineer,Dubai,UAE,12544,150531
+9,Master,Cybersecurity,Barcelona,Spain,12894,154737
+8,PhD,ML Engineer,Melbourne,Australia,21805,261667
+4,Bachelor,Data Scientist,New York,USA,20032,240388
+3,PhD,Data Analyst,San Francisco,USA,18219,218638
+10,Master,Software Engineer,Dublin,Ireland,19614,235378
+9,PhD,Software Engineer,Kuala Lumpur,Malaysia,9194,110336
+10,Bachelor,Cybersecurity,Zurich,Switzerland,24463,293560
+5,Master,Data Scientist,Madrid,Spain,9260,111127
+8,Master,Cloud Engineer,Barcelona,Spain,12211,146537
+4,Bachelor,Cloud Engineer,Austin,USA,16971,203652
+0,PhD,Software Engineer,Birmingham,UK,7150,85800
+0,Bachelor,ML Engineer,Madrid,Spain,5958,71500
+5,Bachelor,Data Scientist,Amsterdam,Netherlands,13372,160465
+7,Bachelor,Software Engineer,Stockholm,Sweden,13276,159318
+2,PhD,Software Engineer,Luxembourg,Luxembourg,17759,213110
+2,Bachelor,Software Engineer,Geneva,Switzerland,16678,200140
+11,Bachelor,Cloud Engineer,Luxembourg,Luxembourg,22114,265375
+7,Master,Software Engineer,Chennai,India,7335,88025
+0,PhD,Data Scientist,Abu Dhabi,UAE,12240,146880
+12,Master,Software Engineer,Stockholm,Sweden,20435,245229
+4,Master,Software Engineer,Seattle,USA,18078,216946
+2,PhD,Data Analyst,Kuala Lumpur,Malaysia,3928,47138
+1,Master,Data Analyst,Dublin,Ireland,9929,119152
+4,PhD,Software Engineer,Vancouver,Canada,16816,201796
+10,PhD,Data Scientist,Montreal,Canada,17102,205224
+5,PhD,Data Analyst,Madrid,Spain,8196,98358
+8,PhD,Data Analyst,Zurich,Switzerland,23664,283968
+11,PhD,Cybersecurity,Dublin,Ireland,24536,294434
+10,PhD,Data Analyst,Abu Dhabi,UAE,14828,177936
+3,PhD,Data Analyst,Singapore,Singapore,13503,162046
+9,PhD,ML Engineer,Brisbane,Australia,19961,239542
+9,PhD,Cybersecurity,Tokyo,Japan,17900,214801
+6,Master,Software Engineer,New York,USA,22163,265960
+12,Master,ML Engineer,Manchester,UK,14140,169683
+11,Master,Data Scientist,Kuala Lumpur,Malaysia,11761,141134
+5,Master,Cybersecurity,Stockholm,Sweden,13927,167128
+10,PhD,Cybersecurity,New York,USA,29894,358728
+5,Bachelor,ML Engineer,Dublin,Ireland,15653,187845
+9,Master,Cybersecurity,Lyon,France,12054,144655
+12,Master,Cybersecurity,Chennai,India,11053,132646
+10,Master,Cybersecurity,Abu Dhabi,UAE,19212,230549
+11,Master,Software Engineer,Kuala Lumpur,Malaysia,11295,135544
+6,Master,Cybersecurity,Bangalore,India,4917,59010
+10,Bachelor,Data Scientist,Zurich,Switzerland,24889,298670
+10,Bachelor,Data Scientist,Stockholm,Sweden,17883,214600
+4,PhD,Cloud Engineer,Frankfurt,Germany,15141,181699
+11,PhD,Software Engineer,Osaka,Japan,20274,243289
+12,PhD,Cloud Engineer,Zurich,Switzerland,32983,395798
+9,Bachelor,Data Scientist,Zurich,Switzerland,25011,300132
+4,Master,Cloud Engineer,Barcelona,Spain,8868,106422
+10,Bachelor,Data Scientist,Montreal,Canada,18027,216330
+1,PhD,Data Scientist,Mumbai,India,3280,39362
+2,PhD,ML Engineer,Mumbai,India,4782,57384
+3,Bachelor,Cloud Engineer,Singapore,Singapore,16243,194918
+7,Master,Data Analyst,Dubai,UAE,14226,170717
+9,Bachelor,Data Analyst,Kuala Lumpur,Malaysia,5786,69435
+12,Master,Data Analyst,Barcelona,Spain,11701,140421
+2,Master,Data Analyst,Pune,India,3306,39677
+7,Bachelor,Cloud Engineer,Austin,USA,19576,234916
+5,PhD,Data Analyst,Brisbane,Australia,12228,146742
+7,Master,Cybersecurity,Luxembourg,Luxembourg,22971,275652
+6,PhD,Cybersecurity,Abu Dhabi,UAE,16723,200678
+0,PhD,ML Engineer,Dublin,Ireland,15210,182520
+10,PhD,Software Engineer,Osaka,Japan,13830,165960
+7,Bachelor,Software Engineer,Madrid,Spain,7025,84300
+12,Bachelor,ML Engineer,Dubai,UAE,17367,208414
+10,Bachelor,ML Engineer,Kuala Lumpur,Malaysia,6851,82220
+3,PhD,Cybersecurity,London,UK,12202,146430
+6,PhD,Cloud Engineer,Madrid,Spain,12073,144880
+8,PhD,Software Engineer,Delhi,India,8371,100454
+7,PhD,Data Scientist,Rotterdam,Netherlands,15714,188577
+3,Master,Data Analyst,Toronto,Canada,10769,129231
+9,Master,ML Engineer,Dublin,Ireland,17799,213592
+8,Master,ML Engineer,Frankfurt,Germany,16701,200420
+1,Bachelor,Cybersecurity,Dubai,UAE,11412,136947
+11,Bachelor,Data Analyst,Luxembourg,Luxembourg,19837,238051
+1,Master,Software Engineer,Luxembourg,Luxembourg,16434,197217
+9,PhD,Cloud Engineer,Dublin,Ireland,19150,229802
+0,PhD,Data Analyst,Toronto,Canada,9720,116640
+1,Master,Data Analyst,London,UK,8310,99723
+7,Bachelor,Cybersecurity,Abu Dhabi,UAE,15172,182068
+12,PhD,Data Analyst,Osaka,Japan,16150,193809
+3,Master,Data Scientist,Melbourne,Australia,14725,176711
+6,Bachelor,Software Engineer,Stockholm,Sweden,13207,158490
+6,Bachelor,Data Analyst,Toronto,Canada,11670,140046
+8,PhD,Cybersecurity,Tokyo,Japan,17740,212880
+2,Master,ML Engineer,Stockholm,Sweden,12357,148293
+1,Bachelor,Software Engineer,New York,USA,15933,191207
+6,PhD,Cybersecurity,Stockholm,Sweden,17071,204854
+0,PhD,Cybersecurity,Vancouver,Canada,14040,168480
+0,Bachelor,Cloud Engineer,Madrid,Spain,5729,68750
+4,Bachelor,Data Scientist,Paris,France,10167,122004
+10,PhD,Data Scientist,Singapore,Singapore,25304,303648
+11,Master,Software Engineer,Paris,France,12441,149301
+12,Bachelor,ML Engineer,Paris,France,15455,185464
+4,Bachelor,Software Engineer,Munich,Germany,12512,150148
+11,PhD,Data Scientist,Kuala Lumpur,Malaysia,7315,87780
+8,Bachelor,Software Engineer,Tokyo,Japan,11318,135826
+9,Master,ML Engineer,Barcelona,Spain,13698,164376
+8,PhD,Software Engineer,Tokyo,Japan,15811,189736
+5,PhD,Software Engineer,Singapore,Singapore,16424,197088
+5,Master,Data Scientist,Dubai,UAE,16026,192313
+7,PhD,Software Engineer,Tokyo,Japan,16488,197865
+9,Master,Cybersecurity,Singapore,Singapore,20058,240702
+10,Bachelor,Cloud Engineer,Chennai,India,8974,107690
+12,PhD,Data Scientist,Lyon,France,13977,167731
+9,Bachelor,Data Analyst,Stockholm,Sweden,10950,131409
+12,Bachelor,ML Engineer,Lyon,France,12911,154940
+12,PhD,Data Analyst,Luxembourg,Luxembourg,21553,258638
+8,Master,Data Analyst,Luxembourg,Luxembourg,19489,233868
+9,Master,Software Engineer,Dublin,Ireland,18415,220987
+1,Bachelor,Data Analyst,Tokyo,Japan,7838,94064
+2,Master,Cloud Engineer,Berlin,Germany,11313,135757
+5,Bachelor,Cybersecurity,Tokyo,Japan,12693,152325
+7,Bachelor,Cloud Engineer,Munich,Germany,13513,162158
+2,PhD,ML Engineer,Brisbane,Australia,16010,192120
+11,Bachelor,Cloud Engineer,Osaka,Japan,14834,178016
+1,PhD,Cloud Engineer,Abu Dhabi,UAE,13687,164244
+12,Master,Data Analyst,Stockholm,Sweden,16560,198726
+0,PhD,Data Analyst,Hyderabad,India,1980,23760
+12,PhD,ML Engineer,Tokyo,Japan,16653,199836
+7,PhD,Software Engineer,Rotterdam,Netherlands,13782,165384
+11,Master,Data Scientist,Edinburgh,UK,17396,208761
+11,PhD,Cloud Engineer,Sydney,Australia,19738,236857
+7,Bachelor,Cybersecurity,Paris,France,11219,134631
+9,Master,Data Scientist,Amsterdam,Netherlands,15674,188093
+6,Bachelor,Data Scientist,Kuala Lumpur,Malaysia,5878,70542
+12,PhD,Data Scientist,Paris,France,15996,191952
+5,Master,Software Engineer,Bangalore,India,5076,60918
+0,Bachelor,Cybersecurity,Singapore,Singapore,13300,159600
+11,Bachelor,Data Analyst,Bangalore,India,10357,124292
+6,Bachelor,Data Analyst,Toronto,Canada,12978,155742
+6,Master,Cybersecurity,Kuala Lumpur,Malaysia,5436,65241
+8,PhD,Cloud Engineer,Stockholm,Sweden,15230,182764
+3,PhD,Software Engineer,Austin,USA,17471,209656
+7,PhD,Cybersecurity,Barcelona,Spain,11968,143620
+8,Master,Data Scientist,Stockholm,Sweden,15530,186366
+1,PhD,Software Engineer,Edinburgh,UK,8730,104764
+4,PhD,ML Engineer,Singapore,Singapore,20184,242217
+3,PhD,ML Engineer,Stockholm,Sweden,15148,181782
+7,Master,ML Engineer,Stockholm,Sweden,16132,193590
+10,Bachelor,Data Analyst,Zurich,Switzerland,19219,230630
+1,Master,ML Engineer,Singapore,Singapore,16301,195616
+12,PhD,ML Engineer,Dublin,Ireland,26654,319852
+5,Master,Software Engineer,Paris,France,12166,145992
+10,Bachelor,Cybersecurity,London,UK,15898,190780
+4,Bachelor,Data Scientist,Hamburg,Germany,10123,121480
+9,Bachelor,Cloud Engineer,Tokyo,Japan,15761,189132
+12,Bachelor,Cloud Engineer,Geneva,Switzerland,24042,288504
+1,Master,Data Scientist,Luxembourg,Luxembourg,17763,213166
+2,PhD,Cloud Engineer,Stockholm,Sweden,13415,160989
+3,Bachelor,Data Analyst,Dublin,Ireland,9876,118515
+10,Bachelor,Software Engineer,Geneva,Switzerland,22534,270410
+3,Bachelor,Software Engineer,Stockholm,Sweden,9610,115323
+8,PhD,Data Analyst,Stockholm,Sweden,13878,166540
+9,Master,Cloud Engineer,Kuala Lumpur,Malaysia,11608,139296
+2,Bachelor,ML Engineer,Osaka,Japan,10386,124632
+11,PhD,Cybersecurity,Dublin,Ireland,18951,227418
+4,Master,Cybersecurity,Lyon,France,10591,127102
+4,Master,Cloud Engineer,Paris,France,11739,140872
+8,Bachelor,ML Engineer,Tokyo,Japan,15136,181638
+11,Master,ML Engineer,Toronto,Canada,18164,217977
+11,Master,Data Analyst,Melbourne,Australia,13188,158258
+9,PhD,Cloud Engineer,Brisbane,Australia,16694,200337
+1,Master,Cybersecurity,Kuala Lumpur,Malaysia,4145,49748
+0,Bachelor,Cloud Engineer,New York,USA,17500,210000
+10,PhD,Cloud Engineer,Manchester,UK,13444,161334
+12,Bachelor,Data Analyst,Birmingham,UK,11483,137796
+12,PhD,ML Engineer,London,UK,16115,193382
+2,Bachelor,Cybersecurity,Kuala Lumpur,Malaysia,4336,52038
+2,Master,Data Analyst,Berlin,Germany,8750,105003
+5,PhD,Cybersecurity,Stockholm,Sweden,16431,197178
+3,PhD,Data Scientist,Perth,Australia,14751,177019
+11,PhD,Cloud Engineer,Hamburg,Germany,20517,246206
+4,Bachelor,Data Scientist,Vancouver,Canada,13404,160856
+5,Master,Data Scientist,Singapore,Singapore,16037,192445
+7,Master,Cybersecurity,Amsterdam,Netherlands,17625,211510
+11,Bachelor,Data Analyst,Dubai,UAE,14634,175614
+5,Bachelor,Software Engineer,Dubai,UAE,13458,161505
+3,Master,Cybersecurity,Osaka,Japan,12265,147186
+7,PhD,Data Scientist,Dubai,UAE,18863,226362
+3,PhD,Data Scientist,Stockholm,Sweden,14234,170816
+10,Bachelor,ML Engineer,Singapore,Singapore,21000,252010
+6,Master,Data Scientist,Munich,Germany,15298,183579
+6,Master,Software Engineer,Mumbai,India,4994,59934
+1,Bachelor,Cybersecurity,Amsterdam,Netherlands,11662,139951
+12,PhD,Software Engineer,Osaka,Japan,14115,169387
+2,Master,Cloud Engineer,Stockholm,Sweden,11695,140340
+9,Bachelor,Cybersecurity,Kuala Lumpur,Malaysia,10518,126216
+9,PhD,Data Scientist,Singapore,Singapore,21963,263566
+7,Bachelor,Data Scientist,Stockholm,Sweden,14385,172628
+2,Bachelor,Software Engineer,Lyon,France,7734,92808
+10,Bachelor,Cybersecurity,Dublin,Ireland,17189,206270
+1,Bachelor,ML Engineer,Manchester,UK,8154,97851
+11,PhD,Cybersecurity,Bangalore,India,13049,156596
+12,PhD,Data Scientist,Luxembourg,Luxembourg,25262,303148
+8,Master,Cybersecurity,Paris,France,14341,172092
+2,Bachelor,Data Analyst,Zurich,Switzerland,14445,173342
+3,PhD,Data Scientist,Kuala Lumpur,Malaysia,6699,80395
+5,PhD,ML Engineer,Kuala Lumpur,Malaysia,8576,102918
+6,Bachelor,Data Scientist,Singapore,Singapore,15920,191040
+6,Master,Software Engineer,Hamburg,Germany,13848,166177
+9,Master,Software Engineer,Zurich,Switzerland,22383,268606
+8,Master,Cybersecurity,Toronto,Canada,16775,201308
+10,Bachelor,Data Scientist,Boston,USA,21149,253790
+10,PhD,Cybersecurity,Chennai,India,9897,118764
+1,Master,Software Engineer,Osaka,Japan,9813,117758
+4,Master,Data Scientist,Chennai,India,3904,46855
+8,Master,Data Scientist,Barcelona,Spain,9645,115746
+2,Master,Cloud Engineer,Birmingham,UK,8381,100575
+8,Master,Cybersecurity,Zurich,Switzerland,22150,265804
+2,Bachelor,Data Analyst,Rotterdam,Netherlands,8346,100156
+7,Master,Data Analyst,San Francisco,USA,18051,216615
+12,Bachelor,Cybersecurity,Vancouver,Canada,18708,224496
+10,Master,Data Analyst,Madrid,Spain,13344,160138
+4,Master,ML Engineer,Amsterdam,Netherlands,16479,197751
+12,PhD,ML Engineer,Kuala Lumpur,Malaysia,13855,166262
+8,Master,Cybersecurity,Seattle,USA,20859,250316
+7,Master,Data Scientist,Montreal,Canada,15807,189685
+4,Bachelor,Data Analyst,Lyon,France,8993,107916
+8,Master,ML Engineer,Brisbane,Australia,15381,184580
+3,Bachelor,Software Engineer,Bangalore,India,4400,52807
+3,PhD,Data Analyst,Dublin,Ireland,13110,157320
+3,Master,ML Engineer,Vancouver,Canada,15568,186822
+7,Master,Software Engineer,Geneva,Switzerland,21509,258111
+4,Bachelor,Data Scientist,Paris,France,12166,146000
+5,PhD,ML Engineer,Lyon,France,11596,139152
+1,PhD,Data Analyst,Zurich,Switzerland,16511,198134
+0,PhD,Data Scientist,Madrid,Spain,6600,79200
+9,PhD,Software Engineer,Amsterdam,Netherlands,17128,205540
+6,PhD,Cloud Engineer,Paris,France,15964,191572
+1,PhD,Cybersecurity,Dubai,UAE,13913,166960
+6,Bachelor,ML Engineer,Stockholm,Sweden,12890,154686
+7,PhD,Data Analyst,Vancouver,Canada,12779,153349
+7,PhD,Software Engineer,Edinburgh,UK,12614,151374
+7,PhD,Cybersecurity,Rotterdam,Netherlands,16498,197985
+8,Bachelor,Cybersecurity,Stockholm,Sweden,13779,165352
+5,Master,Cybersecurity,Singapore,Singapore,16752,201025
+7,Bachelor,Data Analyst,Zurich,Switzerland,18506,222081
+4,Bachelor,ML Engineer,Stockholm,Sweden,12596,151152
+10,Master,Software Engineer,Brisbane,Australia,15363,184360
+11,PhD,Data Scientist,Paris,France,19225,230700
+10,Bachelor,ML Engineer,Paris,France,16112,193350
+1,Master,Data Analyst,Singapore,Singapore,11524,138290
+4,Master,Data Scientist,Stockholm,Sweden,13108,157300
+12,Master,ML Engineer,Edinburgh,UK,16154,193853
+12,PhD,Software Engineer,Chennai,India,11911,142939
+4,PhD,Cloud Engineer,Dublin,Ireland,17459,209517
+9,Bachelor,Data Analyst,Luxembourg,Luxembourg,16541,198495
+3,Bachelor,Data Analyst,Vancouver,Canada,10953,131439
+4,Bachelor,Data Analyst,Bangalore,India,3211,38532
+8,PhD,Cybersecurity,Kuala Lumpur,Malaysia,10849,130195
+5,Bachelor,Cloud Engineer,New York,USA,19751,237020
+1,Bachelor,Data Analyst,Chicago,USA,10412,124952
+6,Bachelor,Software Engineer,Edinburgh,UK,11116,133394
+0,Bachelor,Software Engineer,San Francisco,USA,16500,198000
+8,Bachelor,Data Analyst,Madrid,Spain,9157,109892
+1,PhD,Software Engineer,Zurich,Switzerland,20370,244442
+1,PhD,Cybersecurity,Singapore,Singapore,16664,199976
+1,Master,Cybersecurity,New York,USA,19104,229254
+2,Bachelor,Data Analyst,Melbourne,Australia,9625,115508
+6,Bachelor,Cloud Engineer,Singapore,Singapore,15955,191462
+10,Master,Cloud Engineer,Luxembourg,Luxembourg,24260,291126
+3,Bachelor,Cybersecurity,Melbourne,Australia,12938,155259
+1,Master,Software Engineer,Stockholm,Sweden,10373,124482
+9,Bachelor,Data Scientist,Boston,USA,20760,249120
+0,PhD,Cybersecurity,Birmingham,UK,7800,93600
+5,PhD,Data Analyst,Singapore,Singapore,13959,167514
+9,Master,ML Engineer,Toronto,Canada,18234,218819
+1,PhD,Software Engineer,Dublin,Ireland,13196,158353
+11,Master,Data Scientist,Osaka,Japan,16916,203003
+1,Bachelor,Software Engineer,Tokyo,Japan,9496,113957
+7,PhD,ML Engineer,Dublin,Ireland,17816,213801
+4,Master,Software Engineer,Toronto,Canada,14004,168049
+1,PhD,Data Analyst,Tokyo,Japan,9473,113686
+1,PhD,Data Analyst,Singapore,Singapore,12335,148030
+5,Bachelor,Cloud Engineer,Berlin,Germany,12247,146965
+3,PhD,Software Engineer,Montreal,Canada,13032,156384
+7,Master,Software Engineer,Edinburgh,UK,9382,112594
+5,Bachelor,ML Engineer,Chennai,India,6157,73895
+1,PhD,Cybersecurity,Tokyo,Japan,12440,149283
+5,Bachelor,Data Scientist,Austin,USA,17337,208045
+9,Master,Data Analyst,Munich,Germany,15807,189693
+1,Bachelor,Cybersecurity,London,UK,9571,114857
+0,PhD,ML Engineer,Montreal,Canada,12870,154440
+8,PhD,Data Analyst,Paris,France,11444,137332
+6,Master,Software Engineer,Hamburg,Germany,13063,156758
+0,Master,ML Engineer,Zurich,Switzerland,21450,257400
+2,Master,Cybersecurity,Munich,Germany,12375,148500
+7,Master,Data Analyst,London,UK,10531,126380
+8,Bachelor,Software Engineer,Luxembourg,Luxembourg,19906,238872
+2,Bachelor,Software Engineer,Brisbane,Australia,11138,133664
+11,Bachelor,Data Scientist,Luxembourg,Luxembourg,22818,273823
+2,Master,Software Engineer,Singapore,Singapore,14016,168198
+9,PhD,Cloud Engineer,Kuala Lumpur,Malaysia,8662,103953
+4,Bachelor,Software Engineer,Tokyo,Japan,10994,131934
+6,Master,ML Engineer,Paris,France,15685,188229
+6,Master,ML Engineer,Melbourne,Australia,18498,221977
+1,Master,Cloud Engineer,Dubai,UAE,13458,161503
+0,PhD,Cybersecurity,Dublin,Ireland,14040,168480
+8,PhD,Data Analyst,Osaka,Japan,14645,175747
+10,Bachelor,Cloud Engineer,Kuala Lumpur,Malaysia,8205,98460
+7,PhD,Cybersecurity,Montreal,Canada,16226,194715
+4,Master,Software Engineer,Toronto,Canada,12661,151932
+2,Bachelor,ML Engineer,Frankfurt,Germany,11145,133746
+3,PhD,Data Analyst,Zurich,Switzerland,18697,224370
+8,Bachelor,Cloud Engineer,Singapore,Singapore,16002,192026
+11,Master,Cloud Engineer,Lyon,France,18119,217437
+8,Bachelor,Cybersecurity,Dublin,Ireland,16892,202704
+6,PhD,Data Scientist,Dublin,Ireland,17199,206395
+6,PhD,Software Engineer,Pune,India,7890,94689
+2,Bachelor,Data Analyst,Pune,India,2670,32046
+6,Bachelor,Data Scientist,Kuala Lumpur,Malaysia,4880,58566
+2,Master,Data Analyst,Geneva,Switzerland,14952,179434
+8,Bachelor,Software Engineer,Singapore,Singapore,18390,220684
+5,Master,ML Engineer,Madrid,Spain,8503,102041
+11,PhD,Cybersecurity,Toronto,Canada,19019,228238
+0,PhD,Cloud Engineer,Sydney,Australia,16250,195000
+0,Bachelor,Software Engineer,Berlin,Germany,8066,96800
+2,Master,Data Analyst,Perth,Australia,9735,116820
+3,Bachelor,Software Engineer,Singapore,Singapore,13666,163994
+11,PhD,Cloud Engineer,Lyon,France,17755,213061
+4,Master,Data Scientist,Abu Dhabi,UAE,14616,175401
+10,Bachelor,Data Analyst,Osaka,Japan,14888,178660
+3,Bachelor,Data Analyst,San Francisco,USA,14954,179454
+2,Bachelor,Cybersecurity,Geneva,Switzerland,17500,210004
+8,Master,Cybersecurity,Dubai,UAE,17179,206148
+1,Bachelor,Software Engineer,Singapore,Singapore,12883,154598
+11,Master,Data Analyst,Zurich,Switzerland,20654,247859
+11,PhD,Data Analyst,Vancouver,Canada,20556,246678
+0,Bachelor,Cloud Engineer,London,UK,9479,113750
+9,Master,Data Analyst,Kuala Lumpur,Malaysia,10464,125571
+1,PhD,Cloud Engineer,Dubai,UAE,14219,170638
+7,Bachelor,Cybersecurity,Mumbai,India,4199,50388
+1,Bachelor,Cloud Engineer,Kuala Lumpur,Malaysia,3731,44777
+5,Master,ML Engineer,Barcelona,Spain,10544,126533
+3,PhD,Data Scientist,Singapore,Singapore,18202,218426
+3,Bachelor,Software Engineer,Rotterdam,Netherlands,11417,137004
+0,Bachelor,Data Analyst,Pune,India,1650,19800
+3,PhD,Data Scientist,Zurich,Switzerland,23910,286923
+5,Bachelor,Software Engineer,Toronto,Canada,12041,144500
+12,Bachelor,Cloud Engineer,Kuala Lumpur,Malaysia,9468,113622
+3,Master,Software Engineer,Abu Dhabi,UAE,11412,136946
+5,PhD,Software Engineer,San Francisco,USA,24442,293310
+2,Bachelor,Software Engineer,Birmingham,UK,6473,77684
+0,Bachelor,Software Engineer,Mumbai,India,2200,26400
+6,Master,Software Engineer,Geneva,Switzerland,19748,236979
+5,PhD,Data Analyst,Osaka,Japan,9779,117354
+2,Master,Data Scientist,Vancouver,Canada,14445,173340
+11,Master,Data Scientist,Birmingham,UK,10492,125911
+5,PhD,Software Engineer,Tokyo,Japan,12770,153240
+7,Bachelor,Data Analyst,Lyon,France,10640,127687
+1,Bachelor,Cybersecurity,Luxembourg,Luxembourg,15708,188506
+2,Bachelor,Data Analyst,Dublin,Ireland,9694,116336
+2,Bachelor,Data Scientist,Montreal,Canada,11494,137936
+9,Master,Data Scientist,Tokyo,Japan,14810,177724
+6,PhD,Data Scientist,Osaka,Japan,12797,153568
+5,Bachelor,Software Engineer,Delhi,India,4534,54415
+2,Master,ML Engineer,Barcelona,Spain,7817,93810
+0,Master,Cybersecurity,Amsterdam,Netherlands,12155,145860
+5,Bachelor,ML Engineer,Seattle,USA,19406,232875
+11,Bachelor,Cybersecurity,Barcelona,Spain,13929,167150
+9,Master,Data Scientist,Luxembourg,Luxembourg,20263,243167
+10,PhD,Cybersecurity,Osaka,Japan,16175,194100
+4,PhD,ML Engineer,Toronto,Canada,15728,188740
+10,Bachelor,ML Engineer,Vancouver,Canada,17412,208950
+6,Bachelor,ML Engineer,Stockholm,Sweden,14543,174522
+12,PhD,Cloud Engineer,Stockholm,Sweden,16488,197856
+6,Master,Data Analyst,Perth,Australia,13547,162571
+2,Master,Data Analyst,Amsterdam,Netherlands,9750,117000
+5,Bachelor,Data Scientist,Stockholm,Sweden,11224,134690
+5,PhD,Cybersecurity,Geneva,Switzerland,23810,285720
+2,Bachelor,ML Engineer,Luxembourg,Luxembourg,17915,214988
+6,Bachelor,Cloud Engineer,Edinburgh,UK,10164,121979
+2,PhD,Data Analyst,Hamburg,Germany,8558,102700
+8,Master,ML Engineer,Abu Dhabi,UAE,19200,230410
+6,PhD,Cloud Engineer,Luxembourg,Luxembourg,23958,287505
+5,PhD,Data Scientist,Stockholm,Sweden,14697,176370
+7,Bachelor,Data Scientist,Zurich,Switzerland,22945,275346
+4,Master,Software Engineer,Berlin,Germany,10327,123934
+11,Bachelor,Cloud Engineer,Barcelona,Spain,9929,119154
+10,Bachelor,Software Engineer,Austin,USA,18314,219770
+8,Master,Cloud Engineer,Madrid,Spain,9939,119273
+8,Master,Data Analyst,Stockholm,Sweden,12860,154325
+7,Master,Cybersecurity,Boston,USA,19770,237250
+10,Master,ML Engineer,Kuala Lumpur,Malaysia,9544,114532
+5,Bachelor,Data Analyst,Berlin,Germany,9755,117065
+6,Master,Data Scientist,Kuala Lumpur,Malaysia,8717,104610
+9,Master,Software Engineer,London,UK,13436,161243
+4,Master,Cybersecurity,Hamburg,Germany,11258,135102
+11,Bachelor,Cloud Engineer,Kuala Lumpur,Malaysia,8622,103466
+0,Bachelor,Data Scientist,Perth,Australia,11000,132000
+6,PhD,ML Engineer,Dubai,UAE,16712,200546
+12,Bachelor,Data Scientist,Bangalore,India,9196,110352
+8,PhD,Cloud Engineer,Berlin,Germany,16895,202742
+2,Master,Software Engineer,Vancouver,Canada,13045,156545
+4,Master,ML Engineer,Osaka,Japan,11841,142093
+9,PhD,ML Engineer,Melbourne,Australia,21025,252302
+9,Master,Software Engineer,Berlin,Germany,13338,160058
+11,PhD,Software Engineer,Singapore,Singapore,25520,306240
+7,Master,Data Scientist,Kuala Lumpur,Malaysia,6356,76277
+1,PhD,Cloud Engineer,Pune,India,3411,40932
+10,Master,Cloud Engineer,Madrid,Spain,14003,168036
+2,Master,Cloud Engineer,Brisbane,Australia,13650,163801
+7,Master,Software Engineer,Berlin,Germany,11959,143517
+7,PhD,ML Engineer,Sydney,Australia,23299,279592
+5,Master,Data Analyst,Vancouver,Canada,13501,162013
+9,Bachelor,Data Analyst,Osaka,Japan,9243,110925
+2,Bachelor,Data Analyst,Luxembourg,Luxembourg,13085,157022
+4,Bachelor,Software Engineer,Seattle,USA,15439,185268
+12,PhD,Data Scientist,Madrid,Spain,16496,197956
+2,Master,Software Engineer,New York,USA,18039,216475
+11,Master,Cloud Engineer,Tokyo,Japan,16254,195058
+1,Bachelor,Software Engineer,Melbourne,Australia,11746,140953
+3,Master,Cybersecurity,Stockholm,Sweden,12711,152535
+6,Master,Cloud Engineer,Luxembourg,Luxembourg,20135,241628
+11,Master,Cybersecurity,Abu Dhabi,UAE,14523,174279
+4,PhD,Software Engineer,Stockholm,Sweden,13418,161020
+7,Master,Data Analyst,Hamburg,Germany,10295,123548
+6,PhD,Data Scientist,Dublin,Ireland,17125,205509
+11,Master,Data Analyst,Seattle,USA,22026,264320
+11,PhD,Cybersecurity,Geneva,Switzerland,30244,362937
+6,Master,Data Scientist,Vancouver,Canada,15594,187136
+3,Bachelor,Cloud Engineer,Sydney,Australia,15073,180884
+12,Master,Cybersecurity,Singapore,Singapore,20654,247856
+4,Master,Software Engineer,Singapore,Singapore,16828,201942
+0,PhD,Software Engineer,Abu Dhabi,UAE,11220,134640
+7,Bachelor,Data Analyst,Lyon,France,11180,134162
+7,Bachelor,Data Scientist,Chennai,India,6043,72517
+1,Master,Data Scientist,Perth,Australia,12740,152884
+12,Bachelor,Cloud Engineer,Delhi,India,7002,84032
+12,PhD,ML Engineer,Dublin,Ireland,21117,253411
+6,PhD,ML Engineer,Pune,India,6340,76080
+9,PhD,Cybersecurity,Boston,USA,24985,299829
+11,PhD,Cybersecurity,Luxembourg,Luxembourg,26687,320245
+6,PhD,Data Scientist,Chennai,India,5002,60026
+3,Bachelor,Cybersecurity,Kuala Lumpur,Malaysia,5675,68109
+3,Bachelor,Data Analyst,Dublin,Ireland,10285,123420
+2,PhD,Cybersecurity,Geneva,Switzerland,21021,252259
+6,Master,Data Analyst,Luxembourg,Luxembourg,17175,206104
+8,Bachelor,ML Engineer,Edinburgh,UK,13002,156030
+0,PhD,Data Analyst,Barcelona,Spain,5400,64800
+1,Master,ML Engineer,Manchester,UK,8963,107565
+9,Master,Cloud Engineer,Singapore,Singapore,18521,222257
+11,Bachelor,Cloud Engineer,Tokyo,Japan,16593,199117
+2,Bachelor,Software Engineer,Manchester,UK,7640,91680
+12,Bachelor,Software Engineer,Zurich,Switzerland,20456,245472
+2,Master,ML Engineer,Zurich,Switzerland,23016,276199
+10,Master,Software Engineer,Singapore,Singapore,20828,249942
+0,PhD,Cybersecurity,Rotterdam,Netherlands,12240,146880
+7,Bachelor,Software Engineer,Austin,USA,16827,201935
+1,Master,Data Scientist,Luxembourg,Luxembourg,17825,213907
+9,Bachelor,ML Engineer,Zurich,Switzerland,22221,266661
+1,Master,Cloud Engineer,Melbourne,Australia,14547,174575
+4,Bachelor,Software Engineer,Kuala Lumpur,Malaysia,5403,64840
+2,Master,Data Analyst,Abu Dhabi,UAE,9567,114804
+5,Bachelor,Cybersecurity,Sydney,Australia,14563,174760
+3,Master,ML Engineer,Vancouver,Canada,16534,198409
+1,Master,Cloud Engineer,Tokyo,Japan,11517,138204
+2,PhD,ML Engineer,Brisbane,Australia,15819,189828
+5,Master,Data Analyst,Luxembourg,Luxembourg,14085,169026
+7,PhD,Data Scientist,Austin,USA,17976,215716
+10,Master,Data Scientist,Stockholm,Sweden,18065,216788
+3,PhD,Cybersecurity,Barcelona,Spain,8816,105793
+7,Bachelor,Data Scientist,Amsterdam,Netherlands,14798,177582
+1,PhD,Software Engineer,Dubai,UAE,12973,155686
+12,PhD,Data Analyst,Singapore,Singapore,21159,253915
+10,Bachelor,Software Engineer,Perth,Australia,14652,175830
+5,PhD,Data Scientist,Kuala Lumpur,Malaysia,6027,72324
+3,Master,ML Engineer,San Francisco,USA,23981,287773
+7,Bachelor,Cloud Engineer,Amsterdam,Netherlands,14578,174938
+5,PhD,ML Engineer,Osaka,Japan,13293,159522
+4,PhD,ML Engineer,Delhi,India,5132,61593
+8,PhD,Data Scientist,Luxembourg,Luxembourg,23054,276652
+3,Master,Data Analyst,Tokyo,Japan,9472,113668
+4,PhD,Data Analyst,Edinburgh,UK,8651,103816
+10,PhD,Cybersecurity,San Francisco,USA,29139,349668
+12,Master,Cloud Engineer,Dublin,Ireland,17907,214889

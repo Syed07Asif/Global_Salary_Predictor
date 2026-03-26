@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Salary Predictor</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            background: linear-gradient(to right, #4facfe, #00f2fe);
+        }
+
+        .container {
+            width: 420px;
+            margin: 60px auto;
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0px 10px 25px rgba(0,0,0,0.2);
+        }
+
+        input, select {
+            width: 100%;
+            padding: 10px;
+            margin: 8px 0;
+        }
+
+        button {
+            width: 48%;
+            padding: 10px;
+            margin-top: 10px;
+            border: none;
+            color: white;
+            cursor: pointer;
+        }
+
+        .predict {
+            background: #4facfe;
+        }
+
+        .reset {
+            background: #ff5c5c;
+        }
+
+        .result {
+            text-align: center;
+            margin-top: 15px;
+            font-weight: bold;
+        }
+    </style>
+
+    <script>
+        const countryLocations = {
+            "USA": ["New York","San Francisco","Seattle","Austin","Chicago","Boston"],
+            "UK": ["London","Manchester","Birmingham","Edinburgh"],
+            "Germany": ["Berlin","Munich","Frankfurt","Hamburg"],
+            "Australia": ["Sydney","Melbourne","Brisbane","Perth"],
+            "India": ["Bangalore","Hyderabad","Mumbai","Delhi","Chennai","Pune"],
+            "UAE": ["Dubai","Abu Dhabi"],
+            "Singapore": ["Singapore"],
+            "Malaysia": ["Kuala Lumpur"],
+            "Spain": ["Madrid","Barcelona"],
+            "Netherlands": ["Amsterdam","Rotterdam"],
+            "Ireland": ["Dublin"],
+            "Luxembourg": ["Luxembourg"],
+            "Canada": ["Toronto","Vancouver","Montreal"],
+            "France": ["Paris","Lyon"],
+            "Switzerland": ["Zurich","Geneva"],
+            "Sweden": ["Stockholm"],
+            "Japan": ["Tokyo","Osaka"]
+        };
+
+        function updateLocations() {
+            const country = document.getElementById("country").value;
+            const locationDropdown = document.getElementById("location");
+
+            locationDropdown.innerHTML = "";
+
+            countryLocations[country].forEach(loc => {
+                const option = document.createElement("option");
+                option.value = loc;
+                option.text = loc;
+                locationDropdown.appendChild(option);
+            });
+        }
+
+        function resetForm() {
+            window.location.href = "/";
+        }
+    </script>
+</head>
+
+<body>
+
+<div class="container">
+    <h2>💰 Salary Predictor</h2>
+
+    <form action="/predict" method="post">
+
+        <input type="number" name="experience" placeholder="Experience"
+               value="{{ form_data.experience if form_data else '' }}" required>
+
+        <select name="education">
+            <option {% if form_data and form_data.education=='Bachelor' %}selected{% endif %}>Bachelor</option>
+            <option {% if form_data and form_data.education=='Master' %}selected{% endif %}>Master</option>
+            <option {% if form_data and form_data.education=='PhD' %}selected{% endif %}>PhD</option>
+        </select>
+
+        <select name="jobrole">
+            {% for role in ["Data Scientist","ML Engineer","Software Engineer","Data Analyst","Cloud Engineer","Cybersecurity"] %}
+            <option {% if form_data and form_data.jobrole==role %}selected{% endif %}>{{ role }}</option>
+            {% endfor %}
+        </select>
+
+        <select name="country" id="country" onchange="updateLocations()">
+            {% for c in ["USA","UK","Germany","Australia","India","UAE","Singapore","Malaysia","Spain","Netherlands","Ireland","Luxembourg","Canada","France","Switzerland","Sweden","Japan"] %}
+            <option {% if form_data and form_data.country==c %}selected{% endif %}>{{ c }}</option>
+            {% endfor %}
+        </select>
+
+        <select name="location" id="location"></select>
+
+        <div style="display:flex; justify-content:space-between;">
+            <button class="predict" type="submit">Predict</button>
+            <button class="reset" type="button" onclick="resetForm()">Reset</button>
+        </div>
+
+    </form>
+
+    <div class="result">
+        {{ prediction_text }}
+    </div>
+</div>
+
+<script>
+    updateLocations();
+</script>
+
+</body>
+</html>
