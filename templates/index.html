@@ -3,19 +3,23 @@
 <head>
     <title>Global Salary Predictor</title>
 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- 🔥 GOOGLE FONTS -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+
     <style>
         body {
             margin: 0;
-            font-family: Arial;
-            height: 100vh;
+            font-family: 'Inter', sans-serif;
+            min-height: 100vh;
             display: flex;
-            justify-content: center;   /* horizontal center */
-            align-items: center;       /* vertical center */
-            overflow: hidden;
+            justify-content: center;
+            align-items: center;
             background: url("/static/images/GSP_bg1.jpg") no-repeat center center/cover;
         }
 
-        /* Background slideshow */
+        /* Background */
         .background {
             position: fixed;
             width: 100%;
@@ -36,44 +40,87 @@
             opacity: 1;
         }
 
-        /* Glass card */
+        /* Container */
         .container {
-            width: 420px;
-            background: rgba(0, 0, 0, 0.5);
-             padding: 25px;
-            border-radius: 12px;
-            backdrop-filter: blur(10px);
-            box-shadow: 0px 10px 25px rgba(0,0,0,0.3);
-            color: rgb(151, 199, 225);
-}
+            width: 90%;
+            max-width: 420px;
+            background: rgba(0, 0, 0, 0.55);
+            padding: 25px;
+            border-radius: 14px;
+            backdrop-filter: blur(15px);
+            box-shadow: 0px 15px 45px rgba(0,0,0,0.6);
+            color: white;
+        }
+
+        /* 🔥 GRADIENT TITLE */
+        h2 {
+            font-family: 'Poppins', sans-serif;
+            text-align: center;
+            font-size: 24px;
+            background: linear-gradient(45deg, #00c6ff, #7b2ff7);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 20px;
+        }
+
         input, select {
             width: 100%;
-            padding: 10px;
+            padding: 12px;
             margin: 8px 0;
-            border-radius: 6px;
+            border-radius: 8px;
             border: none;
+            font-size: 14px;
+        }
+
+        .btn-group {
+            display: flex;
+            justify-content: space-between;
         }
 
         button {
             width: 48%;
-            padding: 10px;
+            padding: 12px;
             border: none;
-            color: rgb(241, 252, 90);
+            color: white;
             cursor: pointer;
+            font-size: 14px;
+            border-radius: 8px;
+            transition: 0.3s;
         }
 
         .predict {
-            background: #8105e7;
+            background: linear-gradient(45deg, #7b2ff7, #f107a3);
         }
 
         .reset {
-            background: #b312c8;
+            background: linear-gradient(45deg, #ff416c, #ff4b2b);
+        }
+
+        button:hover {
+            transform: scale(1.05);
         }
 
         .result {
             text-align: center;
             margin-top: 15px;
-            font-weight: bold;
+            font-weight: 500;
+        }
+
+        /* MOBILE */
+        @media (max-width: 600px) {
+            .container {
+                width: 95%;
+                padding: 15px;
+            }
+
+            .btn-group {
+                flex-direction: column;
+            }
+
+            button {
+                width: 100%;
+                margin-top: 10px;
+            }
         }
     </style>
 
@@ -120,7 +167,6 @@
 
 <body>
 
-<!-- Background slideshow -->
 <div class="background">
     <img src="{{ url_for('static', filename='images/GSP_bg1.jpg') }}" class="active">
     <img src="{{ url_for('static', filename='images/GSP_bg2.jpg') }}">
@@ -157,7 +203,7 @@
 
         <select name="location" id="location"></select>
 
-        <div style="display:flex; justify-content:space-between;">
+        <div class="btn-group">
             <button class="predict" type="submit">Predict</button>
             <button class="reset" type="button" onclick="resetForm()">Reset</button>
         </div>
@@ -179,7 +225,7 @@
         images[index].classList.remove("active");
         index = (index + 1) % images.length;
         images[index].classList.add("active");
-    }, 5000);
+    }, 4000);
 </script>
 
 </body>
