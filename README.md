@@ -1,4 +1,4 @@
-# 💰 Global Salary Predictor Web App
+# Global Salary Predictor Web App
 
 This is a machine learning web application that predicts salary based on:
 
@@ -8,25 +8,25 @@ This is a machine learning web application that predicts salary based on:
 - Country
 - City
 
-## 🚀 Features
+## Features
 - Realistic salary prediction (ML model)
 - Multi-country support
 - Dynamic location selection
 - Monthly & Annual salary output
 - Clean UI
 
-## 🛠 Tech Stack
+## Tech Stack
 - Python
 - Flask
 - Scikit-learn
 - Pandas
 - HTML/CSS/JavaScript
 
-## 📊 Model
+## Model
 - Algorithm: Random Forest Regressor
 - Pipeline: OneHotEncoding + ML Model
 
-## ▶️ Run Locally
+## Run Locally
 
 ```bash
 pip install -r requirements.txt
